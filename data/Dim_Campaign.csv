@@ -1,0 +1,14 @@
+CampaignID,Channel,Subchannel,CampaignName
+C001,Google Ads,Search,Google Ads | Search | DuckAI EU #1
+C002,Google Ads,Search,Google Ads | Search | DuckAI EU #2
+C003,Google Ads,Display,Google Ads | Display | DuckAI EU #1
+C004,Google Ads,Display,Google Ads | Display | DuckAI EU #2
+C005,Meta Ads,Instagram,Meta Ads | Instagram | DuckAI EU #1
+C006,Meta Ads,Instagram,Meta Ads | Instagram | DuckAI EU #2
+C007,Meta Ads,Facebook,Meta Ads | Facebook | DuckAI EU #1
+C008,Meta Ads,Facebook,Meta Ads | Facebook | DuckAI EU #2
+C009,LinkedIn Ads,Sponsored Content,LinkedIn Ads | Sponsored Content | DuckAI EU #1
+C010,LinkedIn Ads,Sponsored Content,LinkedIn Ads | Sponsored Content | DuckAI EU #2
+C011,Reddit Ads,Interest,Reddit Ads | Interest | DuckAI EU #1
+C012,Reddit Ads,Interest,Reddit Ads | Interest | DuckAI EU #2
+C000,Organic,Direct/SEO,Organic / Direct

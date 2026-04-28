@@ -1,0 +1,2224 @@
+Date,CampaignID,CountryCode,Channel,Subchannel,Impressions,Clicks,SpendEUR,CPC_EUR,Signups,PaidUsers
+2025-08-01,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-01,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-01,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-01,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-01,C001,NL,Google Ads,Search,238,1.0,1.11,1.11,1.0,0.0
+2025-08-01,C002,DE,Google Ads,Search,147,1.0,1.55,1.55,1.0,0.0
+2025-08-01,C005,FR,Meta Ads,Instagram,80,1.0,0.7,0.7,1.0,0.0
+2025-08-01,C006,NL,Meta Ads,Instagram,93,1.0,0.84,0.84,1.0,0.0
+2025-08-01,C008,ES,Meta Ads,Facebook,84,1.0,0.73,0.73,1.0,0.0
+2025-08-01,C008,FR,Meta Ads,Facebook,116,1.0,0.79,0.79,1.0,0.0
+2025-08-01,C010,DE,LinkedIn Ads,Sponsored Content,64,1.0,2.92,2.92,1.0,0.0
+2025-08-01,C010,FR,LinkedIn Ads,Sponsored Content,66,1.0,3.37,3.37,1.0,0.0
+2025-08-02,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-02,C002,DE,Google Ads,Search,61,1.0,1.21,1.21,1.0,0.0
+2025-08-02,C002,FR,Google Ads,Search,72,1.0,1.29,1.29,1.0,0.0
+2025-08-02,C005,DE,Meta Ads,Instagram,117,1.0,0.74,0.74,1.0,0.0
+2025-08-02,C005,NL,Meta Ads,Instagram,74,1.0,0.67,0.67,1.0,0.0
+2025-08-02,C007,DE,Meta Ads,Facebook,122,1.0,0.74,0.74,1.0,0.0
+2025-08-02,C007,FR,Meta Ads,Facebook,64,1.0,0.93,0.93,1.0,0.0
+2025-08-02,C008,ES,Meta Ads,Facebook,85,1.0,0.67,0.67,1.0,0.0
+2025-08-02,C011,DE,Reddit Ads,Interest,89,1.0,0.96,0.96,1.0,0.0
+2025-08-03,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-03,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-03,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-03,C002,NL,Google Ads,Search,97,1.0,1.43,1.43,1.0,0.0
+2025-08-03,C006,DE,Meta Ads,Instagram,94,1.0,0.82,0.82,1.0,0.0
+2025-08-03,C009,FR,LinkedIn Ads,Sponsored Content,212,3.0,8.4,2.8,3.0,0.0
+2025-08-03,C010,DE,LinkedIn Ads,Sponsored Content,74,1.0,1.8,1.8,1.0,0.0
+2025-08-03,C011,NL,Reddit Ads,Interest,73,1.0,0.97,0.97,1.0,0.0
+2025-08-03,C011,PL,Reddit Ads,Interest,73,1.0,0.6,0.6,1.0,0.0
+2025-08-03,C012,FR,Reddit Ads,Interest,49,1.0,1.1,1.1,1.0,0.0
+2025-08-03,C012,PL,Reddit Ads,Interest,96,1.0,0.92,0.92,1.0,0.0
+2025-08-04,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-04,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-04,C002,NL,Google Ads,Search,69,1.0,1.38,1.38,1.0,0.0
+2025-08-04,C003,PL,Google Ads,Display,61,1.0,1.04,1.04,1.0,0.0
+2025-08-04,C004,PL,Google Ads,Display,87,1.0,0.92,0.92,1.0,0.0
+2025-08-04,C005,DE,Meta Ads,Instagram,116,1.0,0.73,0.73,1.0,0.0
+2025-08-04,C005,IT,Meta Ads,Instagram,115,1.0,0.7,0.7,1.0,0.0
+2025-08-04,C005,PL,Meta Ads,Instagram,68,1.0,0.65,0.65,1.0,0.0
+2025-08-04,C006,DE,Meta Ads,Instagram,67,1.0,0.71,0.71,1.0,0.0
+2025-08-04,C006,IT,Meta Ads,Instagram,71,1.0,0.99,0.99,1.0,0.0
+2025-08-04,C008,FR,Meta Ads,Facebook,107,1.0,0.79,0.79,0.0,0.0
+2025-08-04,C012,NL,Reddit Ads,Interest,77,1.0,1.04,1.04,1.0,0.0
+2025-08-05,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-05,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-05,C001,DE,Google Ads,Search,65,1.0,1.35,1.35,1.0,0.0
+2025-08-05,C002,DE,Google Ads,Search,78,1.0,1.47,1.47,1.0,0.0
+2025-08-05,C002,FR,Google Ads,Search,68,1.0,1.17,1.17,1.0,0.0
+2025-08-05,C004,DE,Google Ads,Display,81,1.0,0.83,0.83,1.0,0.0
+2025-08-05,C004,ES,Google Ads,Display,76,1.0,1.17,1.17,1.0,0.0
+2025-08-05,C004,IT,Google Ads,Display,69,1.0,1.35,1.35,1.0,0.0
+2025-08-05,C005,IT,Meta Ads,Instagram,162,1.0,0.6,0.6,1.0,0.0
+2025-08-05,C006,DE,Meta Ads,Instagram,93,1.0,0.68,0.68,1.0,0.0
+2025-08-05,C007,PL,Meta Ads,Facebook,198,2.0,1.26,0.63,2.0,0.0
+2025-08-05,C008,FR,Meta Ads,Facebook,529,5.0,4.3,0.86,1.0,0.0
+2025-08-05,C010,DE,LinkedIn Ads,Sponsored Content,92,1.0,3.11,3.11,0.0,0.0
+2025-08-05,C010,NL,LinkedIn Ads,Sponsored Content,56,1.0,3.07,3.07,1.0,0.0
+2025-08-05,C011,PL,Reddit Ads,Interest,117,1.0,0.98,0.98,1.0,0.0
+2025-08-05,C012,PL,Reddit Ads,Interest,126,2.0,1.78,0.89,2.0,0.0
+2025-08-06,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-06,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-06,C003,DE,Google Ads,Display,158,2.0,2.48,1.24,1.0,0.0
+2025-08-06,C005,FR,Meta Ads,Instagram,70,1.0,0.58,0.58,1.0,0.0
+2025-08-06,C007,PL,Meta Ads,Facebook,67,1.0,0.47,0.47,1.0,0.0
+2025-08-06,C008,FR,Meta Ads,Facebook,66,1.0,0.72,0.72,1.0,0.0
+2025-08-06,C008,IT,Meta Ads,Facebook,94,1.0,0.73,0.73,1.0,0.0
+2025-08-06,C010,DE,LinkedIn Ads,Sponsored Content,493,5.0,16.55,3.31,1.0,0.0
+2025-08-06,C012,DE,Reddit Ads,Interest,65,1.0,1.11,1.11,1.0,0.0
+2025-08-06,C012,FR,Reddit Ads,Interest,178,2.0,2.22,1.11,2.0,0.0
+2025-08-07,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-07,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-07,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-08-07,C002,FR,Google Ads,Search,71,1.0,1.02,1.02,1.0,0.0
+2025-08-07,C002,PL,Google Ads,Search,80,1.0,1.14,1.14,1.0,0.0
+2025-08-07,C003,DE,Google Ads,Display,135,2.0,2.58,1.29,1.0,0.0
+2025-08-07,C006,NL,Meta Ads,Instagram,97,1.0,0.97,0.97,1.0,0.0
+2025-08-07,C012,PL,Reddit Ads,Interest,79,1.0,1.1,1.1,1.0,0.0
+2025-08-08,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-08,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-08,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-08,C001,DE,Google Ads,Search,107,1.0,1.4,1.4,1.0,0.0
+2025-08-08,C002,ES,Google Ads,Search,95,1.0,1.13,1.13,1.0,0.0
+2025-08-08,C005,NL,Meta Ads,Instagram,95,1.0,0.61,0.61,1.0,0.0
+2025-08-08,C010,DE,LinkedIn Ads,Sponsored Content,0,0.0,0.0,3.13,0.0,1.0
+2025-08-08,C010,ES,LinkedIn Ads,Sponsored Content,72,1.0,2.34,2.34,1.0,0.0
+2025-08-08,C012,IT,Reddit Ads,Interest,99,1.0,0.87,0.87,1.0,0.0
+2025-08-09,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-09,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-09,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-09,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-09,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-09,C001,FR,Google Ads,Search,97,1.0,1.18,1.18,1.0,0.0
+2025-08-09,C002,PL,Google Ads,Search,86,1.0,1.49,1.49,1.0,0.0
+2025-08-09,C004,DE,Google Ads,Display,190,1.0,1.14,1.14,1.0,0.0
+2025-08-09,C005,DE,Meta Ads,Instagram,161,1.0,0.44,0.44,1.0,0.0
+2025-08-09,C005,FR,Meta Ads,Instagram,149,1.0,0.75,0.75,1.0,0.0
+2025-08-09,C006,PL,Meta Ads,Instagram,125,1.0,0.63,0.63,1.0,0.0
+2025-08-09,C007,FR,Meta Ads,Facebook,74,1.0,0.7,0.7,1.0,0.0
+2025-08-09,C007,PL,Meta Ads,Facebook,119,1.0,0.69,0.69,1.0,0.0
+2025-08-09,C010,FR,LinkedIn Ads,Sponsored Content,95,1.0,2.69,2.69,1.0,0.0
+2025-08-09,C010,IT,LinkedIn Ads,Sponsored Content,58,1.0,3.13,3.13,1.0,0.0
+2025-08-10,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-10,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-10,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-08-10,C001,ES,Google Ads,Search,89,1.0,0.92,0.92,0.0,0.0
+2025-08-10,C001,NL,Google Ads,Search,122,1.0,1.11,1.11,1.0,0.0
+2025-08-10,C002,DE,Google Ads,Search,94,1.0,1.32,1.32,1.0,0.0
+2025-08-10,C004,IT,Google Ads,Display,65,1.0,1.09,1.09,1.0,0.0
+2025-08-10,C005,FR,Meta Ads,Instagram,196,1.0,0.53,0.53,1.0,0.0
+2025-08-10,C005,NL,Meta Ads,Instagram,73,1.0,0.77,0.77,1.0,0.0
+2025-08-10,C006,NL,Meta Ads,Instagram,77,1.0,0.82,0.82,1.0,0.0
+2025-08-10,C006,PL,Meta Ads,Instagram,104,1.0,0.7,0.7,1.0,0.0
+2025-08-10,C007,PL,Meta Ads,Facebook,161,1.0,0.49,0.49,1.0,0.0
+2025-08-10,C008,IT,Meta Ads,Facebook,81,1.0,0.77,0.77,0.0,0.0
+2025-08-10,C011,PL,Reddit Ads,Interest,101,1.0,0.68,0.68,1.0,0.0
+2025-08-11,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-11,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-11,C001,ES,Google Ads,Search,217,4.0,5.04,1.26,1.0,0.0
+2025-08-11,C001,NL,Google Ads,Search,91,1.0,1.04,1.04,1.0,0.0
+2025-08-11,C002,FR,Google Ads,Search,126,1.0,0.99,0.99,1.0,0.0
+2025-08-11,C004,DE,Google Ads,Display,79,1.0,1.12,1.12,1.0,0.0
+2025-08-11,C005,DE,Meta Ads,Instagram,78,1.0,0.68,0.68,1.0,0.0
+2025-08-11,C005,NL,Meta Ads,Instagram,57,1.0,0.63,0.63,1.0,0.0
+2025-08-11,C005,PL,Meta Ads,Instagram,65,1.0,0.76,0.76,1.0,0.0
+2025-08-11,C006,DE,Meta Ads,Instagram,74,1.0,0.65,0.65,1.0,0.0
+2025-08-11,C006,NL,Meta Ads,Instagram,56,1.0,0.8,0.8,1.0,0.0
+2025-08-11,C008,IT,Meta Ads,Facebook,138,1.0,0.73,0.73,2.0,0.0
+2025-08-11,C011,PL,Reddit Ads,Interest,106,1.0,0.81,0.81,1.0,0.0
+2025-08-11,C012,IT,Reddit Ads,Interest,121,1.0,0.78,0.78,1.0,0.0
+2025-08-12,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-12,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-12,C001,ES,Google Ads,Search,69,1.0,0.9,0.9,1.0,0.0
+2025-08-12,C001,IT,Google Ads,Search,90,1.0,1.25,1.25,1.0,0.0
+2025-08-12,C004,FR,Google Ads,Display,163,1.0,1.14,1.14,1.0,0.0
+2025-08-12,C006,ES,Meta Ads,Instagram,126,1.0,0.45,0.45,1.0,0.0
+2025-08-12,C006,PL,Meta Ads,Instagram,75,1.0,0.64,0.64,1.0,0.0
+2025-08-12,C011,PL,Reddit Ads,Interest,65,1.0,0.78,0.78,1.0,0.0
+2025-08-13,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-13,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-13,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-08-13,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-13,C001,IT,Google Ads,Search,288,1.0,1.48,1.48,1.0,0.0
+2025-08-13,C005,ES,Meta Ads,Instagram,153,2.0,1.04,0.52,1.0,0.0
+2025-08-13,C005,PL,Meta Ads,Instagram,114,1.0,0.55,0.55,1.0,0.0
+2025-08-13,C006,DE,Meta Ads,Instagram,0,0.0,0.0,0.82,0.0,1.0
+2025-08-13,C007,FR,Meta Ads,Facebook,105,1.0,0.84,0.84,1.0,0.0
+2025-08-13,C008,ES,Meta Ads,Facebook,87,1.0,0.62,0.62,1.0,0.0
+2025-08-13,C008,IT,Meta Ads,Facebook,123,2.0,1.26,0.63,2.0,0.0
+2025-08-14,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-14,C001,DE,Google Ads,Search,88,1.0,1.31,1.31,0.0,0.0
+2025-08-14,C001,PL,Google Ads,Search,127,1.0,0.78,0.78,1.0,0.0
+2025-08-14,C003,FR,Google Ads,Display,189,1.0,0.86,0.86,1.0,0.0
+2025-08-14,C003,NL,Google Ads,Display,99,1.0,1.15,1.15,1.0,0.0
+2025-08-14,C005,ES,Meta Ads,Instagram,255,3.0,2.58,0.86,1.0,0.0
+2025-08-14,C006,ES,Meta Ads,Instagram,52,1.0,0.65,0.65,1.0,0.0
+2025-08-14,C006,IT,Meta Ads,Instagram,80,1.0,0.71,0.71,1.0,0.0
+2025-08-14,C008,DE,Meta Ads,Facebook,63,1.0,0.82,0.82,1.0,0.0
+2025-08-14,C012,FR,Reddit Ads,Interest,0,0.0,0.0,1.18,0.0,1.0
+2025-08-15,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-15,C001,DE,Google Ads,Search,614,5.0,5.5,1.1,1.0,0.0
+2025-08-15,C001,IT,Google Ads,Search,110,1.0,1.2,1.2,1.0,0.0
+2025-08-15,C002,PL,Google Ads,Search,49,1.0,1.53,1.53,1.0,0.0
+2025-08-15,C003,NL,Google Ads,Display,115,1.0,0.93,0.93,1.0,0.0
+2025-08-15,C006,NL,Meta Ads,Instagram,65,1.0,0.81,0.81,1.0,0.0
+2025-08-15,C010,ES,LinkedIn Ads,Sponsored Content,119,1.0,2.37,2.37,1.0,0.0
+2025-08-16,C001,FR,Google Ads,Search,64,1.0,1.22,1.22,1.0,0.0
+2025-08-16,C002,ES,Google Ads,Search,74,1.0,1.16,1.16,1.0,0.0
+2025-08-16,C003,DE,Google Ads,Display,88,1.0,1.03,1.03,1.0,0.0
+2025-08-16,C005,PL,Meta Ads,Instagram,84,1.0,0.6,0.6,1.0,0.0
+2025-08-16,C006,PL,Meta Ads,Instagram,107,1.0,0.73,0.73,1.0,0.0
+2025-08-16,C009,DE,LinkedIn Ads,Sponsored Content,73,1.0,3.22,3.22,1.0,0.0
+2025-08-16,C010,DE,LinkedIn Ads,Sponsored Content,196,2.0,5.5,2.75,2.0,0.0
+2025-08-16,C010,NL,LinkedIn Ads,Sponsored Content,141,1.0,2.83,2.83,0.0,0.0
+2025-08-16,C011,ES,Reddit Ads,Interest,145,1.0,0.98,0.98,1.0,0.0
+2025-08-17,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-17,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-17,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-17,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-08-17,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-17,C001,FR,Google Ads,Search,58,1.0,1.03,1.03,1.0,0.0
+2025-08-17,C001,IT,Google Ads,Search,78,1.0,1.33,1.33,1.0,0.0
+2025-08-17,C002,DE,Google Ads,Search,97,1.0,1.35,1.35,1.0,0.0
+2025-08-17,C002,FR,Google Ads,Search,61,1.0,1.67,1.67,1.0,0.0
+2025-08-17,C002,NL,Google Ads,Search,73,1.0,1.13,1.13,1.0,0.0
+2025-08-17,C006,IT,Meta Ads,Instagram,55,1.0,0.65,0.65,1.0,0.0
+2025-08-17,C009,FR,LinkedIn Ads,Sponsored Content,79,1.0,3.12,3.12,1.0,0.0
+2025-08-17,C010,ES,LinkedIn Ads,Sponsored Content,141,1.0,3.14,3.14,1.0,0.0
+2025-08-17,C010,FR,LinkedIn Ads,Sponsored Content,153,1.0,2.58,2.58,1.0,0.0
+2025-08-17,C010,NL,LinkedIn Ads,Sponsored Content,269,5.0,13.15,2.63,1.0,0.0
+2025-08-18,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-08-18,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-18,C001,FR,Google Ads,Search,96,1.0,1.3,1.3,1.0,0.0
+2025-08-18,C002,DE,Google Ads,Search,56,1.0,1.05,1.05,1.0,0.0
+2025-08-18,C002,PL,Google Ads,Search,132,1.0,1.13,1.13,1.0,0.0
+2025-08-18,C004,IT,Google Ads,Display,119,1.0,1.22,1.22,1.0,0.0
+2025-08-18,C009,IT,LinkedIn Ads,Sponsored Content,69,1.0,3.22,3.22,1.0,0.0
+2025-08-18,C010,DE,LinkedIn Ads,Sponsored Content,96,1.0,2.55,2.55,1.0,0.0
+2025-08-18,C011,DE,Reddit Ads,Interest,83,1.0,0.65,0.65,1.0,0.0
+2025-08-19,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-08-19,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-19,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-08-19,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-19,C002,PL,Google Ads,Search,69,1.0,0.86,0.86,1.0,1.0
+2025-08-19,C004,DE,Google Ads,Display,263,1.0,0.97,0.97,1.0,0.0
+2025-08-19,C005,DE,Meta Ads,Instagram,85,1.0,0.56,0.56,1.0,0.0
+2025-08-19,C005,FR,Meta Ads,Instagram,116,1.0,0.68,0.68,1.0,0.0
+2025-08-19,C005,NL,Meta Ads,Instagram,140,1.0,0.58,0.58,1.0,0.0
+2025-08-19,C007,PL,Meta Ads,Facebook,0,0.0,0.0,0.63,0.0,1.0
+2025-08-19,C008,DE,Meta Ads,Facebook,94,1.0,0.62,0.62,1.0,0.0
+2025-08-19,C011,PL,Reddit Ads,Interest,64,1.0,0.84,0.84,1.0,0.0
+2025-08-20,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-08-20,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-20,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-20,C001,DE,Google Ads,Search,94,1.0,1.44,1.44,1.0,0.0
+2025-08-20,C002,ES,Google Ads,Search,62,1.0,1.32,1.32,1.0,0.0
+2025-08-20,C003,DE,Google Ads,Display,71,1.0,1.2,1.2,1.0,0.0
+2025-08-20,C004,ES,Google Ads,Display,58,1.0,1.12,1.12,1.0,0.0
+2025-08-20,C005,DE,Meta Ads,Instagram,88,1.0,0.65,0.65,1.0,0.0
+2025-08-20,C007,IT,Meta Ads,Facebook,109,1.0,0.73,0.73,0.0,0.0
+2025-08-20,C010,DE,LinkedIn Ads,Sponsored Content,90,1.0,3.05,3.05,1.0,0.0
+2025-08-20,C012,PL,Reddit Ads,Interest,154,2.0,1.56,0.78,2.0,0.0
+2025-08-21,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-21,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-08-21,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-21,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-21,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-08-21,C001,FR,Google Ads,Search,51,1.0,1.21,1.21,1.0,0.0
+2025-08-21,C001,IT,Google Ads,Search,0,0.0,0.0,0.83,0.0,1.0
+2025-08-21,C001,NL,Google Ads,Search,92,1.0,1.24,1.24,1.0,0.0
+2025-08-21,C002,DE,Google Ads,Search,163,1.0,1.34,1.34,1.0,0.0
+2025-08-21,C002,NL,Google Ads,Search,0,0.0,0.0,1.15,0.0,1.0
+2025-08-21,C004,FR,Google Ads,Display,75,1.0,1.53,1.53,1.0,0.0
+2025-08-21,C004,NL,Google Ads,Display,59,1.0,1.04,1.04,1.0,0.0
+2025-08-21,C006,DE,Meta Ads,Instagram,110,1.0,0.72,0.72,1.0,0.0
+2025-08-21,C007,DE,Meta Ads,Facebook,107,1.0,0.7,0.7,1.0,0.0
+2025-08-21,C007,ES,Meta Ads,Facebook,293,1.0,0.69,0.69,1.0,0.0
+2025-08-21,C007,IT,Meta Ads,Facebook,352,4.0,2.76,0.69,1.0,0.0
+2025-08-21,C012,DE,Reddit Ads,Interest,129,1.0,0.91,0.91,1.0,0.0
+2025-08-22,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-22,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-22,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,1.0
+2025-08-22,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,3.0,0.0
+2025-08-22,C002,ES,Google Ads,Search,163,1.0,1.35,1.35,1.0,0.0
+2025-08-22,C003,FR,Google Ads,Display,49,1.0,1.45,1.45,1.0,0.0
+2025-08-22,C005,FR,Meta Ads,Instagram,146,1.0,0.7,0.7,1.0,0.0
+2025-08-22,C005,NL,Meta Ads,Instagram,0,0.0,0.0,0.79,0.0,1.0
+2025-08-22,C008,DE,Meta Ads,Facebook,52,1.0,0.63,0.63,1.0,0.0
+2025-08-22,C008,IT,Meta Ads,Facebook,42,1.0,0.78,0.78,1.0,0.0
+2025-08-22,C010,PL,LinkedIn Ads,Sponsored Content,137,1.0,2.48,2.48,1.0,0.0
+2025-08-23,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-23,C002,FR,Google Ads,Search,75,1.0,1.4,1.4,1.0,0.0
+2025-08-23,C003,IT,Google Ads,Display,53,1.0,1.6,1.6,1.0,0.0
+2025-08-23,C003,NL,Google Ads,Display,124,1.0,1.18,1.18,0.0,0.0
+2025-08-23,C006,DE,Meta Ads,Instagram,91,1.0,0.47,0.47,1.0,0.0
+2025-08-23,C006,FR,Meta Ads,Instagram,66,1.0,0.64,0.64,1.0,0.0
+2025-08-23,C007,FR,Meta Ads,Facebook,73,1.0,0.83,0.83,0.0,0.0
+2025-08-23,C007,IT,Meta Ads,Facebook,95,1.0,0.76,0.76,1.0,0.0
+2025-08-23,C007,PL,Meta Ads,Facebook,87,1.0,0.73,0.73,1.0,0.0
+2025-08-23,C008,NL,Meta Ads,Facebook,154,1.0,0.81,0.81,1.0,0.0
+2025-08-23,C012,IT,Reddit Ads,Interest,91,1.0,0.97,0.97,1.0,0.0
+2025-08-23,C012,NL,Reddit Ads,Interest,91,1.0,1.06,1.06,1.0,0.0
+2025-08-24,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-24,C001,FR,Google Ads,Search,102,1.0,1.37,1.37,1.0,0.0
+2025-08-24,C002,PL,Google Ads,Search,72,1.0,1.47,1.47,1.0,0.0
+2025-08-24,C003,FR,Google Ads,Display,125,2.0,2.52,1.26,2.0,0.0
+2025-08-24,C003,NL,Google Ads,Display,238,3.0,4.08,1.36,1.0,0.0
+2025-08-24,C005,ES,Meta Ads,Instagram,75,1.0,0.67,0.67,1.0,0.0
+2025-08-24,C006,DE,Meta Ads,Instagram,82,1.0,0.64,0.64,1.0,0.0
+2025-08-24,C007,FR,Meta Ads,Facebook,250,3.0,2.64,0.88,1.0,0.0
+2025-08-24,C007,NL,Meta Ads,Facebook,110,1.0,0.72,0.72,0.0,0.0
+2025-08-24,C008,FR,Meta Ads,Facebook,75,1.0,0.78,0.78,1.0,0.0
+2025-08-24,C009,FR,LinkedIn Ads,Sponsored Content,86,1.0,2.85,2.85,1.0,0.0
+2025-08-25,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-25,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-25,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-25,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-08-25,C001,ES,Google Ads,Search,132,1.0,1.09,1.09,1.0,0.0
+2025-08-25,C001,NL,Google Ads,Search,60,1.0,1.2,1.2,1.0,0.0
+2025-08-25,C002,ES,Google Ads,Search,77,1.0,1.46,1.46,1.0,0.0
+2025-08-25,C004,DE,Google Ads,Display,72,1.0,1.3,1.3,1.0,0.0
+2025-08-25,C004,PL,Google Ads,Display,199,1.0,0.89,0.89,1.0,0.0
+2025-08-25,C007,NL,Meta Ads,Facebook,318,5.0,3.4,0.68,1.0,0.0
+2025-08-25,C011,DE,Reddit Ads,Interest,72,1.0,1.14,1.14,1.0,0.0
+2025-08-26,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-26,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-08-26,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-08-26,C001,FR,Google Ads,Search,164,2.0,2.32,1.16,2.0,0.0
+2025-08-26,C005,IT,Meta Ads,Instagram,92,1.0,0.51,0.51,1.0,0.0
+2025-08-26,C005,NL,Meta Ads,Instagram,86,1.0,0.9,0.9,1.0,0.0
+2025-08-26,C005,PL,Meta Ads,Instagram,91,1.0,0.77,0.77,1.0,0.0
+2025-08-26,C006,PL,Meta Ads,Instagram,79,1.0,0.69,0.69,1.0,1.0
+2025-08-26,C007,PL,Meta Ads,Facebook,56,1.0,0.66,0.66,1.0,0.0
+2025-08-26,C008,NL,Meta Ads,Facebook,333,1.0,0.81,0.81,1.0,0.0
+2025-08-26,C012,DE,Reddit Ads,Interest,90,1.0,0.83,0.83,1.0,0.0
+2025-08-27,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,3.0,0.0
+2025-08-27,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-27,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-27,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-27,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-08-27,C005,FR,Meta Ads,Instagram,53,1.0,0.82,0.82,1.0,0.0
+2025-08-27,C006,DE,Meta Ads,Instagram,171,1.0,0.76,0.76,1.0,0.0
+2025-08-27,C006,IT,Meta Ads,Instagram,65,1.0,0.73,0.73,1.0,1.0
+2025-08-27,C006,PL,Meta Ads,Instagram,94,1.0,0.72,0.72,1.0,0.0
+2025-08-27,C008,PL,Meta Ads,Facebook,85,1.0,0.68,0.68,1.0,0.0
+2025-08-27,C011,FR,Reddit Ads,Interest,128,1.0,1.04,1.04,1.0,0.0
+2025-08-27,C012,IT,Reddit Ads,Interest,94,1.0,0.78,0.78,1.0,0.0
+2025-08-28,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-28,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-28,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-28,C001,PL,Google Ads,Search,60,1.0,0.91,0.91,1.0,0.0
+2025-08-28,C002,PL,Google Ads,Search,73,1.0,1.31,1.31,1.0,0.0
+2025-08-28,C003,PL,Google Ads,Display,53,1.0,1.31,1.31,1.0,0.0
+2025-08-28,C004,FR,Google Ads,Display,73,1.0,1.29,1.29,1.0,0.0
+2025-08-28,C004,NL,Google Ads,Display,65,1.0,1.27,1.27,1.0,0.0
+2025-08-28,C008,FR,Meta Ads,Facebook,92,1.0,0.67,0.67,1.0,0.0
+2025-08-28,C011,DE,Reddit Ads,Interest,0,0.0,0.0,1.01,0.0,1.0
+2025-08-29,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-08-29,C002,FR,Google Ads,Search,63,1.0,1.19,1.19,1.0,0.0
+2025-08-29,C002,IT,Google Ads,Search,137,1.0,1.11,1.11,1.0,0.0
+2025-08-29,C005,PL,Meta Ads,Instagram,66,1.0,0.67,0.67,1.0,0.0
+2025-08-29,C008,DE,Meta Ads,Facebook,89,1.0,0.91,0.91,1.0,0.0
+2025-08-29,C008,NL,Meta Ads,Facebook,120,2.0,1.04,0.52,2.0,0.0
+2025-08-29,C009,DE,LinkedIn Ads,Sponsored Content,67,1.0,3.01,3.01,1.0,0.0
+2025-08-30,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-30,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-30,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-30,C001,DE,Google Ads,Search,85,1.0,0.9,0.9,1.0,0.0
+2025-08-30,C001,PL,Google Ads,Search,137,1.0,1.18,1.18,1.0,0.0
+2025-08-30,C002,DE,Google Ads,Search,101,1.0,1.12,1.12,1.0,0.0
+2025-08-30,C003,PL,Google Ads,Display,55,1.0,0.82,0.82,1.0,0.0
+2025-08-30,C004,FR,Google Ads,Display,137,2.0,2.54,1.27,1.0,0.0
+2025-08-30,C005,FR,Meta Ads,Instagram,109,1.0,0.66,0.66,1.0,0.0
+2025-08-30,C005,IT,Meta Ads,Instagram,252,2.0,0.96,0.48,2.0,0.0
+2025-08-30,C007,FR,Meta Ads,Facebook,82,1.0,0.79,0.79,1.0,0.0
+2025-08-30,C008,ES,Meta Ads,Facebook,140,1.0,0.85,0.85,1.0,0.0
+2025-08-30,C009,ES,LinkedIn Ads,Sponsored Content,107,1.0,3.43,3.43,0.0,0.0
+2025-08-30,C009,IT,LinkedIn Ads,Sponsored Content,75,1.0,2.95,2.95,1.0,0.0
+2025-08-30,C009,PL,LinkedIn Ads,Sponsored Content,60,1.0,2.82,2.82,1.0,0.0
+2025-08-31,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-31,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-08-31,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-08-31,C001,FR,Google Ads,Search,81,1.0,1.44,1.44,1.0,0.0
+2025-08-31,C001,NL,Google Ads,Search,73,1.0,1.5,1.5,1.0,0.0
+2025-08-31,C003,DE,Google Ads,Display,54,1.0,1.4,1.4,1.0,0.0
+2025-08-31,C003,ES,Google Ads,Display,267,1.0,1.03,1.03,1.0,0.0
+2025-08-31,C004,FR,Google Ads,Display,311,3.0,3.72,1.24,1.0,0.0
+2025-08-31,C005,FR,Meta Ads,Instagram,70,1.0,0.75,0.75,0.0,0.0
+2025-08-31,C006,FR,Meta Ads,Instagram,176,1.0,0.51,0.51,1.0,0.0
+2025-08-31,C008,FR,Meta Ads,Facebook,56,1.0,0.75,0.75,1.0,0.0
+2025-08-31,C009,DE,LinkedIn Ads,Sponsored Content,74,1.0,3.75,3.75,1.0,0.0
+2025-08-31,C009,ES,LinkedIn Ads,Sponsored Content,130,2.0,6.14,3.07,1.0,0.0
+2025-08-31,C009,PL,LinkedIn Ads,Sponsored Content,206,2.0,6.84,3.42,2.0,0.0
+2025-08-31,C010,FR,LinkedIn Ads,Sponsored Content,66,1.0,2.88,2.88,1.0,0.0
+2025-08-31,C011,DE,Reddit Ads,Interest,61,1.0,0.89,0.89,1.0,0.0
+2025-09-01,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-01,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,1.0
+2025-09-01,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-01,C001,ES,Google Ads,Search,117,1.0,1.27,1.27,1.0,0.0
+2025-09-01,C001,FR,Google Ads,Search,88,1.0,1.05,1.05,1.0,0.0
+2025-09-01,C002,PL,Google Ads,Search,88,1.0,1.03,1.03,1.0,0.0
+2025-09-01,C005,FR,Meta Ads,Instagram,148,2.0,1.66,0.83,3.0,0.0
+2025-09-01,C006,IT,Meta Ads,Instagram,63,1.0,0.84,0.84,1.0,0.0
+2025-09-01,C007,DE,Meta Ads,Facebook,129,1.0,0.6,0.6,1.0,0.0
+2025-09-01,C008,NL,Meta Ads,Facebook,174,2.0,1.6,0.8,2.0,0.0
+2025-09-01,C008,PL,Meta Ads,Facebook,56,1.0,0.69,0.69,1.0,0.0
+2025-09-01,C010,ES,LinkedIn Ads,Sponsored Content,111,1.0,2.94,2.94,1.0,0.0
+2025-09-01,C010,FR,LinkedIn Ads,Sponsored Content,115,1.0,2.99,2.99,1.0,0.0
+2025-09-01,C011,FR,Reddit Ads,Interest,78,1.0,1.03,1.03,1.0,0.0
+2025-09-01,C011,PL,Reddit Ads,Interest,65,1.0,0.91,0.91,1.0,0.0
+2025-09-01,C012,ES,Reddit Ads,Interest,83,1.0,1.09,1.09,1.0,0.0
+2025-09-02,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-02,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-02,C002,FR,Google Ads,Search,65,1.0,1.26,1.26,1.0,0.0
+2025-09-02,C004,ES,Google Ads,Display,70,1.0,1.31,1.31,1.0,0.0
+2025-09-02,C005,IT,Meta Ads,Instagram,47,1.0,0.61,0.61,1.0,0.0
+2025-09-02,C008,DE,Meta Ads,Facebook,89,1.0,0.93,0.93,1.0,0.0
+2025-09-02,C008,PL,Meta Ads,Facebook,251,1.0,0.75,0.75,1.0,0.0
+2025-09-02,C011,DE,Reddit Ads,Interest,54,1.0,1.0,1.0,1.0,0.0
+2025-09-03,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-03,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-03,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-09-03,C001,DE,Google Ads,Search,179,1.0,0.91,0.91,1.0,0.0
+2025-09-03,C002,FR,Google Ads,Search,143,1.0,1.05,1.05,1.0,0.0
+2025-09-03,C004,DE,Google Ads,Display,179,1.0,1.42,1.42,1.0,0.0
+2025-09-03,C004,FR,Google Ads,Display,113,1.0,1.25,1.25,1.0,0.0
+2025-09-03,C006,DE,Meta Ads,Instagram,0,0.0,0.0,0.5,0.0,1.0
+2025-09-03,C006,IT,Meta Ads,Instagram,71,1.0,0.81,0.81,1.0,0.0
+2025-09-03,C006,NL,Meta Ads,Instagram,76,1.0,0.64,0.64,1.0,0.0
+2025-09-03,C011,PL,Reddit Ads,Interest,158,1.0,1.09,1.09,1.0,0.0
+2025-09-04,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-04,C001,DE,Google Ads,Search,82,1.0,1.18,1.18,1.0,0.0
+2025-09-04,C002,DE,Google Ads,Search,99,1.0,1.24,1.24,1.0,0.0
+2025-09-04,C002,FR,Google Ads,Search,72,1.0,1.41,1.41,1.0,0.0
+2025-09-04,C002,PL,Google Ads,Search,68,1.0,1.04,1.04,1.0,0.0
+2025-09-04,C005,NL,Meta Ads,Instagram,80,1.0,0.6,0.6,1.0,0.0
+2025-09-04,C008,PL,Meta Ads,Facebook,66,1.0,0.68,0.68,1.0,0.0
+2025-09-04,C010,NL,LinkedIn Ads,Sponsored Content,77,1.0,3.15,3.15,1.0,0.0
+2025-09-04,C010,PL,LinkedIn Ads,Sponsored Content,71,1.0,2.24,2.24,1.0,0.0
+2025-09-04,C011,IT,Reddit Ads,Interest,109,1.0,0.67,0.67,1.0,0.0
+2025-09-05,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-05,C001,DE,Google Ads,Search,156,2.0,2.7,1.35,2.0,0.0
+2025-09-05,C001,FR,Google Ads,Search,0,0.0,0.0,1.09,0.0,1.0
+2025-09-05,C001,IT,Google Ads,Search,96,1.0,1.13,1.13,1.0,0.0
+2025-09-05,C002,FR,Google Ads,Search,71,1.0,0.87,0.87,1.0,0.0
+2025-09-05,C004,FR,Google Ads,Display,91,1.0,1.08,1.08,1.0,0.0
+2025-09-05,C004,PL,Google Ads,Display,87,1.0,1.2,1.2,1.0,0.0
+2025-09-05,C005,NL,Meta Ads,Instagram,65,1.0,0.8,0.8,1.0,0.0
+2025-09-05,C006,DE,Meta Ads,Instagram,248,1.0,0.62,0.62,1.0,0.0
+2025-09-05,C006,FR,Meta Ads,Instagram,147,1.0,0.87,0.87,1.0,0.0
+2025-09-05,C008,ES,Meta Ads,Facebook,165,1.0,0.63,0.63,1.0,0.0
+2025-09-05,C010,DE,LinkedIn Ads,Sponsored Content,333,1.0,2.51,2.51,1.0,0.0
+2025-09-06,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-06,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-06,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-06,C001,NL,Google Ads,Search,78,1.0,1.48,1.48,1.0,0.0
+2025-09-06,C002,NL,Google Ads,Search,61,1.0,1.24,1.24,1.0,0.0
+2025-09-06,C002,PL,Google Ads,Search,58,1.0,1.1,1.1,1.0,0.0
+2025-09-06,C003,FR,Google Ads,Display,85,1.0,1.17,1.17,1.0,0.0
+2025-09-06,C007,IT,Meta Ads,Facebook,57,1.0,0.84,0.84,1.0,0.0
+2025-09-06,C007,NL,Meta Ads,Facebook,81,1.0,0.85,0.85,1.0,0.0
+2025-09-06,C008,NL,Meta Ads,Facebook,116,1.0,0.61,0.61,1.0,0.0
+2025-09-07,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-07,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-07,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-07,C001,NL,Google Ads,Search,95,1.0,1.19,1.19,1.0,0.0
+2025-09-07,C002,NL,Google Ads,Search,66,1.0,1.22,1.22,1.0,0.0
+2025-09-07,C002,PL,Google Ads,Search,53,1.0,1.02,1.02,1.0,0.0
+2025-09-07,C004,DE,Google Ads,Display,155,1.0,1.19,1.19,1.0,0.0
+2025-09-07,C005,PL,Meta Ads,Instagram,74,1.0,0.7,0.7,1.0,0.0
+2025-09-07,C007,PL,Meta Ads,Facebook,0,0.0,0.0,0.82,0.0,1.0
+2025-09-07,C009,ES,LinkedIn Ads,Sponsored Content,72,1.0,3.31,3.31,1.0,0.0
+2025-09-07,C010,ES,LinkedIn Ads,Sponsored Content,87,1.0,2.66,2.66,1.0,0.0
+2025-09-08,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-08,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-08,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-08,C002,FR,Google Ads,Search,101,1.0,1.16,1.16,1.0,0.0
+2025-09-08,C003,PL,Google Ads,Display,130,1.0,1.32,1.32,1.0,0.0
+2025-09-08,C008,ES,Meta Ads,Facebook,107,1.0,0.64,0.64,1.0,0.0
+2025-09-08,C008,FR,Meta Ads,Facebook,146,2.0,1.52,0.76,1.0,0.0
+2025-09-08,C009,ES,LinkedIn Ads,Sponsored Content,89,1.0,2.76,2.76,1.0,0.0
+2025-09-08,C012,NL,Reddit Ads,Interest,75,1.0,0.77,0.77,1.0,0.0
+2025-09-09,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-09-09,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-09,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-09,C001,DE,Google Ads,Search,164,1.0,1.03,1.03,1.0,0.0
+2025-09-09,C001,FR,Google Ads,Search,61,1.0,1.46,1.46,1.0,0.0
+2025-09-09,C003,NL,Google Ads,Display,94,1.0,1.17,1.17,1.0,0.0
+2025-09-09,C004,DE,Google Ads,Display,61,1.0,1.5,1.5,0.0,0.0
+2025-09-09,C006,FR,Meta Ads,Instagram,74,1.0,0.65,0.65,1.0,0.0
+2025-09-09,C006,NL,Meta Ads,Instagram,87,1.0,0.73,0.73,1.0,0.0
+2025-09-09,C008,FR,Meta Ads,Facebook,448,6.0,5.7,0.95,1.0,0.0
+2025-09-09,C008,PL,Meta Ads,Facebook,50,1.0,0.59,0.59,1.0,0.0
+2025-09-09,C009,DE,LinkedIn Ads,Sponsored Content,49,1.0,2.0,2.0,1.0,0.0
+2025-09-09,C010,PL,LinkedIn Ads,Sponsored Content,81,1.0,3.34,3.34,1.0,0.0
+2025-09-09,C012,FR,Reddit Ads,Interest,79,1.0,0.79,0.79,0.0,0.0
+2025-09-09,C012,IT,Reddit Ads,Interest,61,1.0,0.9,0.9,1.0,0.0
+2025-09-10,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-10,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-10,C001,DE,Google Ads,Search,84,1.0,1.09,1.09,1.0,0.0
+2025-09-10,C001,NL,Google Ads,Search,151,2.0,2.5,1.25,2.0,0.0
+2025-09-10,C004,DE,Google Ads,Display,577,5.0,5.15,1.03,1.0,0.0
+2025-09-10,C005,DE,Meta Ads,Instagram,177,1.0,0.68,0.68,1.0,0.0
+2025-09-10,C005,FR,Meta Ads,Instagram,270,1.0,0.75,0.75,1.0,0.0
+2025-09-10,C008,NL,Meta Ads,Facebook,0,0.0,0.0,0.59,0.0,1.0
+2025-09-10,C008,PL,Meta Ads,Facebook,0,0.0,0.0,0.63,0.0,1.0
+2025-09-10,C012,FR,Reddit Ads,Interest,277,3.0,2.55,0.85,1.0,0.0
+2025-09-11,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-11,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-11,C001,NL,Google Ads,Search,123,1.0,0.94,0.94,1.0,0.0
+2025-09-11,C002,DE,Google Ads,Search,75,1.0,1.12,1.12,1.0,0.0
+2025-09-11,C002,FR,Google Ads,Search,96,1.0,1.22,1.22,1.0,0.0
+2025-09-11,C003,ES,Google Ads,Display,92,1.0,1.13,1.13,0.0,0.0
+2025-09-11,C003,IT,Google Ads,Display,78,1.0,1.15,1.15,1.0,0.0
+2025-09-11,C003,NL,Google Ads,Display,69,1.0,1.2,1.2,1.0,0.0
+2025-09-11,C005,FR,Meta Ads,Instagram,0,0.0,0.0,0.63,0.0,1.0
+2025-09-11,C006,PL,Meta Ads,Instagram,62,1.0,0.77,0.77,1.0,0.0
+2025-09-11,C008,ES,Meta Ads,Facebook,135,1.0,0.85,0.85,1.0,0.0
+2025-09-11,C008,IT,Meta Ads,Facebook,83,1.0,0.65,0.65,1.0,0.0
+2025-09-11,C008,PL,Meta Ads,Facebook,45,1.0,0.75,0.75,1.0,0.0
+2025-09-11,C010,DE,LinkedIn Ads,Sponsored Content,78,1.0,2.7,2.7,1.0,0.0
+2025-09-11,C010,ES,LinkedIn Ads,Sponsored Content,56,1.0,2.95,2.95,1.0,0.0
+2025-09-11,C011,IT,Reddit Ads,Interest,81,1.0,1.11,1.11,1.0,0.0
+2025-09-11,C012,PL,Reddit Ads,Interest,70,1.0,0.97,0.97,1.0,0.0
+2025-09-12,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-12,C001,DE,Google Ads,Search,88,1.0,0.88,0.88,1.0,0.0
+2025-09-12,C001,FR,Google Ads,Search,113,1.0,1.28,1.28,1.0,0.0
+2025-09-12,C003,ES,Google Ads,Display,219,3.0,4.26,1.42,1.0,0.0
+2025-09-12,C003,FR,Google Ads,Display,116,1.0,1.16,1.16,1.0,0.0
+2025-09-12,C003,IT,Google Ads,Display,68,1.0,1.38,1.38,1.0,0.0
+2025-09-12,C005,FR,Meta Ads,Instagram,61,1.0,0.63,0.63,1.0,0.0
+2025-09-12,C005,IT,Meta Ads,Instagram,74,1.0,0.54,0.54,1.0,0.0
+2025-09-12,C011,FR,Reddit Ads,Interest,92,1.0,0.92,0.92,1.0,0.0
+2025-09-12,C012,FR,Reddit Ads,Interest,72,1.0,0.66,0.66,1.0,0.0
+2025-09-13,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-13,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-09-13,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-13,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-13,C001,ES,Google Ads,Search,248,1.0,1.16,1.16,1.0,0.0
+2025-09-13,C001,NL,Google Ads,Search,166,1.0,1.43,1.43,1.0,0.0
+2025-09-13,C001,PL,Google Ads,Search,57,1.0,0.86,0.86,0.0,0.0
+2025-09-13,C006,DE,Meta Ads,Instagram,64,1.0,0.57,0.57,1.0,0.0
+2025-09-13,C006,IT,Meta Ads,Instagram,219,2.0,1.18,0.59,2.0,0.0
+2025-09-13,C007,PL,Meta Ads,Facebook,167,1.0,0.69,0.69,1.0,0.0
+2025-09-13,C008,ES,Meta Ads,Facebook,333,1.0,0.66,0.66,1.0,1.0
+2025-09-13,C008,NL,Meta Ads,Facebook,102,1.0,0.85,0.85,1.0,0.0
+2025-09-13,C009,FR,LinkedIn Ads,Sponsored Content,46,1.0,3.2,3.2,1.0,0.0
+2025-09-13,C010,FR,LinkedIn Ads,Sponsored Content,0,0.0,0.0,3.01,0.0,1.0
+2025-09-13,C010,IT,LinkedIn Ads,Sponsored Content,102,1.0,2.86,2.86,1.0,0.0
+2025-09-13,C012,ES,Reddit Ads,Interest,0,0.0,0.0,0.95,0.0,1.0
+2025-09-13,C012,IT,Reddit Ads,Interest,174,1.0,0.78,0.78,1.0,0.0
+2025-09-14,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-14,C001,DE,Google Ads,Search,81,1.0,1.35,1.35,1.0,0.0
+2025-09-14,C001,IT,Google Ads,Search,86,1.0,1.0,1.0,1.0,0.0
+2025-09-14,C001,PL,Google Ads,Search,66,1.0,1.35,1.35,2.0,0.0
+2025-09-14,C003,DE,Google Ads,Display,75,1.0,1.41,1.41,1.0,0.0
+2025-09-14,C003,IT,Google Ads,Display,68,1.0,1.24,1.24,1.0,0.0
+2025-09-14,C004,ES,Google Ads,Display,108,1.0,1.17,1.17,1.0,0.0
+2025-09-14,C004,FR,Google Ads,Display,64,1.0,1.27,1.27,1.0,0.0
+2025-09-14,C005,NL,Meta Ads,Instagram,54,1.0,0.4,0.4,1.0,0.0
+2025-09-14,C006,NL,Meta Ads,Instagram,123,1.0,0.73,0.73,1.0,0.0
+2025-09-14,C007,NL,Meta Ads,Facebook,118,1.0,0.69,0.69,0.0,0.0
+2025-09-14,C008,IT,Meta Ads,Facebook,58,1.0,0.69,0.69,1.0,0.0
+2025-09-14,C008,NL,Meta Ads,Facebook,89,1.0,0.77,0.77,1.0,0.0
+2025-09-14,C008,PL,Meta Ads,Facebook,57,1.0,0.69,0.69,1.0,0.0
+2025-09-15,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-09-15,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-15,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-15,C001,DE,Google Ads,Search,0,0.0,0.0,0.99,0.0,1.0
+2025-09-15,C001,FR,Google Ads,Search,55,1.0,1.17,1.17,1.0,0.0
+2025-09-15,C001,NL,Google Ads,Search,95,1.0,1.21,1.21,1.0,0.0
+2025-09-15,C002,NL,Google Ads,Search,0,0.0,0.0,1.22,0.0,1.0
+2025-09-15,C002,PL,Google Ads,Search,196,2.0,2.46,1.23,2.0,0.0
+2025-09-15,C003,ES,Google Ads,Display,72,1.0,1.39,1.39,1.0,0.0
+2025-09-15,C003,FR,Google Ads,Display,174,1.0,1.0,1.0,1.0,0.0
+2025-09-15,C004,FR,Google Ads,Display,69,1.0,1.23,1.23,1.0,0.0
+2025-09-15,C005,ES,Meta Ads,Instagram,102,1.0,0.84,0.84,1.0,0.0
+2025-09-15,C006,DE,Meta Ads,Instagram,60,1.0,0.52,0.52,1.0,0.0
+2025-09-15,C006,ES,Meta Ads,Instagram,333,1.0,0.72,0.72,1.0,0.0
+2025-09-15,C007,NL,Meta Ads,Facebook,678,6.0,3.84,0.64,1.0,0.0
+2025-09-15,C009,ES,LinkedIn Ads,Sponsored Content,0,0.0,0.0,2.64,0.0,2.0
+2025-09-15,C010,DE,LinkedIn Ads,Sponsored Content,115,1.0,2.42,2.42,1.0,0.0
+2025-09-15,C010,FR,LinkedIn Ads,Sponsored Content,77,1.0,2.73,2.73,1.0,0.0
+2025-09-15,C011,DE,Reddit Ads,Interest,89,1.0,1.15,1.15,1.0,0.0
+2025-09-16,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-16,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-16,C001,ES,Google Ads,Search,0,0.0,0.0,0.97,0.0,1.0
+2025-09-16,C002,DE,Google Ads,Search,126,1.0,0.99,0.99,1.0,0.0
+2025-09-16,C002,ES,Google Ads,Search,67,1.0,0.97,0.97,1.0,0.0
+2025-09-16,C002,IT,Google Ads,Search,137,2.0,3.02,1.51,2.0,0.0
+2025-09-16,C004,FR,Google Ads,Display,74,1.0,1.12,1.12,1.0,0.0
+2025-09-16,C007,FR,Meta Ads,Facebook,70,1.0,0.7,0.7,1.0,0.0
+2025-09-16,C010,DE,LinkedIn Ads,Sponsored Content,76,1.0,2.63,2.63,0.0,0.0
+2025-09-16,C011,PL,Reddit Ads,Interest,50,1.0,0.77,0.77,1.0,0.0
+2025-09-17,C002,FR,Google Ads,Search,172,2.0,2.32,1.16,2.0,1.0
+2025-09-17,C002,IT,Google Ads,Search,93,1.0,1.64,1.64,1.0,0.0
+2025-09-17,C002,NL,Google Ads,Search,111,1.0,1.45,1.45,1.0,0.0
+2025-09-17,C003,DE,Google Ads,Display,127,1.0,1.05,1.05,1.0,0.0
+2025-09-17,C003,ES,Google Ads,Display,142,1.0,1.32,1.32,1.0,0.0
+2025-09-17,C004,IT,Google Ads,Display,118,1.0,1.05,1.05,1.0,0.0
+2025-09-17,C005,ES,Meta Ads,Instagram,85,1.0,0.51,0.51,1.0,0.0
+2025-09-17,C005,IT,Meta Ads,Instagram,75,1.0,0.81,0.81,1.0,0.0
+2025-09-17,C005,NL,Meta Ads,Instagram,82,1.0,0.82,0.82,1.0,0.0
+2025-09-17,C006,DE,Meta Ads,Instagram,112,1.0,0.81,0.81,1.0,0.0
+2025-09-17,C006,FR,Meta Ads,Instagram,64,1.0,0.65,0.65,1.0,0.0
+2025-09-17,C008,DE,Meta Ads,Facebook,134,2.0,1.36,0.68,2.0,0.0
+2025-09-17,C008,ES,Meta Ads,Facebook,88,1.0,0.78,0.78,1.0,0.0
+2025-09-17,C008,FR,Meta Ads,Facebook,107,1.0,0.74,0.74,1.0,0.0
+2025-09-17,C008,NL,Meta Ads,Facebook,141,2.0,1.32,0.66,2.0,0.0
+2025-09-17,C009,IT,LinkedIn Ads,Sponsored Content,78,1.0,2.12,2.12,1.0,0.0
+2025-09-17,C010,DE,LinkedIn Ads,Sponsored Content,161,1.0,2.85,2.85,2.0,0.0
+2025-09-18,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-18,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-18,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-18,C001,IT,Google Ads,Search,157,2.0,2.78,1.39,2.0,0.0
+2025-09-18,C004,ES,Google Ads,Display,162,1.0,0.98,0.98,1.0,0.0
+2025-09-18,C004,IT,Google Ads,Display,58,1.0,1.31,1.31,1.0,0.0
+2025-09-18,C006,DE,Meta Ads,Instagram,59,1.0,0.73,0.73,1.0,0.0
+2025-09-18,C006,ES,Meta Ads,Instagram,91,1.0,0.78,0.78,1.0,0.0
+2025-09-18,C006,IT,Meta Ads,Instagram,74,1.0,0.79,0.79,1.0,0.0
+2025-09-18,C008,ES,Meta Ads,Facebook,667,2.0,1.26,0.63,2.0,0.0
+2025-09-18,C008,IT,Meta Ads,Facebook,136,1.0,0.53,0.53,1.0,0.0
+2025-09-18,C011,PL,Reddit Ads,Interest,92,1.0,0.83,0.83,1.0,0.0
+2025-09-18,C012,DE,Reddit Ads,Interest,130,1.0,1.02,1.02,1.0,0.0
+2025-09-19,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-19,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-19,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-19,C001,IT,Google Ads,Search,116,1.0,1.1,1.1,1.0,0.0
+2025-09-19,C002,DE,Google Ads,Search,77,1.0,1.08,1.08,1.0,0.0
+2025-09-19,C003,IT,Google Ads,Display,54,1.0,0.87,0.87,1.0,0.0
+2025-09-19,C004,IT,Google Ads,Display,141,1.0,1.52,1.52,1.0,0.0
+2025-09-19,C005,FR,Meta Ads,Instagram,77,1.0,0.79,0.79,1.0,0.0
+2025-09-19,C006,PL,Meta Ads,Instagram,52,1.0,0.78,0.78,1.0,0.0
+2025-09-19,C007,PL,Meta Ads,Facebook,185,1.0,0.8,0.8,1.0,0.0
+2025-09-19,C008,ES,Meta Ads,Facebook,145,1.0,0.76,0.76,1.0,0.0
+2025-09-19,C008,PL,Meta Ads,Facebook,97,1.0,0.67,0.67,1.0,0.0
+2025-09-20,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-20,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-20,C001,ES,Google Ads,Search,77,1.0,1.17,1.17,1.0,0.0
+2025-09-20,C001,FR,Google Ads,Search,204,1.0,1.12,1.12,1.0,0.0
+2025-09-20,C002,DE,Google Ads,Search,71,1.0,1.67,1.67,1.0,0.0
+2025-09-20,C002,IT,Google Ads,Search,103,1.0,1.3,1.3,1.0,0.0
+2025-09-20,C008,PL,Meta Ads,Facebook,58,1.0,0.65,0.65,1.0,0.0
+2025-09-20,C010,ES,LinkedIn Ads,Sponsored Content,105,1.0,3.0,3.0,1.0,0.0
+2025-09-20,C012,DE,Reddit Ads,Interest,106,1.0,0.76,0.76,1.0,0.0
+2025-09-21,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-21,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-21,C002,DE,Google Ads,Search,73,1.0,1.47,1.47,1.0,0.0
+2025-09-21,C002,ES,Google Ads,Search,190,1.0,1.08,1.08,1.0,0.0
+2025-09-21,C002,IT,Google Ads,Search,71,1.0,1.29,1.29,1.0,0.0
+2025-09-21,C003,NL,Google Ads,Display,127,1.0,1.39,1.39,1.0,0.0
+2025-09-21,C004,DE,Google Ads,Display,0,0.0,0.0,1.27,0.0,1.0
+2025-09-21,C006,FR,Meta Ads,Instagram,159,1.0,0.71,0.71,1.0,1.0
+2025-09-21,C008,IT,Meta Ads,Facebook,73,1.0,0.7,0.7,1.0,0.0
+2025-09-21,C008,NL,Meta Ads,Facebook,114,1.0,0.69,0.69,1.0,0.0
+2025-09-21,C009,DE,LinkedIn Ads,Sponsored Content,146,1.0,2.56,2.56,1.0,0.0
+2025-09-21,C010,DE,LinkedIn Ads,Sponsored Content,67,1.0,2.61,2.61,1.0,0.0
+2025-09-21,C012,DE,Reddit Ads,Interest,77,1.0,1.1,1.1,1.0,0.0
+2025-09-22,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-09-22,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-22,C001,DE,Google Ads,Search,98,1.0,1.18,1.18,1.0,0.0
+2025-09-22,C002,ES,Google Ads,Search,82,1.0,1.06,1.06,1.0,0.0
+2025-09-22,C003,FR,Google Ads,Display,0,0.0,0.0,1.11,0.0,1.0
+2025-09-22,C004,NL,Google Ads,Display,105,1.0,1.4,1.4,1.0,0.0
+2025-09-22,C006,FR,Meta Ads,Instagram,72,1.0,0.77,0.77,1.0,0.0
+2025-09-22,C006,NL,Meta Ads,Instagram,101,1.0,0.76,0.76,1.0,0.0
+2025-09-22,C007,NL,Meta Ads,Facebook,97,1.0,0.67,0.67,1.0,0.0
+2025-09-22,C010,NL,LinkedIn Ads,Sponsored Content,57,1.0,3.04,3.04,1.0,0.0
+2025-09-22,C012,FR,Reddit Ads,Interest,128,1.0,0.81,0.81,1.0,0.0
+2025-09-22,C012,IT,Reddit Ads,Interest,333,1.0,0.86,0.86,1.0,0.0
+2025-09-23,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-09-23,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-23,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-23,C001,ES,Google Ads,Search,235,1.0,1.37,1.37,1.0,0.0
+2025-09-23,C004,IT,Google Ads,Display,93,1.0,1.36,1.36,1.0,0.0
+2025-09-23,C004,PL,Google Ads,Display,92,1.0,1.02,1.02,1.0,0.0
+2025-09-23,C010,ES,LinkedIn Ads,Sponsored Content,89,1.0,2.44,2.44,0.0,0.0
+2025-09-23,C011,FR,Reddit Ads,Interest,0,0.0,0.0,0.91,0.0,1.0
+2025-09-23,C011,NL,Reddit Ads,Interest,70,1.0,1.13,1.13,1.0,0.0
+2025-09-24,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-24,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-24,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-24,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,1.0
+2025-09-24,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-24,C001,FR,Google Ads,Search,94,1.0,0.86,0.86,1.0,0.0
+2025-09-24,C001,PL,Google Ads,Search,0,0.0,0.0,1.25,0.0,1.0
+2025-09-24,C002,ES,Google Ads,Search,69,1.0,0.95,0.95,1.0,0.0
+2025-09-24,C005,IT,Meta Ads,Instagram,0,0.0,0.0,0.63,0.0,1.0
+2025-09-24,C005,NL,Meta Ads,Instagram,79,1.0,0.66,0.66,1.0,0.0
+2025-09-24,C005,PL,Meta Ads,Instagram,96,1.0,0.66,0.66,1.0,0.0
+2025-09-24,C006,DE,Meta Ads,Instagram,52,1.0,0.64,0.64,1.0,1.0
+2025-09-24,C007,DE,Meta Ads,Facebook,88,1.0,0.7,0.7,1.0,0.0
+2025-09-24,C008,ES,Meta Ads,Facebook,54,1.0,0.64,0.64,1.0,0.0
+2025-09-24,C008,FR,Meta Ads,Facebook,132,1.0,0.55,0.55,1.0,0.0
+2025-09-24,C009,DE,LinkedIn Ads,Sponsored Content,70,1.0,3.13,3.13,1.0,0.0
+2025-09-24,C010,DE,LinkedIn Ads,Sponsored Content,75,1.0,3.12,3.12,1.0,0.0
+2025-09-24,C010,ES,LinkedIn Ads,Sponsored Content,587,5.0,15.75,3.15,1.0,0.0
+2025-09-24,C011,DE,Reddit Ads,Interest,79,1.0,0.69,0.69,1.0,0.0
+2025-09-25,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-25,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-25,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-25,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-25,C001,FR,Google Ads,Search,119,1.0,1.25,1.25,1.0,0.0
+2025-09-25,C001,NL,Google Ads,Search,94,1.0,1.32,1.32,1.0,0.0
+2025-09-25,C002,NL,Google Ads,Search,86,1.0,1.01,1.01,1.0,0.0
+2025-09-25,C003,FR,Google Ads,Display,193,1.0,1.2,1.2,1.0,0.0
+2025-09-25,C005,IT,Meta Ads,Instagram,181,1.0,0.69,0.69,1.0,0.0
+2025-09-25,C006,DE,Meta Ads,Instagram,144,2.0,1.78,0.89,2.0,0.0
+2025-09-25,C009,DE,LinkedIn Ads,Sponsored Content,101,1.0,3.61,3.61,1.0,0.0
+2025-09-25,C011,FR,Reddit Ads,Interest,333,1.0,0.68,0.68,1.0,0.0
+2025-09-25,C012,ES,Reddit Ads,Interest,66,1.0,1.24,1.24,1.0,0.0
+2025-09-25,C012,PL,Reddit Ads,Interest,76,1.0,0.78,0.78,1.0,0.0
+2025-09-26,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-09-26,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-26,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-26,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-26,C001,NL,Google Ads,Search,46,1.0,1.38,1.38,1.0,0.0
+2025-09-26,C002,ES,Google Ads,Search,73,1.0,1.37,1.37,1.0,0.0
+2025-09-26,C002,NL,Google Ads,Search,74,1.0,1.02,1.02,1.0,0.0
+2025-09-26,C005,PL,Meta Ads,Instagram,88,1.0,0.75,0.75,1.0,0.0
+2025-09-26,C006,NL,Meta Ads,Instagram,66,1.0,0.69,0.69,1.0,0.0
+2025-09-26,C009,IT,LinkedIn Ads,Sponsored Content,69,1.0,3.03,3.03,1.0,0.0
+2025-09-26,C011,DE,Reddit Ads,Interest,59,1.0,0.93,0.93,1.0,0.0
+2025-09-26,C012,NL,Reddit Ads,Interest,202,2.0,2.12,1.06,2.0,0.0
+2025-09-27,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-27,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-27,C001,FR,Google Ads,Search,66,1.0,1.21,1.21,1.0,0.0
+2025-09-27,C002,FR,Google Ads,Search,111,2.0,2.34,1.17,2.0,0.0
+2025-09-27,C002,PL,Google Ads,Search,98,1.0,1.4,1.4,1.0,0.0
+2025-09-27,C004,DE,Google Ads,Display,97,1.0,1.3,1.3,1.0,0.0
+2025-09-27,C005,ES,Meta Ads,Instagram,75,1.0,0.78,0.78,1.0,0.0
+2025-09-27,C008,PL,Meta Ads,Facebook,91,1.0,0.63,0.63,1.0,0.0
+2025-09-27,C012,PL,Reddit Ads,Interest,63,1.0,0.76,0.76,1.0,0.0
+2025-09-28,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-28,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-28,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-28,C001,FR,Google Ads,Search,333,1.0,1.1,1.1,0.0,0.0
+2025-09-28,C001,NL,Google Ads,Search,123,1.0,1.09,1.09,1.0,0.0
+2025-09-28,C003,IT,Google Ads,Display,0,0.0,0.0,1.34,0.0,1.0
+2025-09-28,C005,PL,Meta Ads,Instagram,89,1.0,0.8,0.8,1.0,0.0
+2025-09-28,C006,ES,Meta Ads,Instagram,61,1.0,0.68,0.68,1.0,0.0
+2025-09-28,C007,FR,Meta Ads,Facebook,91,1.0,0.85,0.85,1.0,0.0
+2025-09-28,C008,IT,Meta Ads,Facebook,127,1.0,0.84,0.84,1.0,0.0
+2025-09-28,C009,ES,LinkedIn Ads,Sponsored Content,85,1.0,2.9,2.9,1.0,0.0
+2025-09-28,C011,ES,Reddit Ads,Interest,62,1.0,0.79,0.79,1.0,0.0
+2025-09-29,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-09-29,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-09-29,C001,FR,Google Ads,Search,70,1.0,1.48,1.48,2.0,0.0
+2025-09-29,C002,NL,Google Ads,Search,90,1.0,1.19,1.19,1.0,0.0
+2025-09-29,C003,NL,Google Ads,Display,69,1.0,1.22,1.22,1.0,0.0
+2025-09-29,C005,PL,Meta Ads,Instagram,84,1.0,0.66,0.66,1.0,0.0
+2025-09-29,C006,DE,Meta Ads,Instagram,68,1.0,0.61,0.61,1.0,0.0
+2025-09-29,C010,PL,LinkedIn Ads,Sponsored Content,127,1.0,2.18,2.18,1.0,0.0
+2025-09-29,C012,FR,Reddit Ads,Interest,84,1.0,0.99,0.99,1.0,0.0
+2025-09-30,C002,DE,Google Ads,Search,90,1.0,1.06,1.06,1.0,0.0
+2025-09-30,C002,ES,Google Ads,Search,140,1.0,1.75,1.75,1.0,0.0
+2025-09-30,C004,DE,Google Ads,Display,174,1.0,1.0,1.0,1.0,0.0
+2025-09-30,C004,IT,Google Ads,Display,68,1.0,0.97,0.97,1.0,0.0
+2025-09-30,C005,IT,Meta Ads,Instagram,94,1.0,0.75,0.75,0.0,0.0
+2025-09-30,C005,PL,Meta Ads,Instagram,126,1.0,0.86,0.86,1.0,0.0
+2025-09-30,C008,PL,Meta Ads,Facebook,86,1.0,0.71,0.71,0.0,0.0
+2025-09-30,C011,IT,Reddit Ads,Interest,61,1.0,0.98,0.98,1.0,0.0
+2025-10-01,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-10-01,C001,ES,Google Ads,Search,166,1.0,0.87,0.87,1.0,0.0
+2025-10-01,C001,FR,Google Ads,Search,120,1.0,1.08,1.08,1.0,0.0
+2025-10-01,C002,FR,Google Ads,Search,56,1.0,1.01,1.01,1.0,0.0
+2025-10-01,C005,DE,Meta Ads,Instagram,76,1.0,0.5,0.5,1.0,0.0
+2025-10-01,C005,IT,Meta Ads,Instagram,265,4.0,2.84,0.71,1.0,0.0
+2025-10-01,C006,PL,Meta Ads,Instagram,269,2.0,0.92,0.46,2.0,0.0
+2025-10-01,C007,IT,Meta Ads,Facebook,133,1.0,0.56,0.56,1.0,0.0
+2025-10-01,C008,ES,Meta Ads,Facebook,73,1.0,0.64,0.64,1.0,0.0
+2025-10-01,C008,FR,Meta Ads,Facebook,82,1.0,0.61,0.61,1.0,0.0
+2025-10-01,C008,PL,Meta Ads,Facebook,211,3.0,2.22,0.74,1.0,0.0
+2025-10-01,C012,FR,Reddit Ads,Interest,89,1.0,0.94,0.94,1.0,0.0
+2025-10-01,C012,PL,Reddit Ads,Interest,76,1.0,1.02,1.02,1.0,0.0
+2025-10-02,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-10-02,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-10-02,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-02,C001,ES,Google Ads,Search,181,1.0,1.34,1.34,1.0,0.0
+2025-10-02,C003,ES,Google Ads,Display,332,1.0,1.41,1.41,1.0,0.0
+2025-10-02,C005,FR,Meta Ads,Instagram,62,1.0,0.7,0.7,1.0,0.0
+2025-10-02,C005,NL,Meta Ads,Instagram,60,1.0,0.73,0.73,1.0,0.0
+2025-10-02,C006,ES,Meta Ads,Instagram,126,1.0,0.75,0.75,1.0,0.0
+2025-10-02,C006,NL,Meta Ads,Instagram,439,2.0,1.42,0.71,1.0,0.0
+2025-10-02,C007,PL,Meta Ads,Facebook,81,1.0,0.66,0.66,1.0,0.0
+2025-10-02,C012,FR,Reddit Ads,Interest,64,1.0,0.86,0.86,1.0,0.0
+2025-10-03,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-03,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-03,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-03,C001,DE,Google Ads,Search,119,1.0,1.05,1.05,1.0,0.0
+2025-10-03,C001,PL,Google Ads,Search,83,1.0,1.28,1.28,0.0,0.0
+2025-10-03,C004,DE,Google Ads,Display,93,1.0,1.18,1.18,1.0,0.0
+2025-10-03,C004,PL,Google Ads,Display,126,1.0,1.08,1.08,1.0,0.0
+2025-10-03,C006,DE,Meta Ads,Instagram,50,1.0,0.63,0.63,1.0,0.0
+2025-10-03,C006,NL,Meta Ads,Instagram,157,3.0,1.71,0.57,1.0,0.0
+2025-10-03,C010,DE,LinkedIn Ads,Sponsored Content,60,1.0,3.21,3.21,1.0,0.0
+2025-10-03,C012,NL,Reddit Ads,Interest,120,1.0,0.91,0.91,1.0,0.0
+2025-10-04,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-04,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-04,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-04,C001,PL,Google Ads,Search,118,2.0,2.08,1.04,1.0,0.0
+2025-10-04,C002,DE,Google Ads,Search,69,1.0,1.35,1.35,1.0,0.0
+2025-10-04,C002,PL,Google Ads,Search,67,1.0,1.1,1.1,1.0,0.0
+2025-10-04,C003,DE,Google Ads,Display,69,1.0,0.95,0.95,1.0,0.0
+2025-10-04,C004,DE,Google Ads,Display,75,1.0,1.38,1.38,1.0,0.0
+2025-10-04,C004,ES,Google Ads,Display,206,1.0,1.1,1.1,1.0,0.0
+2025-10-04,C006,DE,Meta Ads,Instagram,81,1.0,0.66,0.66,1.0,0.0
+2025-10-04,C007,FR,Meta Ads,Facebook,102,1.0,0.7,0.7,1.0,0.0
+2025-10-04,C008,FR,Meta Ads,Facebook,145,1.0,0.82,0.82,1.0,0.0
+2025-10-04,C010,IT,LinkedIn Ads,Sponsored Content,53,1.0,2.81,2.81,1.0,0.0
+2025-10-04,C011,PL,Reddit Ads,Interest,53,1.0,0.74,0.74,1.0,0.0
+2025-10-05,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-10-05,C001,DE,Google Ads,Search,77,1.0,1.3,1.3,1.0,0.0
+2025-10-05,C001,FR,Google Ads,Search,57,1.0,1.11,1.11,1.0,0.0
+2025-10-05,C002,FR,Google Ads,Search,83,1.0,1.54,1.54,1.0,0.0
+2025-10-05,C004,DE,Google Ads,Display,0,0.0,0.0,1.2,0.0,1.0
+2025-10-05,C005,ES,Meta Ads,Instagram,131,1.0,0.47,0.47,1.0,0.0
+2025-10-05,C006,ES,Meta Ads,Instagram,147,2.0,1.48,0.74,1.0,0.0
+2025-10-05,C006,FR,Meta Ads,Instagram,245,3.0,2.7,0.9,2.0,0.0
+2025-10-05,C006,PL,Meta Ads,Instagram,147,1.0,0.87,0.87,1.0,0.0
+2025-10-05,C007,DE,Meta Ads,Facebook,170,2.0,1.78,0.89,2.0,0.0
+2025-10-05,C009,PL,LinkedIn Ads,Sponsored Content,86,1.0,2.37,2.37,1.0,0.0
+2025-10-05,C010,DE,LinkedIn Ads,Sponsored Content,52,1.0,3.18,3.18,1.0,0.0
+2025-10-05,C011,DE,Reddit Ads,Interest,64,1.0,0.8,0.8,1.0,0.0
+2025-10-06,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-10-06,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-10-06,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-06,C002,IT,Google Ads,Search,179,2.0,2.48,1.24,2.0,0.0
+2025-10-06,C002,NL,Google Ads,Search,130,1.0,0.97,0.97,1.0,0.0
+2025-10-06,C002,PL,Google Ads,Search,176,2.0,2.16,1.08,2.0,0.0
+2025-10-06,C004,DE,Google Ads,Display,111,1.0,1.08,1.08,1.0,0.0
+2025-10-06,C004,PL,Google Ads,Display,143,1.0,1.36,1.36,1.0,0.0
+2025-10-06,C005,FR,Meta Ads,Instagram,142,2.0,1.56,0.78,2.0,0.0
+2025-10-06,C006,ES,Meta Ads,Instagram,369,5.0,3.65,0.73,1.0,0.0
+2025-10-06,C006,FR,Meta Ads,Instagram,412,2.0,1.12,0.56,1.0,0.0
+2025-10-06,C007,DE,Meta Ads,Facebook,87,1.0,0.67,0.67,1.0,0.0
+2025-10-06,C012,DE,Reddit Ads,Interest,125,2.0,1.6,0.8,2.0,0.0
+2025-10-07,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,4.0,0.0
+2025-10-07,C001,DE,Google Ads,Search,62,1.0,1.36,1.36,1.0,0.0
+2025-10-07,C001,ES,Google Ads,Search,0,0.0,0.0,1.41,0.0,1.0
+2025-10-07,C001,IT,Google Ads,Search,116,1.0,1.39,1.39,1.0,0.0
+2025-10-07,C002,ES,Google Ads,Search,130,1.0,1.06,1.06,1.0,0.0
+2025-10-07,C003,FR,Google Ads,Display,75,1.0,0.71,0.71,1.0,0.0
+2025-10-07,C006,DE,Meta Ads,Instagram,74,1.0,0.51,0.51,1.0,0.0
+2025-10-07,C006,NL,Meta Ads,Instagram,58,1.0,0.85,0.85,1.0,0.0
+2025-10-07,C008,FR,Meta Ads,Facebook,0,0.0,0.0,0.66,0.0,1.0
+2025-10-07,C008,IT,Meta Ads,Facebook,87,1.0,0.62,0.62,1.0,0.0
+2025-10-07,C009,PL,LinkedIn Ads,Sponsored Content,142,1.0,3.49,3.49,1.0,0.0
+2025-10-07,C010,DE,LinkedIn Ads,Sponsored Content,93,1.0,3.33,3.33,1.0,0.0
+2025-10-07,C010,FR,LinkedIn Ads,Sponsored Content,78,1.0,2.81,2.81,1.0,0.0
+2025-10-08,C001,FR,Google Ads,Search,89,1.0,1.15,1.15,1.0,0.0
+2025-10-08,C001,NL,Google Ads,Search,103,1.0,1.18,1.18,1.0,0.0
+2025-10-08,C002,DE,Google Ads,Search,77,1.0,1.24,1.24,1.0,0.0
+2025-10-08,C002,FR,Google Ads,Search,100,1.0,1.49,1.49,1.0,0.0
+2025-10-08,C005,ES,Meta Ads,Instagram,105,1.0,0.74,0.74,1.0,0.0
+2025-10-08,C005,PL,Meta Ads,Instagram,75,1.0,0.78,0.78,1.0,0.0
+2025-10-08,C006,DE,Meta Ads,Instagram,96,1.0,0.82,0.82,1.0,0.0
+2025-10-08,C006,FR,Meta Ads,Instagram,77,1.0,0.58,0.58,1.0,0.0
+2025-10-08,C006,IT,Meta Ads,Instagram,76,1.0,0.78,0.78,1.0,0.0
+2025-10-08,C006,NL,Meta Ads,Instagram,269,2.0,1.34,0.67,2.0,0.0
+2025-10-08,C010,ES,LinkedIn Ads,Sponsored Content,99,1.0,1.74,1.74,1.0,0.0
+2025-10-08,C011,FR,Reddit Ads,Interest,56,1.0,0.61,0.61,1.0,0.0
+2025-10-08,C011,PL,Reddit Ads,Interest,136,1.0,0.76,0.76,1.0,0.0
+2025-10-08,C012,PL,Reddit Ads,Interest,283,1.0,0.97,0.97,1.0,0.0
+2025-10-09,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-09,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-09,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-10-09,C001,IT,Google Ads,Search,87,1.0,1.22,1.22,1.0,0.0
+2025-10-09,C002,IT,Google Ads,Search,59,1.0,1.23,1.23,1.0,0.0
+2025-10-09,C003,IT,Google Ads,Display,333,1.0,1.55,1.55,1.0,0.0
+2025-10-09,C004,FR,Google Ads,Display,74,1.0,0.97,0.97,1.0,0.0
+2025-10-09,C005,ES,Meta Ads,Instagram,55,1.0,0.7,0.7,1.0,0.0
+2025-10-09,C006,DE,Meta Ads,Instagram,134,1.0,0.73,0.73,1.0,0.0
+2025-10-09,C006,ES,Meta Ads,Instagram,95,1.0,0.62,0.62,1.0,0.0
+2025-10-09,C006,FR,Meta Ads,Instagram,111,1.0,0.7,0.7,1.0,0.0
+2025-10-09,C006,PL,Meta Ads,Instagram,119,1.0,0.53,0.53,1.0,0.0
+2025-10-09,C007,DE,Meta Ads,Facebook,94,1.0,0.85,0.85,1.0,0.0
+2025-10-09,C007,PL,Meta Ads,Facebook,56,1.0,0.63,0.63,1.0,0.0
+2025-10-09,C008,IT,Meta Ads,Facebook,52,1.0,0.91,0.91,1.0,0.0
+2025-10-09,C010,NL,LinkedIn Ads,Sponsored Content,0,0.0,0.0,2.79,0.0,1.0
+2025-10-09,C012,DE,Reddit Ads,Interest,51,1.0,1.04,1.04,1.0,0.0
+2025-10-10,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-10,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-10,C001,DE,Google Ads,Search,86,1.0,1.19,1.19,1.0,0.0
+2025-10-10,C001,IT,Google Ads,Search,80,1.0,1.19,1.19,1.0,0.0
+2025-10-10,C003,IT,Google Ads,Display,74,1.0,1.09,1.09,1.0,0.0
+2025-10-10,C004,IT,Google Ads,Display,40,1.0,1.22,1.22,1.0,0.0
+2025-10-10,C005,FR,Meta Ads,Instagram,65,1.0,0.73,0.73,1.0,0.0
+2025-10-10,C005,IT,Meta Ads,Instagram,109,1.0,0.62,0.62,1.0,0.0
+2025-10-10,C005,PL,Meta Ads,Instagram,63,1.0,0.69,0.69,1.0,0.0
+2025-10-10,C008,IT,Meta Ads,Facebook,95,1.0,0.64,0.64,1.0,0.0
+2025-10-10,C011,DE,Reddit Ads,Interest,0,0.0,0.0,1.21,0.0,1.0
+2025-10-10,C011,IT,Reddit Ads,Interest,64,1.0,0.89,0.89,0.0,0.0
+2025-10-10,C012,NL,Reddit Ads,Interest,0,0.0,0.0,1.11,0.0,1.0
+2025-10-11,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-11,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-11,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-11,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,1.0
+2025-10-11,C001,IT,Google Ads,Search,235,1.0,1.16,1.16,1.0,0.0
+2025-10-11,C001,NL,Google Ads,Search,68,1.0,1.25,1.25,1.0,1.0
+2025-10-11,C002,IT,Google Ads,Search,248,2.0,1.92,0.96,2.0,0.0
+2025-10-11,C003,ES,Google Ads,Display,0,0.0,0.0,1.12,0.0,1.0
+2025-10-11,C005,IT,Meta Ads,Instagram,85,1.0,0.72,0.72,1.0,0.0
+2025-10-11,C011,IT,Reddit Ads,Interest,162,2.0,2.22,1.11,1.0,0.0
+2025-10-11,C012,IT,Reddit Ads,Interest,108,1.0,0.93,0.93,1.0,0.0
+2025-10-12,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,3.0,0.0
+2025-10-12,C002,FR,Google Ads,Search,151,1.0,1.45,1.45,1.0,0.0
+2025-10-12,C002,PL,Google Ads,Search,96,1.0,1.32,1.32,0.0,0.0
+2025-10-12,C006,DE,Meta Ads,Instagram,207,2.0,1.74,0.87,1.0,0.0
+2025-10-12,C007,FR,Meta Ads,Facebook,85,1.0,0.69,0.69,1.0,0.0
+2025-10-12,C012,FR,Reddit Ads,Interest,0,0.0,0.0,1.22,0.0,1.0
+2025-10-13,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-10-13,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,3.0,0.0
+2025-10-13,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-13,C002,ES,Google Ads,Search,226,1.0,1.11,1.11,1.0,0.0
+2025-10-13,C002,NL,Google Ads,Search,240,1.0,1.06,1.06,1.0,0.0
+2025-10-13,C002,PL,Google Ads,Search,418,5.0,4.9,0.98,1.0,0.0
+2025-10-13,C005,DE,Meta Ads,Instagram,90,1.0,0.94,0.94,0.0,0.0
+2025-10-13,C005,ES,Meta Ads,Instagram,86,1.0,0.79,0.79,1.0,0.0
+2025-10-13,C005,IT,Meta Ads,Instagram,84,1.0,0.66,0.66,1.0,0.0
+2025-10-13,C006,DE,Meta Ads,Instagram,465,6.0,4.98,0.83,1.0,0.0
+2025-10-13,C006,FR,Meta Ads,Instagram,63,1.0,0.77,0.77,1.0,0.0
+2025-10-13,C006,NL,Meta Ads,Instagram,265,2.0,1.82,0.91,2.0,0.0
+2025-10-13,C008,NL,Meta Ads,Facebook,274,2.0,1.08,0.54,2.0,0.0
+2025-10-13,C010,DE,LinkedIn Ads,Sponsored Content,0,0.0,0.0,2.69,0.0,1.0
+2025-10-14,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,1.0
+2025-10-14,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-14,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-14,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-14,C001,DE,Google Ads,Search,193,1.0,1.12,1.12,1.0,0.0
+2025-10-14,C001,FR,Google Ads,Search,115,1.0,0.84,0.84,1.0,0.0
+2025-10-14,C001,NL,Google Ads,Search,102,1.0,1.39,1.39,1.0,0.0
+2025-10-14,C002,IT,Google Ads,Search,96,1.0,1.15,1.15,1.0,0.0
+2025-10-14,C002,PL,Google Ads,Search,82,1.0,1.33,1.33,1.0,0.0
+2025-10-14,C005,DE,Meta Ads,Instagram,465,5.0,4.75,0.95,1.0,0.0
+2025-10-14,C006,DE,Meta Ads,Instagram,62,1.0,0.66,0.66,1.0,0.0
+2025-10-14,C007,FR,Meta Ads,Facebook,108,1.0,0.66,0.66,1.0,0.0
+2025-10-14,C012,DE,Reddit Ads,Interest,117,1.0,0.92,0.92,1.0,0.0
+2025-10-15,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-10-15,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-15,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-15,C001,FR,Google Ads,Search,0,0.0,0.0,1.38,0.0,1.0
+2025-10-15,C001,IT,Google Ads,Search,88,1.0,1.1,1.1,1.0,0.0
+2025-10-15,C001,PL,Google Ads,Search,109,2.0,2.18,1.09,2.0,0.0
+2025-10-15,C002,DE,Google Ads,Search,105,1.0,1.39,1.39,1.0,0.0
+2025-10-15,C002,ES,Google Ads,Search,49,1.0,1.27,1.27,1.0,0.0
+2025-10-15,C002,IT,Google Ads,Search,0,0.0,0.0,0.83,0.0,1.0
+2025-10-15,C004,DE,Google Ads,Display,145,1.0,0.98,0.98,1.0,0.0
+2025-10-15,C005,PL,Meta Ads,Instagram,163,2.0,1.72,0.86,2.0,0.0
+2025-10-15,C006,IT,Meta Ads,Instagram,130,1.0,0.74,0.74,1.0,0.0
+2025-10-15,C007,PL,Meta Ads,Facebook,111,1.0,0.62,0.62,1.0,0.0
+2025-10-15,C011,FR,Reddit Ads,Interest,74,1.0,0.88,0.88,1.0,0.0
+2025-10-15,C012,FR,Reddit Ads,Interest,70,1.0,0.9,0.9,1.0,0.0
+2025-10-16,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-16,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-16,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-16,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-16,C003,ES,Google Ads,Display,71,1.0,1.33,1.33,1.0,0.0
+2025-10-16,C004,NL,Google Ads,Display,57,1.0,0.96,0.96,1.0,0.0
+2025-10-16,C004,PL,Google Ads,Display,223,1.0,1.05,1.05,1.0,0.0
+2025-10-16,C005,FR,Meta Ads,Instagram,93,1.0,0.73,0.73,1.0,0.0
+2025-10-16,C006,FR,Meta Ads,Instagram,117,1.0,0.69,0.69,1.0,0.0
+2025-10-16,C006,IT,Meta Ads,Instagram,80,1.0,0.76,0.76,1.0,0.0
+2025-10-16,C007,DE,Meta Ads,Facebook,103,1.0,0.57,0.57,0.0,0.0
+2025-10-16,C008,DE,Meta Ads,Facebook,176,2.0,1.48,0.74,2.0,0.0
+2025-10-16,C008,FR,Meta Ads,Facebook,51,1.0,0.81,0.81,1.0,0.0
+2025-10-16,C008,IT,Meta Ads,Facebook,88,1.0,0.75,0.75,1.0,0.0
+2025-10-16,C009,IT,LinkedIn Ads,Sponsored Content,73,1.0,2.86,2.86,1.0,0.0
+2025-10-16,C009,PL,LinkedIn Ads,Sponsored Content,90,1.0,2.76,2.76,1.0,0.0
+2025-10-16,C011,DE,Reddit Ads,Interest,81,1.0,0.79,0.79,1.0,0.0
+2025-10-16,C011,ES,Reddit Ads,Interest,83,1.0,0.89,0.89,1.0,0.0
+2025-10-17,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-10-17,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-17,C001,DE,Google Ads,Search,54,1.0,1.43,1.43,1.0,0.0
+2025-10-17,C002,ES,Google Ads,Search,76,1.0,1.18,1.18,1.0,0.0
+2025-10-17,C002,FR,Google Ads,Search,70,1.0,1.04,1.04,1.0,0.0
+2025-10-17,C002,PL,Google Ads,Search,135,1.0,1.11,1.11,1.0,0.0
+2025-10-17,C003,FR,Google Ads,Display,86,1.0,1.24,1.24,1.0,0.0
+2025-10-17,C003,NL,Google Ads,Display,63,1.0,1.13,1.13,1.0,0.0
+2025-10-17,C004,DE,Google Ads,Display,129,2.0,2.58,1.29,2.0,0.0
+2025-10-17,C004,ES,Google Ads,Display,78,1.0,1.29,1.29,1.0,0.0
+2025-10-17,C005,DE,Meta Ads,Instagram,64,1.0,0.79,0.79,1.0,0.0
+2025-10-17,C005,FR,Meta Ads,Instagram,72,1.0,0.85,0.85,1.0,0.0
+2025-10-17,C005,NL,Meta Ads,Instagram,60,1.0,0.8,0.8,1.0,0.0
+2025-10-17,C007,DE,Meta Ads,Facebook,76,1.0,0.6,0.6,2.0,0.0
+2025-10-17,C008,DE,Meta Ads,Facebook,95,1.0,0.61,0.61,1.0,0.0
+2025-10-17,C011,DE,Reddit Ads,Interest,75,1.0,0.89,0.89,1.0,0.0
+2025-10-17,C011,FR,Reddit Ads,Interest,333,1.0,0.84,0.84,1.0,0.0
+2025-10-17,C011,NL,Reddit Ads,Interest,74,1.0,0.75,0.75,1.0,0.0
+2025-10-17,C011,PL,Reddit Ads,Interest,333,1.0,0.84,0.84,1.0,0.0
+2025-10-17,C012,DE,Reddit Ads,Interest,0,0.0,0.0,0.84,0.0,1.0
+2025-10-18,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-10-18,C001,ES,Google Ads,Search,72,1.0,1.08,1.08,1.0,0.0
+2025-10-18,C001,IT,Google Ads,Search,136,1.0,1.14,1.14,1.0,0.0
+2025-10-18,C002,IT,Google Ads,Search,109,1.0,1.41,1.41,1.0,0.0
+2025-10-18,C002,NL,Google Ads,Search,0,0.0,0.0,1.24,0.0,1.0
+2025-10-18,C004,DE,Google Ads,Display,199,2.0,3.28,1.64,1.0,0.0
+2025-10-18,C005,DE,Meta Ads,Instagram,48,1.0,0.72,0.72,1.0,0.0
+2025-10-18,C005,ES,Meta Ads,Instagram,83,1.0,0.67,0.67,1.0,0.0
+2025-10-18,C005,NL,Meta Ads,Instagram,73,1.0,0.7,0.7,1.0,0.0
+2025-10-18,C007,FR,Meta Ads,Facebook,54,1.0,0.73,0.73,1.0,0.0
+2025-10-18,C008,IT,Meta Ads,Facebook,80,1.0,0.75,0.75,1.0,0.0
+2025-10-19,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-19,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-10-19,C001,NL,Google Ads,Search,84,1.0,1.57,1.57,1.0,0.0
+2025-10-19,C001,PL,Google Ads,Search,153,1.0,1.05,1.05,1.0,0.0
+2025-10-19,C002,FR,Google Ads,Search,91,1.0,1.35,1.35,1.0,0.0
+2025-10-19,C002,PL,Google Ads,Search,111,1.0,1.24,1.24,1.0,0.0
+2025-10-19,C004,DE,Google Ads,Display,255,4.0,3.68,0.92,1.0,0.0
+2025-10-19,C005,DE,Meta Ads,Instagram,82,1.0,0.78,0.78,1.0,0.0
+2025-10-19,C006,ES,Meta Ads,Instagram,184,2.0,1.66,0.83,2.0,0.0
+2025-10-19,C007,IT,Meta Ads,Facebook,86,1.0,0.61,0.61,1.0,0.0
+2025-10-19,C008,DE,Meta Ads,Facebook,78,1.0,0.7,0.7,1.0,0.0
+2025-10-19,C011,IT,Reddit Ads,Interest,69,1.0,0.67,0.67,1.0,0.0
+2025-10-19,C012,IT,Reddit Ads,Interest,125,1.0,0.73,0.73,1.0,0.0
+2025-10-20,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,3.0,1.0
+2025-10-20,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-20,C001,DE,Google Ads,Search,97,1.0,1.39,1.39,1.0,1.0
+2025-10-20,C005,ES,Meta Ads,Instagram,158,1.0,0.65,0.65,1.0,0.0
+2025-10-20,C005,PL,Meta Ads,Instagram,73,1.0,0.58,0.58,1.0,0.0
+2025-10-20,C008,ES,Meta Ads,Facebook,72,1.0,0.72,0.72,1.0,0.0
+2025-10-20,C010,DE,LinkedIn Ads,Sponsored Content,170,1.0,2.58,2.58,1.0,0.0
+2025-10-20,C012,NL,Reddit Ads,Interest,155,2.0,1.68,0.84,2.0,0.0
+2025-10-21,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-10-21,C001,IT,Google Ads,Search,74,1.0,1.33,1.33,1.0,0.0
+2025-10-21,C001,PL,Google Ads,Search,0,0.0,0.0,0.99,0.0,1.0
+2025-10-21,C002,DE,Google Ads,Search,313,2.0,2.08,1.04,2.0,0.0
+2025-10-21,C003,FR,Google Ads,Display,75,1.0,1.23,1.23,1.0,0.0
+2025-10-21,C004,ES,Google Ads,Display,278,3.0,4.11,1.37,2.0,0.0
+2025-10-21,C004,FR,Google Ads,Display,99,1.0,1.42,1.42,1.0,0.0
+2025-10-21,C004,PL,Google Ads,Display,0,0.0,0.0,1.08,0.0,1.0
+2025-10-21,C005,NL,Meta Ads,Instagram,56,1.0,0.8,0.8,1.0,0.0
+2025-10-21,C006,ES,Meta Ads,Instagram,52,1.0,0.62,0.62,1.0,0.0
+2025-10-21,C006,FR,Meta Ads,Instagram,116,2.0,1.78,0.89,2.0,0.0
+2025-10-21,C007,NL,Meta Ads,Facebook,86,1.0,0.58,0.58,1.0,0.0
+2025-10-21,C010,IT,LinkedIn Ads,Sponsored Content,75,1.0,3.36,3.36,1.0,0.0
+2025-10-21,C012,PL,Reddit Ads,Interest,66,1.0,0.81,0.81,1.0,0.0
+2025-10-22,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-22,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-22,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-22,C001,ES,Google Ads,Search,85,1.0,1.56,1.56,1.0,0.0
+2025-10-22,C001,IT,Google Ads,Search,220,2.0,2.62,1.31,2.0,0.0
+2025-10-22,C002,DE,Google Ads,Search,97,1.0,1.02,1.02,1.0,0.0
+2025-10-22,C002,IT,Google Ads,Search,69,1.0,1.11,1.11,1.0,0.0
+2025-10-22,C004,ES,Google Ads,Display,333,4.0,5.36,1.34,1.0,0.0
+2025-10-22,C004,NL,Google Ads,Display,75,1.0,1.39,1.39,1.0,0.0
+2025-10-22,C006,PL,Meta Ads,Instagram,68,1.0,0.69,0.69,1.0,0.0
+2025-10-22,C008,PL,Meta Ads,Facebook,95,1.0,0.7,0.7,1.0,0.0
+2025-10-23,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-23,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-23,C001,DE,Google Ads,Search,0,0.0,0.0,1.34,0.0,1.0
+2025-10-23,C001,FR,Google Ads,Search,56,1.0,1.22,1.22,1.0,0.0
+2025-10-23,C001,NL,Google Ads,Search,100,1.0,0.97,0.97,1.0,0.0
+2025-10-23,C003,FR,Google Ads,Display,0,0.0,0.0,1.05,0.0,1.0
+2025-10-23,C005,FR,Meta Ads,Instagram,128,1.0,0.72,0.72,1.0,0.0
+2025-10-23,C006,DE,Meta Ads,Instagram,126,1.0,0.83,0.83,1.0,0.0
+2025-10-23,C006,NL,Meta Ads,Instagram,82,1.0,0.87,0.87,1.0,0.0
+2025-10-23,C006,PL,Meta Ads,Instagram,92,1.0,0.78,0.78,1.0,0.0
+2025-10-23,C008,DE,Meta Ads,Facebook,94,1.0,0.73,0.73,0.0,0.0
+2025-10-23,C009,FR,LinkedIn Ads,Sponsored Content,69,1.0,3.11,3.11,1.0,0.0
+2025-10-24,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,3.0,0.0
+2025-10-24,C001,DE,Google Ads,Search,75,1.0,1.08,1.08,1.0,0.0
+2025-10-24,C003,IT,Google Ads,Display,73,1.0,1.17,1.17,1.0,0.0
+2025-10-24,C005,DE,Meta Ads,Instagram,69,1.0,0.61,0.61,1.0,0.0
+2025-10-24,C005,IT,Meta Ads,Instagram,0,0.0,0.0,0.57,0.0,1.0
+2025-10-24,C005,PL,Meta Ads,Instagram,190,2.0,1.48,0.74,2.0,0.0
+2025-10-24,C006,PL,Meta Ads,Instagram,305,1.0,0.72,0.72,1.0,0.0
+2025-10-24,C007,FR,Meta Ads,Facebook,82,1.0,0.77,0.77,1.0,0.0
+2025-10-24,C008,DE,Meta Ads,Facebook,334,4.0,3.04,0.76,1.0,0.0
+2025-10-24,C010,ES,LinkedIn Ads,Sponsored Content,62,1.0,2.9,2.9,1.0,0.0
+2025-10-25,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-25,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-25,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-25,C001,NL,Google Ads,Search,72,1.0,1.3,1.3,1.0,0.0
+2025-10-25,C002,DE,Google Ads,Search,0,0.0,0.0,1.19,0.0,1.0
+2025-10-25,C002,PL,Google Ads,Search,83,1.0,1.27,1.27,1.0,0.0
+2025-10-25,C003,PL,Google Ads,Display,63,1.0,1.07,1.07,1.0,0.0
+2025-10-25,C006,DE,Meta Ads,Instagram,102,1.0,0.74,0.74,1.0,0.0
+2025-10-25,C006,IT,Meta Ads,Instagram,66,1.0,0.77,0.77,1.0,0.0
+2025-10-25,C006,NL,Meta Ads,Instagram,68,1.0,0.63,0.63,1.0,0.0
+2025-10-25,C007,DE,Meta Ads,Facebook,122,1.0,0.71,0.71,1.0,0.0
+2025-10-25,C007,NL,Meta Ads,Facebook,63,1.0,0.63,0.63,1.0,0.0
+2025-10-25,C008,NL,Meta Ads,Facebook,68,1.0,0.64,0.64,1.0,0.0
+2025-10-25,C011,PL,Reddit Ads,Interest,81,1.0,0.75,0.75,1.0,0.0
+2025-10-26,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-26,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-26,C001,ES,Google Ads,Search,102,1.0,1.43,1.43,1.0,0.0
+2025-10-26,C002,ES,Google Ads,Search,282,4.0,5.56,1.39,3.0,0.0
+2025-10-26,C002,IT,Google Ads,Search,122,1.0,1.3,1.3,0.0,0.0
+2025-10-26,C002,NL,Google Ads,Search,73,1.0,1.55,1.55,1.0,0.0
+2025-10-26,C005,DE,Meta Ads,Instagram,142,1.0,0.68,0.68,1.0,0.0
+2025-10-26,C005,FR,Meta Ads,Instagram,179,2.0,2.04,1.02,2.0,0.0
+2025-10-26,C005,NL,Meta Ads,Instagram,80,1.0,0.68,0.68,1.0,0.0
+2025-10-26,C007,ES,Meta Ads,Facebook,46,1.0,0.73,0.73,1.0,0.0
+2025-10-26,C008,NL,Meta Ads,Facebook,154,1.0,0.66,0.66,1.0,0.0
+2025-10-26,C010,DE,LinkedIn Ads,Sponsored Content,56,1.0,2.96,2.96,1.0,0.0
+2025-10-26,C012,PL,Reddit Ads,Interest,79,1.0,1.01,1.01,1.0,0.0
+2025-10-27,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-27,C001,ES,Google Ads,Search,80,1.0,1.18,1.18,1.0,0.0
+2025-10-27,C002,ES,Google Ads,Search,218,3.0,4.56,1.52,1.0,0.0
+2025-10-27,C002,IT,Google Ads,Search,351,4.0,4.96,1.24,1.0,0.0
+2025-10-27,C003,NL,Google Ads,Display,56,1.0,1.25,1.25,1.0,0.0
+2025-10-27,C004,ES,Google Ads,Display,98,1.0,1.04,1.04,1.0,0.0
+2025-10-27,C005,ES,Meta Ads,Instagram,60,1.0,0.74,0.74,1.0,0.0
+2025-10-27,C005,FR,Meta Ads,Instagram,106,1.0,0.69,0.69,1.0,0.0
+2025-10-27,C005,PL,Meta Ads,Instagram,85,1.0,0.64,0.64,1.0,0.0
+2025-10-27,C006,NL,Meta Ads,Instagram,130,1.0,0.62,0.62,1.0,0.0
+2025-10-27,C010,NL,LinkedIn Ads,Sponsored Content,72,1.0,3.92,3.92,1.0,0.0
+2025-10-27,C011,ES,Reddit Ads,Interest,56,1.0,0.86,0.86,1.0,0.0
+2025-10-27,C011,FR,Reddit Ads,Interest,86,1.0,0.7,0.7,1.0,0.0
+2025-10-27,C011,IT,Reddit Ads,Interest,89,1.0,0.81,0.81,1.0,0.0
+2025-10-27,C012,DE,Reddit Ads,Interest,133,1.0,0.89,0.89,1.0,0.0
+2025-10-28,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-28,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-28,C001,ES,Google Ads,Search,120,1.0,1.3,1.3,1.0,0.0
+2025-10-28,C001,FR,Google Ads,Search,155,2.0,2.6,1.3,2.0,0.0
+2025-10-28,C001,NL,Google Ads,Search,58,1.0,1.32,1.32,1.0,0.0
+2025-10-28,C002,IT,Google Ads,Search,86,2.0,2.16,1.08,2.0,0.0
+2025-10-28,C004,FR,Google Ads,Display,207,2.0,2.52,1.26,2.0,0.0
+2025-10-28,C005,DE,Meta Ads,Instagram,56,1.0,0.61,0.61,1.0,0.0
+2025-10-28,C005,FR,Meta Ads,Instagram,77,1.0,0.63,0.63,1.0,0.0
+2025-10-28,C005,NL,Meta Ads,Instagram,88,1.0,0.6,0.6,1.0,0.0
+2025-10-28,C006,ES,Meta Ads,Instagram,73,1.0,0.58,0.58,1.0,0.0
+2025-10-28,C006,FR,Meta Ads,Instagram,82,1.0,0.81,0.81,1.0,0.0
+2025-10-28,C006,NL,Meta Ads,Instagram,80,1.0,0.77,0.77,1.0,0.0
+2025-10-28,C007,DE,Meta Ads,Facebook,0,0.0,0.0,0.8,0.0,1.0
+2025-10-28,C008,DE,Meta Ads,Facebook,156,1.0,0.7,0.7,0.0,0.0
+2025-10-29,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-10-29,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-29,C001,NL,Google Ads,Search,92,1.0,1.34,1.34,1.0,0.0
+2025-10-29,C002,DE,Google Ads,Search,0,0.0,0.0,0.88,0.0,1.0
+2025-10-29,C002,ES,Google Ads,Search,83,1.0,1.36,1.36,1.0,0.0
+2025-10-29,C002,FR,Google Ads,Search,0,0.0,0.0,1.23,0.0,1.0
+2025-10-29,C003,ES,Google Ads,Display,79,1.0,1.31,1.31,1.0,0.0
+2025-10-29,C005,IT,Meta Ads,Instagram,107,1.0,0.74,0.74,1.0,0.0
+2025-10-29,C007,PL,Meta Ads,Facebook,59,1.0,0.6,0.6,1.0,0.0
+2025-10-29,C008,DE,Meta Ads,Facebook,218,4.0,2.16,0.54,1.0,0.0
+2025-10-29,C008,FR,Meta Ads,Facebook,72,1.0,0.63,0.63,0.0,0.0
+2025-10-29,C008,IT,Meta Ads,Facebook,63,1.0,0.76,0.76,1.0,0.0
+2025-10-29,C008,NL,Meta Ads,Facebook,0,0.0,0.0,0.77,0.0,1.0
+2025-10-29,C010,PL,LinkedIn Ads,Sponsored Content,61,1.0,2.23,2.23,1.0,0.0
+2025-10-29,C011,IT,Reddit Ads,Interest,0,0.0,0.0,0.77,0.0,1.0
+2025-10-30,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-30,C001,NL,Google Ads,Search,71,1.0,1.07,1.07,1.0,0.0
+2025-10-30,C004,FR,Google Ads,Display,131,1.0,1.14,1.14,1.0,0.0
+2025-10-30,C006,IT,Meta Ads,Instagram,0,0.0,0.0,0.56,0.0,1.0
+2025-10-30,C008,DE,Meta Ads,Facebook,152,1.0,0.55,0.55,1.0,0.0
+2025-10-30,C008,FR,Meta Ads,Facebook,453,4.0,2.44,0.61,1.0,0.0
+2025-10-30,C008,IT,Meta Ads,Facebook,58,1.0,0.71,0.71,0.0,0.0
+2025-10-30,C010,NL,LinkedIn Ads,Sponsored Content,65,1.0,2.3,2.3,1.0,0.0
+2025-10-30,C011,ES,Reddit Ads,Interest,56,1.0,0.88,0.88,1.0,0.0
+2025-10-30,C011,FR,Reddit Ads,Interest,92,1.0,1.04,1.04,1.0,0.0
+2025-10-31,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-10-31,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-31,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-10-31,C001,IT,Google Ads,Search,81,1.0,0.97,0.97,1.0,0.0
+2025-10-31,C002,FR,Google Ads,Search,60,1.0,1.16,1.16,1.0,0.0
+2025-10-31,C004,DE,Google Ads,Display,95,1.0,1.38,1.38,1.0,0.0
+2025-10-31,C004,FR,Google Ads,Display,75,1.0,1.12,1.12,1.0,0.0
+2025-10-31,C006,FR,Meta Ads,Instagram,124,1.0,0.64,0.64,1.0,0.0
+2025-10-31,C007,FR,Meta Ads,Facebook,145,2.0,1.64,0.82,2.0,0.0
+2025-10-31,C008,IT,Meta Ads,Facebook,499,6.0,4.02,0.67,1.0,0.0
+2025-10-31,C010,IT,LinkedIn Ads,Sponsored Content,111,1.0,3.26,3.26,1.0,0.0
+2025-10-31,C012,PL,Reddit Ads,Interest,90,1.0,0.96,0.96,1.0,0.0
+2025-11-01,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-01,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-01,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-01,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-01,C001,ES,Google Ads,Search,91,1.0,1.14,1.14,1.0,0.0
+2025-11-01,C001,FR,Google Ads,Search,277,1.0,1.29,1.29,1.0,0.0
+2025-11-01,C003,FR,Google Ads,Display,0,0.0,0.0,1.26,0.0,1.0
+2025-11-01,C003,IT,Google Ads,Display,91,1.0,1.38,1.38,1.0,0.0
+2025-11-01,C003,PL,Google Ads,Display,108,1.0,1.1,1.1,1.0,0.0
+2025-11-01,C005,PL,Meta Ads,Instagram,57,1.0,0.7,0.7,1.0,0.0
+2025-11-01,C006,NL,Meta Ads,Instagram,88,1.0,0.69,0.69,1.0,0.0
+2025-11-01,C008,DE,Meta Ads,Facebook,117,2.0,1.54,0.77,2.0,0.0
+2025-11-01,C008,IT,Meta Ads,Facebook,82,1.0,0.59,0.59,1.0,0.0
+2025-11-01,C011,PL,Reddit Ads,Interest,82,1.0,1.04,1.04,1.0,0.0
+2025-11-01,C012,IT,Reddit Ads,Interest,86,1.0,0.96,0.96,0.0,0.0
+2025-11-01,C012,NL,Reddit Ads,Interest,83,1.0,0.72,0.72,1.0,0.0
+2025-11-02,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-02,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-02,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-02,C002,DE,Google Ads,Search,102,1.0,1.42,1.42,1.0,0.0
+2025-11-02,C002,NL,Google Ads,Search,83,1.0,1.6,1.6,1.0,0.0
+2025-11-02,C004,IT,Google Ads,Display,68,1.0,1.38,1.38,1.0,0.0
+2025-11-02,C005,DE,Meta Ads,Instagram,72,1.0,0.85,0.85,1.0,0.0
+2025-11-02,C008,IT,Meta Ads,Facebook,191,2.0,1.42,0.71,2.0,0.0
+2025-11-02,C008,PL,Meta Ads,Facebook,62,1.0,0.53,0.53,1.0,0.0
+2025-11-02,C011,FR,Reddit Ads,Interest,62,1.0,0.65,0.65,1.0,0.0
+2025-11-02,C011,NL,Reddit Ads,Interest,79,1.0,0.93,0.93,1.0,0.0
+2025-11-02,C011,PL,Reddit Ads,Interest,63,1.0,0.82,0.82,1.0,0.0
+2025-11-02,C012,DE,Reddit Ads,Interest,76,1.0,0.78,0.78,1.0,0.0
+2025-11-02,C012,IT,Reddit Ads,Interest,615,6.0,5.34,0.89,1.0,0.0
+2025-11-03,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-03,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-03,C001,DE,Google Ads,Search,167,2.0,2.62,1.31,2.0,0.0
+2025-11-03,C001,NL,Google Ads,Search,56,1.0,0.94,0.94,1.0,0.0
+2025-11-03,C002,PL,Google Ads,Search,333,1.0,1.12,1.12,1.0,0.0
+2025-11-03,C004,ES,Google Ads,Display,158,1.0,1.47,1.47,1.0,0.0
+2025-11-03,C009,IT,LinkedIn Ads,Sponsored Content,138,1.0,2.35,2.35,1.0,0.0
+2025-11-03,C010,ES,LinkedIn Ads,Sponsored Content,95,1.0,3.17,3.17,1.0,0.0
+2025-11-04,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-04,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-04,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-04,C001,DE,Google Ads,Search,117,1.0,1.11,1.11,1.0,0.0
+2025-11-04,C001,PL,Google Ads,Search,46,1.0,1.3,1.3,1.0,0.0
+2025-11-04,C003,IT,Google Ads,Display,52,1.0,1.4,1.4,1.0,0.0
+2025-11-04,C004,NL,Google Ads,Display,97,1.0,1.33,1.33,1.0,0.0
+2025-11-04,C007,DE,Meta Ads,Facebook,95,1.0,0.8,0.8,1.0,0.0
+2025-11-04,C012,ES,Reddit Ads,Interest,135,1.0,0.74,0.74,1.0,0.0
+2025-11-05,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-05,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-05,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-05,C001,FR,Google Ads,Search,86,1.0,1.4,1.4,1.0,0.0
+2025-11-05,C001,PL,Google Ads,Search,179,1.0,1.05,1.05,1.0,0.0
+2025-11-05,C004,DE,Google Ads,Display,112,1.0,1.25,1.25,0.0,0.0
+2025-11-05,C005,DE,Meta Ads,Instagram,79,1.0,0.73,0.73,1.0,0.0
+2025-11-05,C006,ES,Meta Ads,Instagram,74,1.0,0.75,0.75,1.0,0.0
+2025-11-05,C006,IT,Meta Ads,Instagram,73,1.0,0.74,0.74,1.0,0.0
+2025-11-05,C007,FR,Meta Ads,Facebook,149,1.0,0.61,0.61,1.0,0.0
+2025-11-05,C007,PL,Meta Ads,Facebook,130,2.0,1.12,0.56,2.0,0.0
+2025-11-05,C008,FR,Meta Ads,Facebook,227,2.0,1.58,0.79,2.0,0.0
+2025-11-05,C008,NL,Meta Ads,Facebook,69,1.0,0.72,0.72,1.0,0.0
+2025-11-05,C010,IT,LinkedIn Ads,Sponsored Content,84,1.0,3.28,3.28,1.0,0.0
+2025-11-05,C010,NL,LinkedIn Ads,Sponsored Content,154,1.0,2.78,2.78,1.0,0.0
+2025-11-06,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-06,C001,FR,Google Ads,Search,74,1.0,0.95,0.95,1.0,0.0
+2025-11-06,C001,NL,Google Ads,Search,69,1.0,1.37,1.37,1.0,0.0
+2025-11-06,C002,FR,Google Ads,Search,87,1.0,1.13,1.13,1.0,0.0
+2025-11-06,C002,NL,Google Ads,Search,55,1.0,1.26,1.26,1.0,0.0
+2025-11-06,C004,DE,Google Ads,Display,125,2.0,2.16,1.08,1.0,0.0
+2025-11-06,C005,NL,Meta Ads,Instagram,91,1.0,0.87,0.87,1.0,0.0
+2025-11-06,C005,PL,Meta Ads,Instagram,0,0.0,0.0,0.61,0.0,1.0
+2025-11-06,C006,DE,Meta Ads,Instagram,51,1.0,0.66,0.66,1.0,0.0
+2025-11-06,C007,IT,Meta Ads,Facebook,50,1.0,0.71,0.71,1.0,0.0
+2025-11-06,C008,DE,Meta Ads,Facebook,0,0.0,0.0,0.59,0.0,1.0
+2025-11-06,C008,FR,Meta Ads,Facebook,121,1.0,0.73,0.73,1.0,0.0
+2025-11-07,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-07,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-07,C003,DE,Google Ads,Display,149,1.0,1.49,1.49,1.0,0.0
+2025-11-07,C003,NL,Google Ads,Display,0,0.0,0.0,1.11,0.0,1.0
+2025-11-07,C004,DE,Google Ads,Display,146,2.0,2.54,1.27,2.0,0.0
+2025-11-07,C005,DE,Meta Ads,Instagram,0,0.0,0.0,0.41,0.0,1.0
+2025-11-07,C006,FR,Meta Ads,Instagram,106,1.0,0.7,0.7,0.0,0.0
+2025-11-07,C007,PL,Meta Ads,Facebook,107,1.0,0.67,0.67,1.0,0.0
+2025-11-07,C012,FR,Reddit Ads,Interest,109,1.0,0.79,0.79,1.0,0.0
+2025-11-08,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-08,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-08,C001,NL,Google Ads,Search,76,1.0,1.39,1.39,1.0,1.0
+2025-11-08,C001,PL,Google Ads,Search,64,1.0,1.14,1.14,1.0,0.0
+2025-11-08,C002,DE,Google Ads,Search,100,1.0,1.17,1.17,1.0,1.0
+2025-11-08,C002,PL,Google Ads,Search,89,1.0,1.13,1.13,1.0,0.0
+2025-11-08,C005,DE,Meta Ads,Instagram,109,1.0,0.5,0.5,1.0,0.0
+2025-11-08,C005,FR,Meta Ads,Instagram,333,1.0,0.58,0.58,0.0,0.0
+2025-11-08,C006,FR,Meta Ads,Instagram,617,4.0,3.2,0.8,1.0,0.0
+2025-11-08,C009,DE,LinkedIn Ads,Sponsored Content,210,1.0,1.91,1.91,0.0,0.0
+2025-11-08,C009,IT,LinkedIn Ads,Sponsored Content,333,1.0,2.48,2.48,1.0,0.0
+2025-11-08,C011,ES,Reddit Ads,Interest,139,1.0,0.85,0.85,1.0,0.0
+2025-11-08,C011,PL,Reddit Ads,Interest,0,0.0,0.0,1.14,0.0,1.0
+2025-11-09,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-09,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-09,C001,IT,Google Ads,Search,73,1.0,1.34,1.34,1.0,0.0
+2025-11-09,C002,DE,Google Ads,Search,66,1.0,1.1,1.1,1.0,0.0
+2025-11-09,C003,NL,Google Ads,Display,119,1.0,1.43,1.43,1.0,0.0
+2025-11-09,C005,FR,Meta Ads,Instagram,213,3.0,1.86,0.62,1.0,0.0
+2025-11-09,C009,DE,LinkedIn Ads,Sponsored Content,201,3.0,9.66,3.22,1.0,0.0
+2025-11-09,C010,DE,LinkedIn Ads,Sponsored Content,103,1.0,2.23,2.23,1.0,0.0
+2025-11-10,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-10,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-11-10,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,1.0
+2025-11-10,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-10,C001,DE,Google Ads,Search,138,1.0,1.39,1.39,1.0,0.0
+2025-11-10,C001,FR,Google Ads,Search,81,1.0,1.13,1.13,1.0,0.0
+2025-11-10,C008,FR,Meta Ads,Facebook,75,1.0,0.59,0.59,1.0,0.0
+2025-11-10,C008,IT,Meta Ads,Facebook,113,1.0,0.68,0.68,1.0,0.0
+2025-11-10,C011,IT,Reddit Ads,Interest,83,1.0,0.94,0.94,1.0,0.0
+2025-11-11,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-11,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-11-11,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-11,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-11,C001,DE,Google Ads,Search,250,2.0,2.22,1.11,2.0,0.0
+2025-11-11,C001,NL,Google Ads,Search,53,1.0,1.3,1.3,1.0,0.0
+2025-11-11,C002,ES,Google Ads,Search,101,1.0,1.1,1.1,1.0,0.0
+2025-11-11,C005,DE,Meta Ads,Instagram,62,1.0,0.77,0.77,1.0,1.0
+2025-11-11,C005,IT,Meta Ads,Instagram,81,1.0,0.75,0.75,0.0,0.0
+2025-11-11,C007,FR,Meta Ads,Facebook,97,1.0,0.69,0.69,1.0,0.0
+2025-11-11,C008,DE,Meta Ads,Facebook,210,1.0,0.65,0.65,1.0,0.0
+2025-11-11,C008,ES,Meta Ads,Facebook,88,1.0,0.72,0.72,1.0,0.0
+2025-11-11,C008,PL,Meta Ads,Facebook,174,1.0,0.76,0.76,1.0,0.0
+2025-11-11,C009,NL,LinkedIn Ads,Sponsored Content,63,1.0,3.67,3.67,1.0,0.0
+2025-11-11,C011,DE,Reddit Ads,Interest,111,2.0,2.06,1.03,2.0,0.0
+2025-11-11,C012,IT,Reddit Ads,Interest,113,1.0,1.03,1.03,1.0,0.0
+2025-11-12,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-12,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,3.0,1.0
+2025-11-12,C001,FR,Google Ads,Search,0,0.0,0.0,1.76,0.0,1.0
+2025-11-12,C001,IT,Google Ads,Search,66,1.0,1.29,1.29,1.0,0.0
+2025-11-12,C003,IT,Google Ads,Display,84,1.0,1.29,1.29,1.0,0.0
+2025-11-12,C004,DE,Google Ads,Display,53,1.0,1.33,1.33,1.0,0.0
+2025-11-12,C005,DE,Meta Ads,Instagram,99,1.0,0.59,0.59,1.0,0.0
+2025-11-12,C005,IT,Meta Ads,Instagram,188,3.0,1.95,0.65,1.0,0.0
+2025-11-12,C006,DE,Meta Ads,Instagram,81,1.0,0.65,0.65,1.0,0.0
+2025-11-12,C006,IT,Meta Ads,Instagram,66,1.0,0.77,0.77,1.0,0.0
+2025-11-12,C007,NL,Meta Ads,Facebook,196,2.0,1.36,0.68,2.0,0.0
+2025-11-12,C011,IT,Reddit Ads,Interest,85,1.0,0.92,0.92,1.0,0.0
+2025-11-12,C012,FR,Reddit Ads,Interest,87,1.0,1.05,1.05,1.0,0.0
+2025-11-13,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-13,C001,FR,Google Ads,Search,68,1.0,1.36,1.36,1.0,0.0
+2025-11-13,C001,IT,Google Ads,Search,68,1.0,1.17,1.17,1.0,0.0
+2025-11-13,C002,DE,Google Ads,Search,70,1.0,1.08,1.08,1.0,0.0
+2025-11-13,C003,DE,Google Ads,Display,55,1.0,1.4,1.4,1.0,0.0
+2025-11-13,C003,FR,Google Ads,Display,56,1.0,1.34,1.34,1.0,0.0
+2025-11-13,C004,DE,Google Ads,Display,0,0.0,0.0,0.91,0.0,1.0
+2025-11-13,C006,DE,Meta Ads,Instagram,148,2.0,1.34,0.67,2.0,0.0
+2025-11-13,C007,DE,Meta Ads,Facebook,105,1.0,0.72,0.72,1.0,0.0
+2025-11-13,C007,FR,Meta Ads,Facebook,83,1.0,0.78,0.78,0.0,0.0
+2025-11-13,C007,IT,Meta Ads,Facebook,104,1.0,0.8,0.8,1.0,0.0
+2025-11-13,C007,PL,Meta Ads,Facebook,54,1.0,0.73,0.73,1.0,0.0
+2025-11-13,C008,ES,Meta Ads,Facebook,74,1.0,0.76,0.76,1.0,0.0
+2025-11-14,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-14,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-14,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-14,C003,PL,Google Ads,Display,254,1.0,1.21,1.21,1.0,0.0
+2025-11-14,C004,ES,Google Ads,Display,66,1.0,1.08,1.08,1.0,0.0
+2025-11-14,C005,IT,Meta Ads,Instagram,82,1.0,0.67,0.67,1.0,0.0
+2025-11-14,C006,NL,Meta Ads,Instagram,154,2.0,1.4,0.7,2.0,0.0
+2025-11-14,C007,FR,Meta Ads,Facebook,448,3.0,2.1,0.7,1.0,0.0
+2025-11-14,C008,NL,Meta Ads,Facebook,84,1.0,0.5,0.5,1.0,0.0
+2025-11-14,C008,PL,Meta Ads,Facebook,50,1.0,0.66,0.66,1.0,0.0
+2025-11-14,C010,PL,LinkedIn Ads,Sponsored Content,65,1.0,2.82,2.82,1.0,0.0
+2025-11-14,C011,IT,Reddit Ads,Interest,79,1.0,0.86,0.86,1.0,0.0
+2025-11-14,C012,DE,Reddit Ads,Interest,98,1.0,0.87,0.87,1.0,0.0
+2025-11-15,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-15,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-15,C001,ES,Google Ads,Search,77,1.0,1.29,1.29,1.0,0.0
+2025-11-15,C001,NL,Google Ads,Search,65,1.0,1.01,1.01,1.0,1.0
+2025-11-15,C002,DE,Google Ads,Search,176,1.0,0.91,0.91,1.0,0.0
+2025-11-15,C002,NL,Google Ads,Search,107,1.0,1.14,1.14,1.0,0.0
+2025-11-15,C005,IT,Meta Ads,Instagram,136,1.0,0.78,0.78,1.0,0.0
+2025-11-15,C007,FR,Meta Ads,Facebook,123,1.0,0.88,0.88,1.0,0.0
+2025-11-15,C009,NL,LinkedIn Ads,Sponsored Content,82,1.0,3.13,3.13,0.0,0.0
+2025-11-15,C009,PL,LinkedIn Ads,Sponsored Content,273,1.0,2.18,2.18,1.0,0.0
+2025-11-15,C011,FR,Reddit Ads,Interest,69,1.0,0.87,0.87,1.0,0.0
+2025-11-15,C011,PL,Reddit Ads,Interest,67,1.0,0.93,0.93,1.0,0.0
+2025-11-15,C012,ES,Reddit Ads,Interest,91,1.0,0.92,0.92,0.0,0.0
+2025-11-15,C012,PL,Reddit Ads,Interest,333,1.0,0.97,0.97,1.0,0.0
+2025-11-16,C001,FR,Google Ads,Search,125,1.0,1.03,1.03,1.0,0.0
+2025-11-16,C001,IT,Google Ads,Search,59,1.0,1.21,1.21,1.0,0.0
+2025-11-16,C002,NL,Google Ads,Search,0,0.0,0.0,1.28,0.0,1.0
+2025-11-16,C002,PL,Google Ads,Search,94,1.0,1.35,1.35,1.0,0.0
+2025-11-16,C003,DE,Google Ads,Display,137,1.0,1.05,1.05,1.0,0.0
+2025-11-16,C005,ES,Meta Ads,Instagram,66,1.0,0.66,0.66,1.0,0.0
+2025-11-16,C007,NL,Meta Ads,Facebook,108,1.0,0.42,0.42,1.0,0.0
+2025-11-16,C009,NL,LinkedIn Ads,Sponsored Content,367,5.0,12.7,2.54,1.0,0.0
+2025-11-16,C011,NL,Reddit Ads,Interest,70,1.0,0.83,0.83,1.0,0.0
+2025-11-16,C012,ES,Reddit Ads,Interest,207,4.0,3.04,0.76,1.0,0.0
+2025-11-16,C012,IT,Reddit Ads,Interest,89,1.0,0.92,0.92,1.0,0.0
+2025-11-17,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-11-17,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-17,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-17,C002,IT,Google Ads,Search,112,1.0,1.19,1.19,1.0,0.0
+2025-11-17,C003,PL,Google Ads,Display,102,1.0,0.79,0.79,1.0,0.0
+2025-11-17,C005,PL,Meta Ads,Instagram,84,1.0,0.72,0.72,1.0,0.0
+2025-11-17,C007,IT,Meta Ads,Facebook,174,1.0,0.6,0.6,1.0,0.0
+2025-11-17,C009,ES,LinkedIn Ads,Sponsored Content,77,1.0,3.0,3.0,1.0,0.0
+2025-11-17,C012,ES,Reddit Ads,Interest,63,1.0,0.73,0.73,1.0,0.0
+2025-11-17,C012,PL,Reddit Ads,Interest,76,1.0,0.9,0.9,1.0,0.0
+2025-11-18,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-18,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-18,C001,FR,Google Ads,Search,67,1.0,1.15,1.15,1.0,0.0
+2025-11-18,C002,DE,Google Ads,Search,223,1.0,1.25,1.25,1.0,0.0
+2025-11-18,C003,FR,Google Ads,Display,130,1.0,1.22,1.22,1.0,0.0
+2025-11-18,C004,NL,Google Ads,Display,64,1.0,1.15,1.15,1.0,0.0
+2025-11-18,C005,DE,Meta Ads,Instagram,0,0.0,0.0,0.54,0.0,1.0
+2025-11-18,C006,DE,Meta Ads,Instagram,73,1.0,0.54,0.54,1.0,0.0
+2025-11-18,C006,ES,Meta Ads,Instagram,0,0.0,0.0,0.64,0.0,1.0
+2025-11-18,C007,DE,Meta Ads,Facebook,72,1.0,0.7,0.7,1.0,0.0
+2025-11-18,C007,FR,Meta Ads,Facebook,68,1.0,0.64,0.64,1.0,0.0
+2025-11-18,C010,IT,LinkedIn Ads,Sponsored Content,44,1.0,3.06,3.06,1.0,0.0
+2025-11-19,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-19,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-11-19,C002,NL,Google Ads,Search,73,1.0,1.15,1.15,1.0,0.0
+2025-11-19,C003,DE,Google Ads,Display,73,1.0,1.03,1.03,1.0,0.0
+2025-11-19,C007,FR,Meta Ads,Facebook,101,1.0,0.67,0.67,1.0,0.0
+2025-11-19,C008,NL,Meta Ads,Facebook,127,1.0,0.72,0.72,1.0,0.0
+2025-11-19,C011,DE,Reddit Ads,Interest,47,1.0,0.94,0.94,1.0,0.0
+2025-11-20,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-20,C002,DE,Google Ads,Search,110,1.0,1.54,1.54,0.0,0.0
+2025-11-20,C006,ES,Meta Ads,Instagram,64,1.0,0.63,0.63,1.0,0.0
+2025-11-20,C010,DE,LinkedIn Ads,Sponsored Content,86,1.0,2.77,2.77,1.0,0.0
+2025-11-20,C011,DE,Reddit Ads,Interest,91,1.0,0.96,0.96,1.0,0.0
+2025-11-20,C011,FR,Reddit Ads,Interest,70,1.0,0.9,0.9,1.0,0.0
+2025-11-20,C012,FR,Reddit Ads,Interest,146,1.0,0.83,0.83,1.0,0.0
+2025-11-21,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-21,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-21,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-21,C001,ES,Google Ads,Search,95,1.0,0.92,0.92,1.0,0.0
+2025-11-21,C001,FR,Google Ads,Search,100,1.0,1.11,1.11,1.0,0.0
+2025-11-21,C001,NL,Google Ads,Search,97,1.0,1.01,1.01,1.0,0.0
+2025-11-21,C002,DE,Google Ads,Search,546,6.0,5.34,0.89,1.0,0.0
+2025-11-21,C002,FR,Google Ads,Search,95,1.0,1.06,1.06,1.0,0.0
+2025-11-21,C002,IT,Google Ads,Search,64,1.0,1.01,1.01,1.0,0.0
+2025-11-21,C002,PL,Google Ads,Search,197,1.0,1.31,1.31,1.0,1.0
+2025-11-21,C003,IT,Google Ads,Display,65,1.0,1.31,1.31,1.0,0.0
+2025-11-21,C003,NL,Google Ads,Display,95,1.0,1.04,1.04,1.0,0.0
+2025-11-21,C005,ES,Meta Ads,Instagram,74,1.0,0.67,0.67,1.0,0.0
+2025-11-21,C005,FR,Meta Ads,Instagram,133,1.0,0.5,0.5,1.0,0.0
+2025-11-21,C009,PL,LinkedIn Ads,Sponsored Content,116,2.0,5.18,2.59,1.0,0.0
+2025-11-21,C011,FR,Reddit Ads,Interest,59,1.0,0.95,0.95,1.0,0.0
+2025-11-21,C012,DE,Reddit Ads,Interest,126,2.0,2.02,1.01,2.0,0.0
+2025-11-21,C012,FR,Reddit Ads,Interest,168,1.0,0.8,0.8,1.0,0.0
+2025-11-22,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-22,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-22,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-22,C001,ES,Google Ads,Search,84,1.0,1.39,1.39,1.0,0.0
+2025-11-22,C002,FR,Google Ads,Search,74,1.0,0.93,0.93,1.0,0.0
+2025-11-22,C004,ES,Google Ads,Display,141,2.0,1.96,0.98,2.0,0.0
+2025-11-22,C007,DE,Meta Ads,Facebook,79,1.0,0.77,0.77,1.0,0.0
+2025-11-22,C007,NL,Meta Ads,Facebook,0,0.0,0.0,0.88,0.0,1.0
+2025-11-22,C008,PL,Meta Ads,Facebook,56,1.0,0.75,0.75,1.0,0.0
+2025-11-22,C009,DE,LinkedIn Ads,Sponsored Content,59,1.0,2.78,2.78,0.0,0.0
+2025-11-22,C009,PL,LinkedIn Ads,Sponsored Content,667,2.0,3.76,1.88,1.0,0.0
+2025-11-22,C012,DE,Reddit Ads,Interest,93,1.0,0.63,0.63,1.0,0.0
+2025-11-23,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,4.0,0.0
+2025-11-23,C002,PL,Google Ads,Search,200,1.0,1.22,1.22,1.0,0.0
+2025-11-23,C003,NL,Google Ads,Display,81,1.0,1.14,1.14,1.0,0.0
+2025-11-23,C004,FR,Google Ads,Display,59,1.0,1.0,1.0,1.0,0.0
+2025-11-23,C005,FR,Meta Ads,Instagram,131,1.0,0.71,0.71,1.0,0.0
+2025-11-23,C007,FR,Meta Ads,Facebook,75,1.0,0.71,0.71,1.0,0.0
+2025-11-23,C009,DE,LinkedIn Ads,Sponsored Content,240,2.0,6.4,3.2,1.0,0.0
+2025-11-23,C012,IT,Reddit Ads,Interest,215,2.0,1.84,0.92,2.0,0.0
+2025-11-23,C012,PL,Reddit Ads,Interest,56,1.0,1.07,1.07,1.0,0.0
+2025-11-24,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-24,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-24,C002,PL,Google Ads,Search,221,1.0,1.2,1.2,1.0,0.0
+2025-11-24,C003,ES,Google Ads,Display,51,1.0,1.18,1.18,1.0,0.0
+2025-11-24,C005,ES,Meta Ads,Instagram,69,1.0,0.81,0.81,1.0,0.0
+2025-11-24,C005,FR,Meta Ads,Instagram,0,0.0,0.0,0.6,0.0,1.0
+2025-11-24,C006,IT,Meta Ads,Instagram,70,1.0,1.0,1.0,1.0,0.0
+2025-11-24,C008,FR,Meta Ads,Facebook,157,1.0,0.74,0.74,1.0,0.0
+2025-11-24,C012,DE,Reddit Ads,Interest,60,1.0,0.95,0.95,1.0,0.0
+2025-11-24,C012,IT,Reddit Ads,Interest,93,1.0,0.97,0.97,1.0,0.0
+2025-11-25,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-25,C001,NL,Google Ads,Search,100,1.0,1.54,1.54,1.0,0.0
+2025-11-25,C002,IT,Google Ads,Search,207,2.0,2.68,1.34,1.0,0.0
+2025-11-25,C004,ES,Google Ads,Display,68,1.0,0.91,0.91,1.0,0.0
+2025-11-25,C007,NL,Meta Ads,Facebook,154,2.0,1.7,0.85,2.0,0.0
+2025-11-25,C008,IT,Meta Ads,Facebook,68,1.0,0.66,0.66,1.0,0.0
+2025-11-26,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-26,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-26,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-26,C001,DE,Google Ads,Search,48,1.0,1.22,1.22,1.0,0.0
+2025-11-26,C002,DE,Google Ads,Search,175,1.0,0.97,0.97,1.0,0.0
+2025-11-26,C002,FR,Google Ads,Search,59,1.0,1.29,1.29,1.0,0.0
+2025-11-26,C002,IT,Google Ads,Search,229,4.0,4.32,1.08,1.0,0.0
+2025-11-26,C006,IT,Meta Ads,Instagram,116,1.0,0.71,0.71,1.0,0.0
+2025-11-26,C010,PL,LinkedIn Ads,Sponsored Content,0,0.0,0.0,2.68,0.0,1.0
+2025-11-27,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-27,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-27,C002,FR,Google Ads,Search,83,1.0,1.55,1.55,1.0,0.0
+2025-11-27,C002,NL,Google Ads,Search,180,2.0,3.12,1.56,2.0,0.0
+2025-11-27,C002,PL,Google Ads,Search,90,1.0,1.21,1.21,1.0,0.0
+2025-11-27,C005,FR,Meta Ads,Instagram,74,1.0,0.71,0.71,1.0,0.0
+2025-11-27,C006,DE,Meta Ads,Instagram,57,1.0,0.66,0.66,1.0,0.0
+2025-11-27,C007,DE,Meta Ads,Facebook,0,0.0,0.0,0.82,0.0,1.0
+2025-11-27,C008,FR,Meta Ads,Facebook,120,1.0,0.67,0.67,1.0,0.0
+2025-11-27,C012,NL,Reddit Ads,Interest,65,1.0,0.84,0.84,1.0,0.0
+2025-11-28,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,1.0
+2025-11-28,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-28,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-28,C001,FR,Google Ads,Search,92,1.0,1.38,1.38,1.0,0.0
+2025-11-28,C002,DE,Google Ads,Search,121,1.0,1.1,1.1,1.0,0.0
+2025-11-28,C002,IT,Google Ads,Search,0,0.0,0.0,1.19,0.0,1.0
+2025-11-28,C002,PL,Google Ads,Search,183,1.0,0.92,0.92,1.0,0.0
+2025-11-28,C008,IT,Meta Ads,Facebook,77,1.0,0.77,0.77,1.0,0.0
+2025-11-28,C009,ES,LinkedIn Ads,Sponsored Content,86,1.0,3.62,3.62,1.0,1.0
+2025-11-28,C010,PL,LinkedIn Ads,Sponsored Content,98,1.0,3.1,3.1,1.0,0.0
+2025-11-29,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-29,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-29,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-29,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-29,C001,DE,Google Ads,Search,74,1.0,1.46,1.46,1.0,0.0
+2025-11-29,C001,IT,Google Ads,Search,155,1.0,1.05,1.05,1.0,0.0
+2025-11-29,C002,DE,Google Ads,Search,56,1.0,1.24,1.24,1.0,1.0
+2025-11-29,C002,FR,Google Ads,Search,88,1.0,1.03,1.03,1.0,0.0
+2025-11-29,C002,PL,Google Ads,Search,76,1.0,1.16,1.16,1.0,0.0
+2025-11-29,C003,DE,Google Ads,Display,47,1.0,1.34,1.34,1.0,0.0
+2025-11-29,C005,FR,Meta Ads,Instagram,55,1.0,0.71,0.71,1.0,0.0
+2025-11-29,C007,FR,Meta Ads,Facebook,0,0.0,0.0,0.55,0.0,1.0
+2025-11-29,C008,IT,Meta Ads,Facebook,104,1.0,0.56,0.56,1.0,0.0
+2025-11-29,C008,PL,Meta Ads,Facebook,0,0.0,0.0,0.55,0.0,1.0
+2025-11-29,C011,DE,Reddit Ads,Interest,71,1.0,0.97,0.97,1.0,0.0
+2025-11-29,C011,ES,Reddit Ads,Interest,86,1.0,1.18,1.18,1.0,0.0
+2025-11-30,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-11-30,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-11-30,C001,DE,Google Ads,Search,87,1.0,1.45,1.45,1.0,0.0
+2025-11-30,C001,ES,Google Ads,Search,47,1.0,0.86,0.86,1.0,0.0
+2025-11-30,C001,IT,Google Ads,Search,81,1.0,1.46,1.46,0.0,0.0
+2025-11-30,C003,FR,Google Ads,Display,52,1.0,1.37,1.37,1.0,0.0
+2025-11-30,C005,FR,Meta Ads,Instagram,74,1.0,0.54,0.54,1.0,0.0
+2025-11-30,C006,PL,Meta Ads,Instagram,63,1.0,0.67,0.67,1.0,0.0
+2025-11-30,C008,FR,Meta Ads,Facebook,110,1.0,0.82,0.82,1.0,0.0
+2025-11-30,C010,DE,LinkedIn Ads,Sponsored Content,116,1.0,3.03,3.03,1.0,0.0
+2025-11-30,C011,FR,Reddit Ads,Interest,72,1.0,0.72,0.72,0.0,0.0
+2025-11-30,C012,PL,Reddit Ads,Interest,63,1.0,0.98,0.98,1.0,0.0
+2025-12-01,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-01,C001,IT,Google Ads,Search,292,2.0,1.64,0.82,1.0,0.0
+2025-12-01,C002,ES,Google Ads,Search,152,1.0,1.16,1.16,1.0,0.0
+2025-12-01,C003,IT,Google Ads,Display,159,1.0,1.4,1.4,1.0,0.0
+2025-12-01,C004,IT,Google Ads,Display,406,2.0,2.4,1.2,2.0,0.0
+2025-12-01,C006,ES,Meta Ads,Instagram,80,1.0,0.65,0.65,1.0,0.0
+2025-12-01,C009,IT,LinkedIn Ads,Sponsored Content,61,1.0,3.17,3.17,1.0,0.0
+2025-12-01,C011,FR,Reddit Ads,Interest,251,3.0,3.09,1.03,1.0,0.0
+2025-12-01,C011,PL,Reddit Ads,Interest,333,1.0,1.08,1.08,1.0,0.0
+2025-12-02,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-02,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-02,C002,ES,Google Ads,Search,49,1.0,1.36,1.36,1.0,0.0
+2025-12-02,C003,PL,Google Ads,Display,162,1.0,1.39,1.39,1.0,1.0
+2025-12-02,C004,ES,Google Ads,Display,96,1.0,1.33,1.33,1.0,0.0
+2025-12-02,C005,DE,Meta Ads,Instagram,53,1.0,0.73,0.73,1.0,0.0
+2025-12-02,C005,FR,Meta Ads,Instagram,72,1.0,0.71,0.71,0.0,0.0
+2025-12-02,C006,ES,Meta Ads,Instagram,70,1.0,0.68,0.68,1.0,0.0
+2025-12-02,C006,FR,Meta Ads,Instagram,161,2.0,1.14,0.57,2.0,0.0
+2025-12-02,C006,IT,Meta Ads,Instagram,75,1.0,0.6,0.6,1.0,0.0
+2025-12-02,C009,DE,LinkedIn Ads,Sponsored Content,66,1.0,2.68,2.68,1.0,0.0
+2025-12-02,C012,PL,Reddit Ads,Interest,114,1.0,0.93,0.93,0.0,0.0
+2025-12-03,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-03,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-03,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-12-03,C001,IT,Google Ads,Search,79,1.0,1.46,1.46,1.0,0.0
+2025-12-03,C002,DE,Google Ads,Search,105,1.0,1.19,1.19,1.0,0.0
+2025-12-03,C002,FR,Google Ads,Search,0,0.0,0.0,1.38,0.0,1.0
+2025-12-03,C002,IT,Google Ads,Search,105,1.0,1.39,1.39,1.0,0.0
+2025-12-03,C003,FR,Google Ads,Display,130,1.0,1.16,1.16,1.0,0.0
+2025-12-03,C003,NL,Google Ads,Display,94,1.0,1.31,1.31,1.0,0.0
+2025-12-03,C004,PL,Google Ads,Display,132,1.0,1.16,1.16,1.0,0.0
+2025-12-03,C005,FR,Meta Ads,Instagram,451,6.0,5.04,0.84,1.0,0.0
+2025-12-03,C006,PL,Meta Ads,Instagram,135,1.0,0.77,0.77,1.0,0.0
+2025-12-03,C011,ES,Reddit Ads,Interest,0,0.0,0.0,0.74,0.0,1.0
+2025-12-03,C011,NL,Reddit Ads,Interest,137,1.0,0.92,0.92,1.0,0.0
+2025-12-03,C012,PL,Reddit Ads,Interest,308,3.0,3.36,1.12,1.0,0.0
+2025-12-04,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-12-04,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-04,C001,NL,Google Ads,Search,75,1.0,1.17,1.17,1.0,0.0
+2025-12-04,C006,FR,Meta Ads,Instagram,179,2.0,1.5,0.75,2.0,0.0
+2025-12-04,C006,PL,Meta Ads,Instagram,71,1.0,0.76,0.76,1.0,0.0
+2025-12-04,C007,PL,Meta Ads,Facebook,280,1.0,0.59,0.59,1.0,0.0
+2025-12-04,C008,NL,Meta Ads,Facebook,85,1.0,0.75,0.75,1.0,0.0
+2025-12-04,C008,PL,Meta Ads,Facebook,50,1.0,0.55,0.55,1.0,0.0
+2025-12-04,C012,FR,Reddit Ads,Interest,80,1.0,0.82,0.82,1.0,0.0
+2025-12-05,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-05,C001,ES,Google Ads,Search,70,1.0,1.39,1.39,1.0,0.0
+2025-12-05,C001,FR,Google Ads,Search,64,1.0,1.26,1.26,1.0,0.0
+2025-12-05,C001,PL,Google Ads,Search,249,1.0,1.15,1.15,1.0,0.0
+2025-12-05,C002,FR,Google Ads,Search,190,1.0,1.28,1.28,1.0,0.0
+2025-12-05,C003,FR,Google Ads,Display,156,2.0,2.38,1.19,2.0,0.0
+2025-12-05,C003,NL,Google Ads,Display,0,0.0,0.0,1.2,0.0,1.0
+2025-12-05,C004,ES,Google Ads,Display,0,0.0,0.0,1.32,0.0,1.0
+2025-12-05,C007,IT,Meta Ads,Facebook,93,1.0,0.62,0.62,1.0,0.0
+2025-12-05,C008,IT,Meta Ads,Facebook,235,1.0,0.7,0.7,1.0,0.0
+2025-12-05,C011,DE,Reddit Ads,Interest,144,1.0,0.86,0.86,1.0,0.0
+2025-12-05,C012,PL,Reddit Ads,Interest,333,1.0,0.69,0.69,1.0,0.0
+2025-12-06,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-12-06,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-06,C001,PL,Google Ads,Search,97,1.0,1.03,1.03,0.0,0.0
+2025-12-06,C002,PL,Google Ads,Search,0,0.0,0.0,1.48,0.0,1.0
+2025-12-06,C004,DE,Google Ads,Display,60,1.0,1.27,1.27,1.0,0.0
+2025-12-06,C004,FR,Google Ads,Display,88,1.0,0.96,0.96,1.0,0.0
+2025-12-06,C006,IT,Meta Ads,Instagram,578,2.0,1.08,0.54,2.0,0.0
+2025-12-06,C006,PL,Meta Ads,Instagram,69,1.0,0.69,0.69,1.0,0.0
+2025-12-06,C007,IT,Meta Ads,Facebook,70,1.0,0.86,0.86,1.0,0.0
+2025-12-07,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-12-07,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-07,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-07,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-07,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-07,C001,ES,Google Ads,Search,67,1.0,1.17,1.17,1.0,0.0
+2025-12-07,C001,NL,Google Ads,Search,190,1.0,1.44,1.44,1.0,0.0
+2025-12-07,C001,PL,Google Ads,Search,121,1.0,1.26,1.26,2.0,0.0
+2025-12-07,C002,IT,Google Ads,Search,55,1.0,1.28,1.28,1.0,0.0
+2025-12-07,C005,NL,Meta Ads,Instagram,91,1.0,0.56,0.56,0.0,0.0
+2025-12-07,C006,PL,Meta Ads,Instagram,130,2.0,1.6,0.8,1.0,0.0
+2025-12-07,C008,FR,Meta Ads,Facebook,77,1.0,0.66,0.66,1.0,0.0
+2025-12-07,C008,PL,Meta Ads,Facebook,86,1.0,0.79,0.79,0.0,0.0
+2025-12-07,C009,ES,LinkedIn Ads,Sponsored Content,57,1.0,2.46,2.46,1.0,0.0
+2025-12-07,C009,PL,LinkedIn Ads,Sponsored Content,90,1.0,2.87,2.87,1.0,0.0
+2025-12-07,C011,PL,Reddit Ads,Interest,205,1.0,0.95,0.95,1.0,0.0
+2025-12-08,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,1.0
+2025-12-08,C001,FR,Google Ads,Search,70,1.0,1.17,1.17,1.0,0.0
+2025-12-08,C001,IT,Google Ads,Search,74,1.0,1.27,1.27,1.0,0.0
+2025-12-08,C004,PL,Google Ads,Display,174,1.0,1.15,1.15,1.0,0.0
+2025-12-08,C005,NL,Meta Ads,Instagram,330,3.0,1.89,0.63,1.0,0.0
+2025-12-08,C006,IT,Meta Ads,Instagram,103,1.0,0.87,0.87,1.0,0.0
+2025-12-08,C006,PL,Meta Ads,Instagram,380,4.0,3.24,0.81,1.0,0.0
+2025-12-08,C008,PL,Meta Ads,Facebook,616,4.0,2.48,0.62,1.0,0.0
+2025-12-08,C009,IT,LinkedIn Ads,Sponsored Content,105,1.0,3.04,3.04,1.0,0.0
+2025-12-08,C009,NL,LinkedIn Ads,Sponsored Content,110,1.0,2.49,2.49,0.0,0.0
+2025-12-08,C011,IT,Reddit Ads,Interest,66,1.0,0.74,0.74,1.0,0.0
+2025-12-09,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-09,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-09,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-09,C001,DE,Google Ads,Search,80,1.0,1.39,1.39,1.0,0.0
+2025-12-09,C001,ES,Google Ads,Search,114,1.0,0.89,0.89,1.0,0.0
+2025-12-09,C001,PL,Google Ads,Search,135,1.0,1.37,1.37,1.0,0.0
+2025-12-09,C002,IT,Google Ads,Search,0,0.0,0.0,1.15,0.0,1.0
+2025-12-09,C003,IT,Google Ads,Display,106,1.0,1.16,1.16,1.0,0.0
+2025-12-09,C005,ES,Meta Ads,Instagram,136,1.0,0.74,0.74,1.0,0.0
+2025-12-09,C005,NL,Meta Ads,Instagram,79,1.0,0.76,0.76,1.0,0.0
+2025-12-09,C006,FR,Meta Ads,Instagram,67,1.0,0.61,0.61,1.0,0.0
+2025-12-09,C007,FR,Meta Ads,Facebook,177,1.0,0.78,0.78,1.0,0.0
+2025-12-09,C008,IT,Meta Ads,Facebook,83,1.0,0.71,0.71,1.0,0.0
+2025-12-09,C009,NL,LinkedIn Ads,Sponsored Content,360,4.0,9.08,2.27,1.0,0.0
+2025-12-09,C012,DE,Reddit Ads,Interest,75,1.0,0.88,0.88,1.0,0.0
+2025-12-09,C012,IT,Reddit Ads,Interest,84,1.0,1.09,1.09,1.0,0.0
+2025-12-10,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-10,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-10,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-10,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-10,C001,IT,Google Ads,Search,636,2.0,3.0,1.5,2.0,0.0
+2025-12-10,C002,IT,Google Ads,Search,75,1.0,1.33,1.33,1.0,0.0
+2025-12-10,C004,IT,Google Ads,Display,60,1.0,0.99,0.99,1.0,0.0
+2025-12-10,C005,ES,Meta Ads,Instagram,88,1.0,0.75,0.75,0.0,0.0
+2025-12-10,C007,DE,Meta Ads,Facebook,70,1.0,0.79,0.79,1.0,0.0
+2025-12-10,C007,FR,Meta Ads,Facebook,109,1.0,0.78,0.78,1.0,0.0
+2025-12-10,C008,ES,Meta Ads,Facebook,87,1.0,0.78,0.78,1.0,0.0
+2025-12-10,C010,FR,LinkedIn Ads,Sponsored Content,181,1.0,2.95,2.95,1.0,0.0
+2025-12-11,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-11,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-12-11,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-11,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-11,C001,DE,Google Ads,Search,155,1.0,1.19,1.19,1.0,1.0
+2025-12-11,C002,IT,Google Ads,Search,157,1.0,1.09,1.09,1.0,0.0
+2025-12-11,C003,ES,Google Ads,Display,88,1.0,0.86,0.86,1.0,0.0
+2025-12-11,C005,DE,Meta Ads,Instagram,110,1.0,0.74,0.74,1.0,0.0
+2025-12-11,C005,ES,Meta Ads,Instagram,296,4.0,2.88,0.72,1.0,0.0
+2025-12-11,C006,DE,Meta Ads,Instagram,72,1.0,0.76,0.76,1.0,0.0
+2025-12-11,C006,ES,Meta Ads,Instagram,75,1.0,0.56,0.56,1.0,0.0
+2025-12-11,C006,PL,Meta Ads,Instagram,77,1.0,0.77,0.77,1.0,0.0
+2025-12-11,C007,PL,Meta Ads,Facebook,55,1.0,0.92,0.92,1.0,0.0
+2025-12-11,C010,DE,LinkedIn Ads,Sponsored Content,129,1.0,2.83,2.83,1.0,0.0
+2025-12-11,C012,DE,Reddit Ads,Interest,170,2.0,1.78,0.89,1.0,0.0
+2025-12-12,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-12,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,3.0,1.0
+2025-12-12,C002,PL,Google Ads,Search,158,1.0,1.26,1.26,1.0,0.0
+2025-12-12,C004,FR,Google Ads,Display,93,1.0,1.57,1.57,0.0,0.0
+2025-12-12,C005,FR,Meta Ads,Instagram,115,2.0,1.18,0.59,2.0,0.0
+2025-12-12,C006,DE,Meta Ads,Instagram,71,1.0,0.72,0.72,1.0,0.0
+2025-12-12,C006,ES,Meta Ads,Instagram,78,1.0,0.62,0.62,1.0,0.0
+2025-12-12,C006,IT,Meta Ads,Instagram,90,1.0,0.64,0.64,1.0,0.0
+2025-12-12,C007,ES,Meta Ads,Facebook,96,1.0,0.69,0.69,1.0,0.0
+2025-12-12,C007,PL,Meta Ads,Facebook,76,1.0,0.84,0.84,1.0,0.0
+2025-12-12,C012,DE,Reddit Ads,Interest,455,5.0,5.7,1.14,1.0,0.0
+2025-12-13,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,1.0
+2025-12-13,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,3.0,0.0
+2025-12-13,C001,DE,Google Ads,Search,323,3.0,3.84,1.28,2.0,0.0
+2025-12-13,C002,PL,Google Ads,Search,142,2.0,2.26,1.13,1.0,0.0
+2025-12-13,C004,ES,Google Ads,Display,42,1.0,1.65,1.65,1.0,1.0
+2025-12-13,C004,FR,Google Ads,Display,613,3.0,3.36,1.12,1.0,0.0
+2025-12-13,C005,FR,Meta Ads,Instagram,75,1.0,0.64,0.64,1.0,0.0
+2025-12-13,C005,PL,Meta Ads,Instagram,112,1.0,0.51,0.51,1.0,0.0
+2025-12-13,C008,IT,Meta Ads,Facebook,70,1.0,0.85,0.85,1.0,0.0
+2025-12-13,C011,FR,Reddit Ads,Interest,82,1.0,1.03,1.03,1.0,0.0
+2025-12-14,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-14,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-14,C001,DE,Google Ads,Search,313,4.0,6.56,1.64,1.0,0.0
+2025-12-14,C001,FR,Google Ads,Search,61,1.0,0.95,0.95,1.0,0.0
+2025-12-14,C002,PL,Google Ads,Search,1667,5.0,7.3,1.46,1.0,0.0
+2025-12-14,C003,ES,Google Ads,Display,54,1.0,1.21,1.21,1.0,0.0
+2025-12-14,C006,IT,Meta Ads,Instagram,74,1.0,0.78,0.78,1.0,0.0
+2025-12-14,C007,FR,Meta Ads,Facebook,61,1.0,0.53,0.53,1.0,0.0
+2025-12-14,C008,FR,Meta Ads,Facebook,140,1.0,0.85,0.85,1.0,0.0
+2025-12-14,C008,NL,Meta Ads,Facebook,115,1.0,0.78,0.78,1.0,0.0
+2025-12-14,C011,DE,Reddit Ads,Interest,159,2.0,1.78,0.89,2.0,0.0
+2025-12-14,C011,NL,Reddit Ads,Interest,84,1.0,0.99,0.99,1.0,0.0
+2025-12-14,C012,FR,Reddit Ads,Interest,76,1.0,0.8,0.8,1.0,0.0
+2025-12-15,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-15,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-15,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-15,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-15,C001,DE,Google Ads,Search,89,1.0,1.1,1.1,1.0,0.0
+2025-12-15,C001,NL,Google Ads,Search,327,2.0,2.24,1.12,2.0,0.0
+2025-12-15,C002,NL,Google Ads,Search,71,1.0,0.87,0.87,1.0,0.0
+2025-12-15,C004,FR,Google Ads,Display,333,1.0,1.36,1.36,1.0,0.0
+2025-12-15,C004,IT,Google Ads,Display,69,1.0,1.41,1.41,1.0,0.0
+2025-12-15,C004,PL,Google Ads,Display,166,1.0,1.07,1.07,1.0,0.0
+2025-12-15,C005,PL,Meta Ads,Instagram,82,1.0,0.74,0.74,1.0,0.0
+2025-12-15,C006,DE,Meta Ads,Instagram,174,2.0,1.34,0.67,1.0,0.0
+2025-12-15,C006,PL,Meta Ads,Instagram,60,1.0,0.73,0.73,1.0,0.0
+2025-12-15,C008,NL,Meta Ads,Facebook,0,0.0,0.0,0.63,0.0,1.0
+2025-12-15,C009,DE,LinkedIn Ads,Sponsored Content,108,1.0,2.43,2.43,1.0,0.0
+2025-12-15,C009,FR,LinkedIn Ads,Sponsored Content,100,1.0,3.24,3.24,1.0,0.0
+2025-12-15,C009,PL,LinkedIn Ads,Sponsored Content,59,1.0,2.77,2.77,1.0,0.0
+2025-12-15,C010,DE,LinkedIn Ads,Sponsored Content,141,2.0,7.3,3.65,2.0,0.0
+2025-12-16,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-12-16,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-16,C001,ES,Google Ads,Search,174,1.0,1.21,1.21,1.0,0.0
+2025-12-16,C001,FR,Google Ads,Search,74,1.0,1.03,1.03,1.0,0.0
+2025-12-16,C001,IT,Google Ads,Search,202,1.0,1.42,1.42,0.0,0.0
+2025-12-16,C005,ES,Meta Ads,Instagram,67,1.0,0.77,0.77,1.0,0.0
+2025-12-16,C005,NL,Meta Ads,Instagram,0,0.0,0.0,0.78,0.0,1.0
+2025-12-16,C006,DE,Meta Ads,Instagram,232,5.0,4.15,0.83,1.0,0.0
+2025-12-16,C006,NL,Meta Ads,Instagram,132,1.0,0.63,0.63,1.0,0.0
+2025-12-16,C008,DE,Meta Ads,Facebook,86,1.0,0.69,0.69,1.0,0.0
+2025-12-16,C008,NL,Meta Ads,Facebook,52,1.0,0.68,0.68,0.0,0.0
+2025-12-16,C010,DE,LinkedIn Ads,Sponsored Content,60,1.0,2.26,2.26,1.0,0.0
+2025-12-16,C010,NL,LinkedIn Ads,Sponsored Content,109,1.0,2.69,2.69,1.0,0.0
+2025-12-17,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-17,C001,DE,Google Ads,Search,83,1.0,1.44,1.44,1.0,0.0
+2025-12-17,C001,ES,Google Ads,Search,76,1.0,1.24,1.24,1.0,0.0
+2025-12-17,C001,IT,Google Ads,Search,326,3.0,2.88,0.96,1.0,0.0
+2025-12-17,C003,NL,Google Ads,Display,86,1.0,0.92,0.92,1.0,0.0
+2025-12-17,C004,FR,Google Ads,Display,178,1.0,1.5,1.5,1.0,0.0
+2025-12-17,C005,FR,Meta Ads,Instagram,80,1.0,0.69,0.69,1.0,0.0
+2025-12-17,C007,DE,Meta Ads,Facebook,72,1.0,0.63,0.63,1.0,0.0
+2025-12-17,C007,ES,Meta Ads,Facebook,90,1.0,0.67,0.67,1.0,0.0
+2025-12-17,C008,NL,Meta Ads,Facebook,722,4.0,2.16,0.54,1.0,0.0
+2025-12-17,C011,DE,Reddit Ads,Interest,125,2.0,2.18,1.09,2.0,0.0
+2025-12-17,C011,IT,Reddit Ads,Interest,0,0.0,0.0,0.85,0.0,1.0
+2025-12-18,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-18,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-18,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-18,C001,IT,Google Ads,Search,127,1.0,1.45,1.45,1.0,0.0
+2025-12-18,C001,NL,Google Ads,Search,102,1.0,1.21,1.21,1.0,0.0
+2025-12-18,C002,NL,Google Ads,Search,59,1.0,1.46,1.46,1.0,0.0
+2025-12-18,C003,ES,Google Ads,Display,106,1.0,1.25,1.25,0.0,0.0
+2025-12-18,C006,IT,Meta Ads,Instagram,69,1.0,0.79,0.79,1.0,0.0
+2025-12-18,C006,NL,Meta Ads,Instagram,102,1.0,0.78,0.78,1.0,0.0
+2025-12-18,C007,IT,Meta Ads,Facebook,77,1.0,0.77,0.77,1.0,0.0
+2025-12-18,C011,FR,Reddit Ads,Interest,87,1.0,0.95,0.95,1.0,0.0
+2025-12-19,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-19,C001,NL,Google Ads,Search,101,1.0,1.16,1.16,1.0,0.0
+2025-12-19,C003,ES,Google Ads,Display,350,2.0,3.08,1.54,1.0,0.0
+2025-12-19,C004,NL,Google Ads,Display,155,1.0,1.04,1.04,1.0,0.0
+2025-12-19,C006,FR,Meta Ads,Instagram,101,1.0,0.7,0.7,1.0,0.0
+2025-12-19,C008,ES,Meta Ads,Facebook,143,1.0,0.7,0.7,1.0,0.0
+2025-12-19,C008,NL,Meta Ads,Facebook,73,1.0,0.74,0.74,1.0,0.0
+2025-12-19,C010,ES,LinkedIn Ads,Sponsored Content,99,1.0,2.62,2.62,0.0,0.0
+2025-12-20,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-12-20,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-20,C001,IT,Google Ads,Search,78,1.0,1.26,1.26,1.0,0.0
+2025-12-20,C009,FR,LinkedIn Ads,Sponsored Content,134,1.0,2.73,2.73,1.0,0.0
+2025-12-20,C010,ES,LinkedIn Ads,Sponsored Content,299,3.0,6.42,2.14,1.0,0.0
+2025-12-20,C011,DE,Reddit Ads,Interest,80,1.0,0.9,0.9,1.0,0.0
+2025-12-20,C012,IT,Reddit Ads,Interest,0,0.0,0.0,0.75,0.0,1.0
+2025-12-21,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,1.0
+2025-12-21,C001,DE,Google Ads,Search,51,1.0,0.89,0.89,1.0,0.0
+2025-12-21,C002,ES,Google Ads,Search,98,1.0,1.22,1.22,1.0,0.0
+2025-12-21,C003,DE,Google Ads,Display,153,2.0,2.58,1.29,2.0,0.0
+2025-12-21,C004,ES,Google Ads,Display,62,1.0,1.29,1.29,1.0,0.0
+2025-12-21,C004,FR,Google Ads,Display,88,1.0,1.3,1.3,1.0,0.0
+2025-12-21,C005,FR,Meta Ads,Instagram,103,1.0,0.5,0.5,0.0,0.0
+2025-12-21,C005,IT,Meta Ads,Instagram,333,1.0,0.56,0.56,1.0,0.0
+2025-12-21,C005,NL,Meta Ads,Instagram,69,1.0,0.91,0.91,1.0,0.0
+2025-12-21,C008,PL,Meta Ads,Facebook,87,1.0,0.59,0.59,1.0,0.0
+2025-12-21,C009,NL,LinkedIn Ads,Sponsored Content,126,1.0,3.06,3.06,1.0,0.0
+2025-12-21,C010,NL,LinkedIn Ads,Sponsored Content,0,0.0,0.0,2.51,0.0,1.0
+2025-12-21,C011,PL,Reddit Ads,Interest,103,1.0,0.91,0.91,1.0,0.0
+2025-12-22,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-22,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-22,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-22,C001,IT,Google Ads,Search,0,0.0,0.0,1.09,0.0,1.0
+2025-12-22,C002,DE,Google Ads,Search,156,1.0,1.3,1.3,1.0,0.0
+2025-12-22,C002,FR,Google Ads,Search,107,1.0,1.22,1.22,1.0,0.0
+2025-12-22,C005,FR,Meta Ads,Instagram,102,2.0,1.3,0.65,1.0,0.0
+2025-12-22,C006,PL,Meta Ads,Instagram,61,1.0,0.59,0.59,1.0,0.0
+2025-12-22,C009,IT,LinkedIn Ads,Sponsored Content,81,1.0,2.91,2.91,1.0,0.0
+2025-12-22,C012,FR,Reddit Ads,Interest,121,1.0,0.74,0.74,1.0,0.0
+2025-12-22,C012,NL,Reddit Ads,Interest,101,1.0,0.96,0.96,1.0,0.0
+2025-12-23,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-23,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-23,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2025-12-23,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-12-23,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-12-23,C001,FR,Google Ads,Search,160,1.0,1.67,1.67,1.0,0.0
+2025-12-23,C002,ES,Google Ads,Search,101,1.0,1.44,1.44,1.0,0.0
+2025-12-23,C002,FR,Google Ads,Search,64,1.0,1.33,1.33,1.0,0.0
+2025-12-23,C003,ES,Google Ads,Display,0,0.0,0.0,1.18,0.0,1.0
+2025-12-23,C003,PL,Google Ads,Display,89,1.0,0.85,0.85,1.0,0.0
+2025-12-23,C005,NL,Meta Ads,Instagram,115,1.0,0.56,0.56,1.0,0.0
+2025-12-23,C006,PL,Meta Ads,Instagram,80,1.0,0.83,0.83,1.0,0.0
+2025-12-23,C007,FR,Meta Ads,Facebook,0,0.0,0.0,0.62,0.0,1.0
+2025-12-23,C008,PL,Meta Ads,Facebook,56,1.0,0.63,0.63,1.0,0.0
+2025-12-23,C009,IT,LinkedIn Ads,Sponsored Content,71,1.0,2.73,2.73,1.0,0.0
+2025-12-23,C011,IT,Reddit Ads,Interest,148,1.0,0.76,0.76,1.0,0.0
+2025-12-24,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-24,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,1.0
+2025-12-24,C001,NL,Google Ads,Search,103,1.0,0.98,0.98,1.0,0.0
+2025-12-24,C001,PL,Google Ads,Search,75,1.0,1.19,1.19,1.0,0.0
+2025-12-24,C002,ES,Google Ads,Search,100,1.0,1.04,1.04,1.0,0.0
+2025-12-24,C006,NL,Meta Ads,Instagram,64,1.0,0.62,0.62,1.0,0.0
+2025-12-24,C007,ES,Meta Ads,Facebook,112,1.0,0.62,0.62,1.0,0.0
+2025-12-24,C008,ES,Meta Ads,Facebook,105,1.0,0.75,0.75,1.0,0.0
+2025-12-24,C010,PL,LinkedIn Ads,Sponsored Content,107,1.0,2.7,2.7,1.0,0.0
+2025-12-24,C011,PL,Reddit Ads,Interest,103,1.0,0.88,0.88,1.0,0.0
+2025-12-25,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-25,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-25,C002,DE,Google Ads,Search,53,1.0,1.31,1.31,1.0,0.0
+2025-12-25,C004,NL,Google Ads,Display,47,1.0,1.17,1.17,1.0,0.0
+2025-12-25,C007,IT,Meta Ads,Facebook,127,1.0,0.67,0.67,0.0,0.0
+2025-12-25,C008,IT,Meta Ads,Facebook,81,1.0,0.75,0.75,1.0,0.0
+2025-12-25,C010,ES,LinkedIn Ads,Sponsored Content,137,1.0,3.08,3.08,1.0,0.0
+2025-12-26,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-26,C001,DE,Google Ads,Search,105,1.0,1.17,1.17,1.0,0.0
+2025-12-26,C001,NL,Google Ads,Search,129,1.0,1.21,1.21,1.0,0.0
+2025-12-26,C002,FR,Google Ads,Search,128,1.0,1.06,1.06,1.0,0.0
+2025-12-26,C003,DE,Google Ads,Display,88,1.0,1.05,1.05,1.0,0.0
+2025-12-26,C004,IT,Google Ads,Display,140,1.0,1.34,1.34,1.0,0.0
+2025-12-26,C004,PL,Google Ads,Display,65,1.0,1.28,1.28,1.0,0.0
+2025-12-26,C006,ES,Meta Ads,Instagram,120,1.0,0.75,0.75,1.0,0.0
+2025-12-26,C006,NL,Meta Ads,Instagram,43,1.0,0.73,0.73,1.0,0.0
+2025-12-26,C007,FR,Meta Ads,Facebook,0,0.0,0.0,0.7,0.0,1.0
+2025-12-26,C007,IT,Meta Ads,Facebook,407,5.0,3.85,0.77,1.0,0.0
+2025-12-26,C008,PL,Meta Ads,Facebook,147,1.0,0.8,0.8,1.0,0.0
+2025-12-26,C011,ES,Reddit Ads,Interest,53,1.0,1.02,1.02,1.0,0.0
+2025-12-27,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-27,C001,ES,Google Ads,Search,76,1.0,1.18,1.18,1.0,0.0
+2025-12-27,C001,IT,Google Ads,Search,0,0.0,0.0,1.45,0.0,1.0
+2025-12-27,C002,ES,Google Ads,Search,78,1.0,1.24,1.24,1.0,1.0
+2025-12-27,C005,DE,Meta Ads,Instagram,133,1.0,0.77,0.77,1.0,0.0
+2025-12-27,C006,PL,Meta Ads,Instagram,56,1.0,0.73,0.73,1.0,0.0
+2025-12-27,C007,DE,Meta Ads,Facebook,66,1.0,0.73,0.73,1.0,0.0
+2025-12-27,C007,NL,Meta Ads,Facebook,81,1.0,0.62,0.62,1.0,0.0
+2025-12-27,C011,ES,Reddit Ads,Interest,333,1.0,0.99,0.99,1.0,0.0
+2025-12-27,C011,IT,Reddit Ads,Interest,248,2.0,2.56,1.28,2.0,0.0
+2025-12-27,C012,DE,Reddit Ads,Interest,0,0.0,0.0,0.85,0.0,1.0
+2025-12-28,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-28,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-28,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2025-12-28,C001,ES,Google Ads,Search,76,1.0,1.21,1.21,1.0,0.0
+2025-12-28,C001,FR,Google Ads,Search,62,1.0,1.12,1.12,1.0,0.0
+2025-12-28,C002,FR,Google Ads,Search,186,1.0,1.11,1.11,1.0,0.0
+2025-12-28,C003,DE,Google Ads,Display,84,1.0,1.48,1.48,1.0,0.0
+2025-12-28,C004,IT,Google Ads,Display,76,1.0,1.08,1.08,1.0,0.0
+2025-12-28,C004,NL,Google Ads,Display,93,1.0,1.11,1.11,1.0,0.0
+2025-12-28,C005,DE,Meta Ads,Instagram,218,1.0,0.53,0.53,1.0,0.0
+2025-12-28,C005,FR,Meta Ads,Instagram,93,1.0,0.62,0.62,1.0,0.0
+2025-12-28,C006,FR,Meta Ads,Instagram,94,1.0,0.52,0.52,1.0,0.0
+2025-12-28,C006,NL,Meta Ads,Instagram,175,2.0,1.54,0.77,2.0,0.0
+2025-12-28,C008,IT,Meta Ads,Facebook,103,1.0,0.99,0.99,1.0,0.0
+2025-12-28,C008,NL,Meta Ads,Facebook,98,1.0,0.66,0.66,1.0,0.0
+2025-12-28,C011,ES,Reddit Ads,Interest,84,1.0,0.67,0.67,1.0,0.0
+2025-12-28,C012,NL,Reddit Ads,Interest,73,1.0,1.02,1.02,1.0,0.0
+2025-12-29,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-29,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-29,C001,ES,Google Ads,Search,81,1.0,1.07,1.07,1.0,0.0
+2025-12-29,C002,ES,Google Ads,Search,232,1.0,1.43,1.43,1.0,0.0
+2025-12-29,C003,IT,Google Ads,Display,72,1.0,1.15,1.15,1.0,0.0
+2025-12-29,C004,DE,Google Ads,Display,83,1.0,1.09,1.09,1.0,0.0
+2025-12-29,C005,DE,Meta Ads,Instagram,82,1.0,0.68,0.68,1.0,0.0
+2025-12-29,C005,NL,Meta Ads,Instagram,63,1.0,0.78,0.78,1.0,0.0
+2025-12-29,C008,DE,Meta Ads,Facebook,239,1.0,0.68,0.68,1.0,0.0
+2025-12-29,C009,PL,LinkedIn Ads,Sponsored Content,244,1.0,2.59,2.59,1.0,0.0
+2025-12-29,C011,DE,Reddit Ads,Interest,76,1.0,0.87,0.87,1.0,0.0
+2025-12-30,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-30,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-30,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-30,C002,FR,Google Ads,Search,68,1.0,0.97,0.97,1.0,0.0
+2025-12-30,C002,NL,Google Ads,Search,64,1.0,1.27,1.27,1.0,0.0
+2025-12-30,C002,PL,Google Ads,Search,72,1.0,0.88,0.88,1.0,0.0
+2025-12-30,C004,IT,Google Ads,Display,91,1.0,1.12,1.12,0.0,0.0
+2025-12-30,C005,FR,Meta Ads,Instagram,280,1.0,0.78,0.78,1.0,0.0
+2025-12-30,C007,DE,Meta Ads,Facebook,66,1.0,0.73,0.73,1.0,0.0
+2025-12-30,C008,ES,Meta Ads,Facebook,59,1.0,0.76,0.76,1.0,0.0
+2025-12-30,C008,IT,Meta Ads,Facebook,69,1.0,0.69,0.69,0.0,0.0
+2025-12-30,C009,IT,LinkedIn Ads,Sponsored Content,118,1.0,3.29,3.29,1.0,0.0
+2025-12-30,C010,ES,LinkedIn Ads,Sponsored Content,68,1.0,3.19,3.19,1.0,0.0
+2025-12-31,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-31,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2025-12-31,C004,IT,Google Ads,Display,353,3.0,3.84,1.28,1.0,0.0
+2025-12-31,C005,PL,Meta Ads,Instagram,90,1.0,0.8,0.8,1.0,0.0
+2025-12-31,C006,FR,Meta Ads,Instagram,67,1.0,0.78,0.78,1.0,0.0
+2025-12-31,C006,PL,Meta Ads,Instagram,82,1.0,0.65,0.65,1.0,0.0
+2025-12-31,C007,ES,Meta Ads,Facebook,133,1.0,0.56,0.56,1.0,0.0
+2025-12-31,C008,IT,Meta Ads,Facebook,366,5.0,3.7,0.74,1.0,0.0
+2026-01-01,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-01,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2026-01-01,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-01,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-01,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-01,C001,IT,Google Ads,Search,119,1.0,1.3,1.3,1.0,0.0
+2026-01-01,C001,NL,Google Ads,Search,104,1.0,1.4,1.4,1.0,1.0
+2026-01-01,C002,ES,Google Ads,Search,83,1.0,1.03,1.03,1.0,0.0
+2026-01-01,C005,ES,Meta Ads,Instagram,64,1.0,0.6,0.6,0.0,0.0
+2026-01-01,C005,IT,Meta Ads,Instagram,166,1.0,0.75,0.75,1.0,0.0
+2026-01-01,C008,IT,Meta Ads,Facebook,148,1.0,0.69,0.69,1.0,0.0
+2026-01-01,C009,DE,LinkedIn Ads,Sponsored Content,260,1.0,2.01,2.01,1.0,0.0
+2026-01-01,C010,DE,LinkedIn Ads,Sponsored Content,82,1.0,2.96,2.96,1.0,0.0
+2026-01-02,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-02,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-02,C003,IT,Google Ads,Display,68,1.0,0.87,0.87,1.0,0.0
+2026-01-02,C004,FR,Google Ads,Display,0,0.0,0.0,1.03,0.0,1.0
+2026-01-02,C005,ES,Meta Ads,Instagram,155,2.0,1.68,0.84,1.0,0.0
+2026-01-02,C006,ES,Meta Ads,Instagram,93,1.0,0.89,0.89,1.0,0.0
+2026-01-02,C007,IT,Meta Ads,Facebook,68,1.0,0.57,0.57,1.0,0.0
+2026-01-02,C009,PL,LinkedIn Ads,Sponsored Content,72,1.0,2.66,2.66,1.0,0.0
+2026-01-02,C010,FR,LinkedIn Ads,Sponsored Content,108,1.0,2.82,2.82,1.0,0.0
+2026-01-02,C011,ES,Reddit Ads,Interest,88,1.0,1.14,1.14,1.0,0.0
+2026-01-02,C011,FR,Reddit Ads,Interest,62,1.0,0.83,0.83,1.0,0.0
+2026-01-03,C001,DE,Google Ads,Search,0,0.0,0.0,1.11,0.0,1.0
+2026-01-03,C001,FR,Google Ads,Search,156,1.0,1.48,1.48,1.0,0.0
+2026-01-03,C002,DE,Google Ads,Search,68,1.0,1.13,1.13,1.0,0.0
+2026-01-03,C002,ES,Google Ads,Search,131,1.0,1.33,1.33,1.0,0.0
+2026-01-03,C002,FR,Google Ads,Search,0,0.0,0.0,0.93,0.0,1.0
+2026-01-03,C002,PL,Google Ads,Search,62,1.0,1.17,1.17,1.0,0.0
+2026-01-03,C003,FR,Google Ads,Display,76,1.0,0.9,0.9,1.0,0.0
+2026-01-03,C005,DE,Meta Ads,Instagram,79,1.0,0.59,0.59,1.0,0.0
+2026-01-03,C005,PL,Meta Ads,Instagram,90,1.0,0.79,0.79,1.0,0.0
+2026-01-03,C006,IT,Meta Ads,Instagram,68,1.0,0.69,0.69,1.0,0.0
+2026-01-03,C009,IT,LinkedIn Ads,Sponsored Content,95,1.0,2.67,2.67,1.0,0.0
+2026-01-03,C011,FR,Reddit Ads,Interest,77,1.0,0.8,0.8,1.0,0.0
+2026-01-04,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-04,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-04,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-04,C001,DE,Google Ads,Search,138,1.0,1.16,1.16,1.0,0.0
+2026-01-04,C001,IT,Google Ads,Search,129,1.0,1.25,1.25,1.0,0.0
+2026-01-04,C002,DE,Google Ads,Search,213,1.0,1.38,1.38,1.0,0.0
+2026-01-04,C003,FR,Google Ads,Display,67,1.0,0.73,0.73,1.0,0.0
+2026-01-04,C003,IT,Google Ads,Display,0,0.0,0.0,1.05,0.0,1.0
+2026-01-04,C004,IT,Google Ads,Display,56,1.0,1.23,1.23,1.0,0.0
+2026-01-04,C006,FR,Meta Ads,Instagram,182,1.0,0.69,0.69,1.0,0.0
+2026-01-04,C006,PL,Meta Ads,Instagram,67,1.0,0.74,0.74,1.0,0.0
+2026-01-04,C011,IT,Reddit Ads,Interest,57,1.0,0.94,0.94,1.0,0.0
+2026-01-05,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-05,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2026-01-05,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-05,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,1.0
+2026-01-05,C003,FR,Google Ads,Display,129,1.0,1.15,1.15,1.0,0.0
+2026-01-05,C004,DE,Google Ads,Display,78,1.0,1.11,1.11,1.0,0.0
+2026-01-05,C005,DE,Meta Ads,Instagram,0,0.0,0.0,0.67,0.0,1.0
+2026-01-05,C005,ES,Meta Ads,Instagram,71,1.0,0.82,0.82,1.0,0.0
+2026-01-05,C005,NL,Meta Ads,Instagram,0,0.0,0.0,0.62,0.0,1.0
+2026-01-05,C006,DE,Meta Ads,Instagram,113,1.0,0.69,0.69,1.0,0.0
+2026-01-05,C009,IT,LinkedIn Ads,Sponsored Content,0,0.0,0.0,2.88,0.0,1.0
+2026-01-05,C010,DE,LinkedIn Ads,Sponsored Content,296,1.0,3.46,3.46,1.0,0.0
+2026-01-06,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-06,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-06,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-06,C001,IT,Google Ads,Search,72,1.0,1.15,1.15,1.0,0.0
+2026-01-06,C001,NL,Google Ads,Search,98,1.0,1.37,1.37,1.0,0.0
+2026-01-06,C002,DE,Google Ads,Search,130,1.0,1.42,1.42,0.0,0.0
+2026-01-06,C002,ES,Google Ads,Search,102,1.0,1.19,1.19,1.0,0.0
+2026-01-06,C002,PL,Google Ads,Search,61,1.0,1.16,1.16,1.0,0.0
+2026-01-06,C005,DE,Meta Ads,Instagram,69,1.0,0.67,0.67,1.0,0.0
+2026-01-06,C005,FR,Meta Ads,Instagram,87,1.0,0.67,0.67,1.0,0.0
+2026-01-06,C006,FR,Meta Ads,Instagram,69,1.0,0.79,0.79,1.0,0.0
+2026-01-06,C006,PL,Meta Ads,Instagram,136,1.0,0.72,0.72,1.0,0.0
+2026-01-06,C008,DE,Meta Ads,Facebook,82,1.0,0.72,0.72,1.0,0.0
+2026-01-06,C011,ES,Reddit Ads,Interest,79,1.0,0.75,0.75,1.0,0.0
+2026-01-07,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-07,C001,NL,Google Ads,Search,73,1.0,1.03,1.03,1.0,0.0
+2026-01-07,C002,DE,Google Ads,Search,563,5.0,7.95,1.59,1.0,0.0
+2026-01-07,C004,PL,Google Ads,Display,71,1.0,1.17,1.17,1.0,0.0
+2026-01-07,C008,ES,Meta Ads,Facebook,70,1.0,0.62,0.62,1.0,0.0
+2026-01-07,C009,DE,LinkedIn Ads,Sponsored Content,333,1.0,3.4,3.4,1.0,0.0
+2026-01-07,C009,FR,LinkedIn Ads,Sponsored Content,60,1.0,2.92,2.92,1.0,0.0
+2026-01-07,C009,IT,LinkedIn Ads,Sponsored Content,0,0.0,0.0,3.04,0.0,1.0
+2026-01-07,C009,PL,LinkedIn Ads,Sponsored Content,105,1.0,2.74,2.74,1.0,0.0
+2026-01-07,C010,PL,LinkedIn Ads,Sponsored Content,62,1.0,2.67,2.67,1.0,0.0
+2026-01-07,C011,ES,Reddit Ads,Interest,0,0.0,0.0,0.88,0.0,1.0
+2026-01-07,C011,FR,Reddit Ads,Interest,163,1.0,0.71,0.71,1.0,0.0
+2026-01-08,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-08,C001,ES,Google Ads,Search,62,1.0,1.18,1.18,1.0,0.0
+2026-01-08,C001,NL,Google Ads,Search,232,1.0,1.25,1.25,1.0,0.0
+2026-01-08,C002,ES,Google Ads,Search,0,0.0,0.0,1.53,0.0,1.0
+2026-01-08,C003,DE,Google Ads,Display,85,1.0,1.22,1.22,1.0,0.0
+2026-01-08,C004,FR,Google Ads,Display,138,1.0,0.78,0.78,1.0,0.0
+2026-01-08,C005,NL,Meta Ads,Instagram,103,1.0,0.69,0.69,1.0,0.0
+2026-01-08,C006,NL,Meta Ads,Instagram,126,1.0,0.99,0.99,1.0,0.0
+2026-01-08,C006,PL,Meta Ads,Instagram,65,1.0,0.79,0.79,1.0,0.0
+2026-01-08,C009,ES,LinkedIn Ads,Sponsored Content,67,1.0,2.46,2.46,1.0,0.0
+2026-01-08,C011,DE,Reddit Ads,Interest,195,1.0,0.98,0.98,1.0,0.0
+2026-01-09,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-09,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2026-01-09,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-09,C002,PL,Google Ads,Search,152,1.0,1.07,1.07,1.0,0.0
+2026-01-09,C003,PL,Google Ads,Display,54,1.0,0.96,0.96,1.0,0.0
+2026-01-09,C006,DE,Meta Ads,Instagram,84,1.0,0.66,0.66,1.0,0.0
+2026-01-09,C006,FR,Meta Ads,Instagram,136,1.0,0.71,0.71,1.0,0.0
+2026-01-09,C007,PL,Meta Ads,Facebook,108,1.0,0.5,0.5,1.0,0.0
+2026-01-09,C009,FR,LinkedIn Ads,Sponsored Content,114,1.0,2.32,2.32,1.0,0.0
+2026-01-09,C012,PL,Reddit Ads,Interest,145,1.0,0.9,0.9,1.0,0.0
+2026-01-10,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-10,C001,DE,Google Ads,Search,141,1.0,1.13,1.13,1.0,0.0
+2026-01-10,C001,FR,Google Ads,Search,0,0.0,0.0,1.27,0.0,1.0
+2026-01-10,C002,DE,Google Ads,Search,95,1.0,0.98,0.98,1.0,0.0
+2026-01-10,C002,FR,Google Ads,Search,209,1.0,1.33,1.33,1.0,0.0
+2026-01-10,C003,DE,Google Ads,Display,111,1.0,0.99,0.99,1.0,0.0
+2026-01-10,C005,PL,Meta Ads,Instagram,120,1.0,0.87,0.87,1.0,0.0
+2026-01-10,C007,IT,Meta Ads,Facebook,117,1.0,0.52,0.52,1.0,0.0
+2026-01-10,C008,ES,Meta Ads,Facebook,50,1.0,0.59,0.59,1.0,0.0
+2026-01-10,C012,DE,Reddit Ads,Interest,82,1.0,0.96,0.96,1.0,0.0
+2026-01-11,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-11,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-11,C001,DE,Google Ads,Search,107,1.0,1.5,1.5,1.0,0.0
+2026-01-11,C001,IT,Google Ads,Search,78,1.0,1.26,1.26,1.0,0.0
+2026-01-11,C002,ES,Google Ads,Search,127,1.0,1.3,1.3,1.0,0.0
+2026-01-11,C002,FR,Google Ads,Search,64,1.0,1.2,1.2,1.0,0.0
+2026-01-11,C005,FR,Meta Ads,Instagram,139,1.0,0.59,0.59,1.0,0.0
+2026-01-11,C006,IT,Meta Ads,Instagram,92,1.0,0.65,0.65,1.0,0.0
+2026-01-11,C006,NL,Meta Ads,Instagram,104,1.0,0.57,0.57,1.0,0.0
+2026-01-11,C006,PL,Meta Ads,Instagram,79,1.0,0.57,0.57,1.0,0.0
+2026-01-11,C008,FR,Meta Ads,Facebook,106,1.0,0.74,0.74,0.0,0.0
+2026-01-11,C012,DE,Reddit Ads,Interest,92,1.0,0.75,0.75,1.0,0.0
+2026-01-12,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2026-01-12,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-12,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-12,C002,ES,Google Ads,Search,77,1.0,1.26,1.26,1.0,0.0
+2026-01-12,C002,NL,Google Ads,Search,86,1.0,0.97,0.97,1.0,0.0
+2026-01-12,C005,PL,Meta Ads,Instagram,97,1.0,0.73,0.73,1.0,0.0
+2026-01-12,C006,ES,Meta Ads,Instagram,66,1.0,0.65,0.65,1.0,0.0
+2026-01-12,C008,DE,Meta Ads,Facebook,0,0.0,0.0,0.85,0.0,1.0
+2026-01-12,C008,FR,Meta Ads,Facebook,464,5.0,3.65,0.73,1.0,0.0
+2026-01-12,C008,IT,Meta Ads,Facebook,161,2.0,1.66,0.83,2.0,0.0
+2026-01-13,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2026-01-13,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-13,C001,DE,Google Ads,Search,66,1.0,1.06,1.06,1.0,0.0
+2026-01-13,C002,ES,Google Ads,Search,226,1.0,1.21,1.21,1.0,0.0
+2026-01-13,C002,NL,Google Ads,Search,78,1.0,1.02,1.02,1.0,0.0
+2026-01-13,C005,PL,Meta Ads,Instagram,55,1.0,0.66,0.66,1.0,0.0
+2026-01-13,C006,PL,Meta Ads,Instagram,72,1.0,0.67,0.67,0.0,0.0
+2026-01-13,C007,DE,Meta Ads,Facebook,79,1.0,0.62,0.62,0.0,0.0
+2026-01-13,C007,ES,Meta Ads,Facebook,102,1.0,0.57,0.57,1.0,0.0
+2026-01-13,C007,NL,Meta Ads,Facebook,82,1.0,0.55,0.55,1.0,0.0
+2026-01-13,C007,PL,Meta Ads,Facebook,91,1.0,0.45,0.45,1.0,0.0
+2026-01-13,C009,FR,LinkedIn Ads,Sponsored Content,113,1.0,2.36,2.36,1.0,0.0
+2026-01-13,C011,NL,Reddit Ads,Interest,92,1.0,0.98,0.98,1.0,0.0
+2026-01-14,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2026-01-14,C002,FR,Google Ads,Search,112,1.0,0.91,0.91,1.0,0.0
+2026-01-14,C002,PL,Google Ads,Search,114,1.0,0.95,0.95,1.0,0.0
+2026-01-14,C004,DE,Google Ads,Display,152,1.0,1.52,1.52,1.0,0.0
+2026-01-14,C004,ES,Google Ads,Display,74,1.0,1.09,1.09,1.0,0.0
+2026-01-14,C004,FR,Google Ads,Display,71,1.0,1.26,1.26,1.0,0.0
+2026-01-14,C006,DE,Meta Ads,Instagram,77,1.0,0.77,0.77,1.0,0.0
+2026-01-14,C006,PL,Meta Ads,Instagram,126,2.0,1.54,0.77,1.0,0.0
+2026-01-14,C007,DE,Meta Ads,Facebook,162,2.0,1.08,0.54,1.0,0.0
+2026-01-14,C008,FR,Meta Ads,Facebook,147,2.0,1.36,0.68,2.0,0.0
+2026-01-14,C008,IT,Meta Ads,Facebook,76,1.0,0.53,0.53,1.0,0.0
+2026-01-14,C009,ES,LinkedIn Ads,Sponsored Content,86,1.0,3.83,3.83,1.0,0.0
+2026-01-14,C011,FR,Reddit Ads,Interest,101,1.0,0.68,0.68,1.0,0.0
+2026-01-14,C012,DE,Reddit Ads,Interest,48,1.0,0.76,0.76,1.0,0.0
+2026-01-14,C012,FR,Reddit Ads,Interest,196,2.0,1.52,0.76,1.0,0.0
+2026-01-14,C012,PL,Reddit Ads,Interest,107,1.0,0.7,0.7,1.0,0.0
+2026-01-15,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2026-01-15,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-15,C001,ES,Google Ads,Search,157,1.0,1.44,1.44,0.0,0.0
+2026-01-15,C001,FR,Google Ads,Search,61,1.0,1.64,1.64,1.0,0.0
+2026-01-15,C001,IT,Google Ads,Search,86,1.0,1.11,1.11,1.0,0.0
+2026-01-15,C002,IT,Google Ads,Search,132,1.0,0.96,0.96,1.0,0.0
+2026-01-15,C006,DE,Meta Ads,Instagram,60,1.0,0.47,0.47,1.0,0.0
+2026-01-15,C011,PL,Reddit Ads,Interest,69,1.0,0.87,0.87,1.0,0.0
+2026-01-15,C012,FR,Reddit Ads,Interest,288,2.0,1.72,0.86,1.0,0.0
+2026-01-16,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-16,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-16,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2026-01-16,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-16,C001,ES,Google Ads,Search,396,5.0,5.4,1.08,1.0,0.0
+2026-01-16,C001,NL,Google Ads,Search,84,1.0,1.24,1.24,1.0,0.0
+2026-01-16,C002,PL,Google Ads,Search,0,0.0,0.0,1.27,0.0,1.0
+2026-01-16,C003,IT,Google Ads,Display,70,1.0,1.26,1.26,1.0,0.0
+2026-01-16,C005,DE,Meta Ads,Instagram,72,1.0,0.67,0.67,1.0,0.0
+2026-01-16,C005,FR,Meta Ads,Instagram,83,1.0,0.58,0.58,1.0,0.0
+2026-01-16,C006,DE,Meta Ads,Instagram,113,1.0,0.77,0.77,1.0,0.0
+2026-01-16,C006,ES,Meta Ads,Instagram,80,1.0,0.7,0.7,1.0,0.0
+2026-01-17,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-17,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-17,C001,DE,Google Ads,Search,327,2.0,2.72,1.36,2.0,0.0
+2026-01-17,C002,DE,Google Ads,Search,70,1.0,1.34,1.34,1.0,0.0
+2026-01-17,C006,FR,Meta Ads,Instagram,333,1.0,0.55,0.55,1.0,0.0
+2026-01-17,C006,PL,Meta Ads,Instagram,78,1.0,0.55,0.55,1.0,0.0
+2026-01-17,C007,DE,Meta Ads,Facebook,99,1.0,0.62,0.62,1.0,0.0
+2026-01-17,C007,NL,Meta Ads,Facebook,58,1.0,0.59,0.59,1.0,0.0
+2026-01-17,C007,PL,Meta Ads,Facebook,100,1.0,0.78,0.78,1.0,0.0
+2026-01-17,C010,DE,LinkedIn Ads,Sponsored Content,68,1.0,2.95,2.95,1.0,0.0
+2026-01-18,C001,PL,Google Ads,Search,96,1.0,1.4,1.4,1.0,0.0
+2026-01-18,C003,FR,Google Ads,Display,0,0.0,0.0,1.27,0.0,1.0
+2026-01-18,C004,ES,Google Ads,Display,67,1.0,1.24,1.24,1.0,0.0
+2026-01-18,C005,DE,Meta Ads,Instagram,99,1.0,0.83,0.83,1.0,0.0
+2026-01-18,C005,FR,Meta Ads,Instagram,63,1.0,0.75,0.75,1.0,0.0
+2026-01-18,C005,IT,Meta Ads,Instagram,125,1.0,0.71,0.71,1.0,0.0
+2026-01-19,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-19,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-19,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-19,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2026-01-19,C001,NL,Google Ads,Search,112,1.0,1.47,1.47,1.0,0.0
+2026-01-19,C002,DE,Google Ads,Search,154,1.0,1.22,1.22,1.0,0.0
+2026-01-19,C005,FR,Meta Ads,Instagram,125,1.0,0.67,0.67,1.0,0.0
+2026-01-19,C006,PL,Meta Ads,Instagram,137,2.0,1.22,0.61,2.0,0.0
+2026-01-19,C008,DE,Meta Ads,Facebook,71,1.0,0.77,0.77,0.0,0.0
+2026-01-19,C008,ES,Meta Ads,Facebook,81,1.0,0.83,0.83,1.0,0.0
+2026-01-19,C009,ES,LinkedIn Ads,Sponsored Content,133,1.0,2.78,2.78,1.0,0.0
+2026-01-19,C010,FR,LinkedIn Ads,Sponsored Content,66,1.0,3.35,3.35,1.0,0.0
+2026-01-19,C010,PL,LinkedIn Ads,Sponsored Content,141,1.0,1.97,1.97,0.0,0.0
+2026-01-20,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2026-01-20,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-20,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-20,C001,IT,Google Ads,Search,70,1.0,1.19,1.19,1.0,0.0
+2026-01-20,C002,DE,Google Ads,Search,100,1.0,1.19,1.19,1.0,0.0
+2026-01-20,C006,DE,Meta Ads,Instagram,210,1.0,0.62,0.62,1.0,0.0
+2026-01-20,C008,DE,Meta Ads,Facebook,313,3.0,2.85,0.95,1.0,0.0
+2026-01-20,C009,IT,LinkedIn Ads,Sponsored Content,131,1.0,2.77,2.77,1.0,0.0
+2026-01-20,C009,PL,LinkedIn Ads,Sponsored Content,0,0.0,0.0,2.63,0.0,1.0
+2026-01-20,C010,PL,LinkedIn Ads,Sponsored Content,212,4.0,11.24,2.81,1.0,0.0
+2026-01-20,C011,FR,Reddit Ads,Interest,76,1.0,0.63,0.63,1.0,0.0
+2026-01-20,C011,IT,Reddit Ads,Interest,74,1.0,0.8,0.8,1.0,0.0
+2026-01-21,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-21,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2026-01-21,C001,FR,Google Ads,Search,63,1.0,1.38,1.38,1.0,0.0
+2026-01-21,C002,FR,Google Ads,Search,84,1.0,1.09,1.09,1.0,0.0
+2026-01-21,C002,NL,Google Ads,Search,71,1.0,1.05,1.05,1.0,0.0
+2026-01-21,C002,PL,Google Ads,Search,89,1.0,1.44,1.44,1.0,0.0
+2026-01-21,C004,FR,Google Ads,Display,94,1.0,1.44,1.44,1.0,0.0
+2026-01-21,C006,FR,Meta Ads,Instagram,157,1.0,0.75,0.75,1.0,0.0
+2026-01-21,C006,IT,Meta Ads,Instagram,245,1.0,0.65,0.65,1.0,0.0
+2026-01-21,C006,NL,Meta Ads,Instagram,91,1.0,0.67,0.67,0.0,0.0
+2026-01-21,C006,PL,Meta Ads,Instagram,82,1.0,0.62,0.62,1.0,0.0
+2026-01-21,C007,DE,Meta Ads,Facebook,146,1.0,0.6,0.6,1.0,0.0
+2026-01-21,C007,ES,Meta Ads,Facebook,84,1.0,0.59,0.59,1.0,0.0
+2026-01-21,C007,NL,Meta Ads,Facebook,0,0.0,0.0,0.64,0.0,1.0
+2026-01-21,C008,PL,Meta Ads,Facebook,296,1.0,0.59,0.59,1.0,0.0
+2026-01-21,C010,NL,LinkedIn Ads,Sponsored Content,120,1.0,2.14,2.14,1.0,0.0
+2026-01-21,C012,DE,Reddit Ads,Interest,73,1.0,0.93,0.93,1.0,0.0
+2026-01-22,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-22,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-22,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-22,C002,FR,Google Ads,Search,62,1.0,1.24,1.24,1.0,0.0
+2026-01-22,C002,IT,Google Ads,Search,66,1.0,1.51,1.51,1.0,0.0
+2026-01-22,C002,NL,Google Ads,Search,86,1.0,1.08,1.08,1.0,0.0
+2026-01-22,C003,DE,Google Ads,Display,99,1.0,1.25,1.25,1.0,0.0
+2026-01-22,C003,IT,Google Ads,Display,105,1.0,1.26,1.26,1.0,0.0
+2026-01-22,C003,NL,Google Ads,Display,72,1.0,1.15,1.15,1.0,0.0
+2026-01-22,C005,DE,Meta Ads,Instagram,78,1.0,0.78,0.78,1.0,0.0
+2026-01-22,C005,ES,Meta Ads,Instagram,69,1.0,0.78,0.78,1.0,0.0
+2026-01-22,C006,IT,Meta Ads,Instagram,80,1.0,0.73,0.73,1.0,0.0
+2026-01-22,C006,NL,Meta Ads,Instagram,262,4.0,2.68,0.67,1.0,0.0
+2026-01-22,C007,FR,Meta Ads,Facebook,81,1.0,0.66,0.66,1.0,0.0
+2026-01-22,C007,PL,Meta Ads,Facebook,66,1.0,0.56,0.56,1.0,0.0
+2026-01-22,C011,ES,Reddit Ads,Interest,65,1.0,0.79,0.79,1.0,0.0
+2026-01-22,C012,DE,Reddit Ads,Interest,114,1.0,0.82,0.82,1.0,0.0
+2026-01-23,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-23,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-23,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2026-01-23,C001,PL,Google Ads,Search,194,1.0,1.0,1.0,1.0,0.0
+2026-01-23,C002,ES,Google Ads,Search,109,1.0,1.28,1.28,1.0,0.0
+2026-01-23,C002,IT,Google Ads,Search,66,1.0,1.42,1.42,1.0,0.0
+2026-01-23,C004,ES,Google Ads,Display,92,1.0,1.04,1.04,1.0,0.0
+2026-01-23,C006,ES,Meta Ads,Instagram,0,0.0,0.0,0.73,0.0,1.0
+2026-01-23,C007,DE,Meta Ads,Facebook,114,2.0,1.18,0.59,2.0,0.0
+2026-01-23,C009,ES,LinkedIn Ads,Sponsored Content,128,1.0,2.67,2.67,1.0,0.0
+2026-01-23,C012,FR,Reddit Ads,Interest,0,0.0,0.0,0.81,0.0,1.0
+2026-01-24,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-24,C002,ES,Google Ads,Search,0,0.0,0.0,1.31,0.0,1.0
+2026-01-24,C002,FR,Google Ads,Search,72,1.0,1.08,1.08,1.0,0.0
+2026-01-24,C003,DE,Google Ads,Display,64,1.0,1.38,1.38,1.0,0.0
+2026-01-24,C005,FR,Meta Ads,Instagram,78,1.0,0.67,0.67,1.0,0.0
+2026-01-24,C006,DE,Meta Ads,Instagram,143,2.0,1.26,0.63,2.0,0.0
+2026-01-24,C006,PL,Meta Ads,Instagram,91,1.0,0.57,0.57,1.0,0.0
+2026-01-24,C007,ES,Meta Ads,Facebook,163,2.0,1.46,0.73,2.0,0.0
+2026-01-24,C007,FR,Meta Ads,Facebook,161,2.0,1.58,0.79,2.0,0.0
+2026-01-24,C008,DE,Meta Ads,Facebook,78,1.0,0.73,0.73,1.0,0.0
+2026-01-24,C010,DE,LinkedIn Ads,Sponsored Content,66,1.0,3.74,3.74,1.0,0.0
+2026-01-24,C010,ES,LinkedIn Ads,Sponsored Content,70,1.0,3.4,3.4,1.0,0.0
+2026-01-24,C011,PL,Reddit Ads,Interest,82,1.0,0.86,0.86,1.0,0.0
+2026-01-25,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2026-01-25,C001,DE,Google Ads,Search,244,3.0,3.42,1.14,3.0,0.0
+2026-01-25,C001,FR,Google Ads,Search,84,1.0,1.28,1.28,1.0,0.0
+2026-01-25,C002,FR,Google Ads,Search,78,1.0,1.05,1.05,1.0,0.0
+2026-01-25,C002,IT,Google Ads,Search,48,1.0,1.41,1.41,1.0,0.0
+2026-01-25,C002,PL,Google Ads,Search,101,1.0,1.27,1.27,1.0,0.0
+2026-01-25,C004,FR,Google Ads,Display,73,1.0,1.25,1.25,1.0,0.0
+2026-01-25,C004,NL,Google Ads,Display,61,1.0,1.32,1.32,1.0,0.0
+2026-01-25,C007,FR,Meta Ads,Facebook,81,1.0,0.88,0.88,1.0,0.0
+2026-01-25,C007,IT,Meta Ads,Facebook,47,1.0,0.72,0.72,1.0,0.0
+2026-01-25,C011,DE,Reddit Ads,Interest,95,1.0,0.88,0.88,1.0,0.0
+2026-01-25,C011,FR,Reddit Ads,Interest,75,1.0,1.1,1.1,1.0,0.0
+2026-01-26,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-26,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-26,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2026-01-26,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-26,C001,PL,Google Ads,Search,75,1.0,1.37,1.37,1.0,0.0
+2026-01-26,C002,ES,Google Ads,Search,59,1.0,1.14,1.14,1.0,0.0
+2026-01-26,C002,PL,Google Ads,Search,86,1.0,1.2,1.2,1.0,1.0
+2026-01-26,C008,FR,Meta Ads,Facebook,94,1.0,0.72,0.72,1.0,0.0
+2026-01-26,C011,DE,Reddit Ads,Interest,44,1.0,0.95,0.95,1.0,0.0
+2026-01-26,C012,DE,Reddit Ads,Interest,74,1.0,0.72,0.72,1.0,0.0
+2026-01-26,C012,NL,Reddit Ads,Interest,110,1.0,0.69,0.69,1.0,0.0
+2026-01-27,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-27,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-27,C002,IT,Google Ads,Search,64,1.0,1.04,1.04,1.0,0.0
+2026-01-27,C003,IT,Google Ads,Display,95,1.0,1.03,1.03,1.0,0.0
+2026-01-27,C005,IT,Meta Ads,Instagram,80,1.0,0.63,0.63,1.0,0.0
+2026-01-27,C009,ES,LinkedIn Ads,Sponsored Content,85,1.0,3.07,3.07,1.0,0.0
+2026-01-28,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2026-01-28,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-28,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-28,C001,IT,Google Ads,Search,78,1.0,1.17,1.17,1.0,0.0
+2026-01-28,C001,PL,Google Ads,Search,69,1.0,1.24,1.24,1.0,0.0
+2026-01-28,C002,ES,Google Ads,Search,75,1.0,0.98,0.98,1.0,0.0
+2026-01-28,C002,NL,Google Ads,Search,228,2.0,2.24,1.12,2.0,0.0
+2026-01-28,C003,PL,Google Ads,Display,68,1.0,1.31,1.31,1.0,0.0
+2026-01-28,C004,DE,Google Ads,Display,111,1.0,1.31,1.31,1.0,0.0
+2026-01-28,C005,FR,Meta Ads,Instagram,101,1.0,0.62,0.62,1.0,0.0
+2026-01-28,C005,NL,Meta Ads,Instagram,122,1.0,0.72,0.72,1.0,0.0
+2026-01-28,C005,PL,Meta Ads,Instagram,58,1.0,0.93,0.93,1.0,0.0
+2026-01-28,C006,FR,Meta Ads,Instagram,69,1.0,0.7,0.7,1.0,0.0
+2026-01-28,C006,IT,Meta Ads,Instagram,69,1.0,0.63,0.63,1.0,0.0
+2026-01-28,C008,DE,Meta Ads,Facebook,118,2.0,1.36,0.68,2.0,0.0
+2026-01-28,C008,ES,Meta Ads,Facebook,43,1.0,0.71,0.71,1.0,0.0
+2026-01-28,C008,FR,Meta Ads,Facebook,0,0.0,0.0,0.68,0.0,1.0
+2026-01-28,C011,DE,Reddit Ads,Interest,111,1.0,0.9,0.9,1.0,0.0
+2026-01-28,C011,NL,Reddit Ads,Interest,105,1.0,0.71,0.71,1.0,0.0
+2026-01-28,C012,DE,Reddit Ads,Interest,116,1.0,0.77,0.77,1.0,0.0
+2026-01-29,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2026-01-29,C001,FR,Google Ads,Search,0,0.0,0.0,1.17,0.0,1.0
+2026-01-29,C003,DE,Google Ads,Display,0,0.0,0.0,1.17,0.0,1.0
+2026-01-29,C003,ES,Google Ads,Display,75,1.0,1.1,1.1,1.0,0.0
+2026-01-29,C003,PL,Google Ads,Display,82,1.0,1.17,1.17,1.0,0.0
+2026-01-29,C005,IT,Meta Ads,Instagram,72,1.0,0.71,0.71,1.0,0.0
+2026-01-29,C005,PL,Meta Ads,Instagram,71,1.0,0.79,0.79,1.0,0.0
+2026-01-29,C006,ES,Meta Ads,Instagram,69,1.0,0.69,0.69,1.0,0.0
+2026-01-29,C007,PL,Meta Ads,Facebook,95,1.0,0.74,0.74,1.0,0.0
+2026-01-29,C009,FR,LinkedIn Ads,Sponsored Content,49,1.0,2.57,2.57,1.0,0.0
+2026-01-29,C011,ES,Reddit Ads,Interest,77,1.0,0.98,0.98,1.0,0.0
+2026-01-29,C011,FR,Reddit Ads,Interest,220,1.0,0.95,0.95,1.0,0.0
+2026-01-29,C011,NL,Reddit Ads,Interest,125,1.0,1.02,1.02,1.0,0.0
+2026-01-30,C000,DE,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-30,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2026-01-30,C001,DE,Google Ads,Search,87,1.0,1.33,1.33,1.0,0.0
+2026-01-30,C001,FR,Google Ads,Search,99,1.0,1.31,1.31,1.0,0.0
+2026-01-30,C001,NL,Google Ads,Search,50,1.0,1.18,1.18,1.0,0.0
+2026-01-30,C002,IT,Google Ads,Search,70,1.0,1.24,1.24,1.0,0.0
+2026-01-30,C003,PL,Google Ads,Display,67,1.0,1.39,1.39,1.0,0.0
+2026-01-30,C005,DE,Meta Ads,Instagram,121,1.0,0.63,0.63,1.0,0.0
+2026-01-30,C005,FR,Meta Ads,Instagram,250,2.0,1.26,0.63,2.0,0.0
+2026-01-30,C006,DE,Meta Ads,Instagram,0,0.0,0.0,0.72,0.0,1.0
+2026-01-30,C006,FR,Meta Ads,Instagram,79,1.0,0.74,0.74,1.0,0.0
+2026-01-30,C010,IT,LinkedIn Ads,Sponsored Content,219,1.0,2.45,2.45,1.0,0.0
+2026-01-31,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-31,C000,IT,Organic,Direct/SEO,0,0.0,0.0,0.0,1.0,0.0
+2026-01-31,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,2.0,0.0
+2026-01-31,C000,PL,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2026-01-31,C001,DE,Google Ads,Search,102,1.0,1.19,1.19,1.0,0.0
+2026-01-31,C001,FR,Google Ads,Search,0,0.0,0.0,1.18,0.0,1.0
+2026-01-31,C001,NL,Google Ads,Search,81,1.0,0.8,0.8,1.0,0.0
+2026-01-31,C002,NL,Google Ads,Search,69,1.0,1.16,1.16,1.0,0.0
+2026-01-31,C002,PL,Google Ads,Search,61,1.0,1.17,1.17,1.0,0.0
+2026-01-31,C005,DE,Meta Ads,Instagram,185,2.0,1.36,0.68,2.0,1.0
+2026-01-31,C005,FR,Meta Ads,Instagram,98,1.0,0.85,0.85,1.0,0.0
+2026-01-31,C005,IT,Meta Ads,Instagram,73,1.0,0.57,0.57,1.0,0.0
+2026-01-31,C006,PL,Meta Ads,Instagram,69,1.0,0.61,0.61,1.0,0.0
+2026-01-31,C008,DE,Meta Ads,Facebook,97,1.0,0.43,0.43,1.0,1.0
+2026-01-31,C008,NL,Meta Ads,Facebook,66,1.0,0.65,0.65,1.0,0.0
+2026-01-31,C011,PL,Reddit Ads,Interest,63,1.0,0.85,0.85,1.0,0.0
+2026-02-03,C000,FR,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2026-02-04,C006,IT,Meta Ads,Instagram,0,0.0,0.0,0.65,0.0,1.0
+2026-02-05,C004,NL,Google Ads,Display,0,0.0,0.0,1.4,0.0,1.0
+2026-02-06,C005,FR,Meta Ads,Instagram,0,0.0,0.0,0.79,0.0,1.0
+2026-02-07,C001,IT,Google Ads,Search,0,0.0,0.0,1.21,0.0,1.0
+2026-02-09,C002,FR,Google Ads,Search,0,0.0,0.0,1.13,0.0,1.0
+2026-02-11,C000,ES,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2026-02-11,C000,NL,Organic,Direct/SEO,0,0.0,0.0,0.0,0.0,1.0
+2026-02-12,C002,NL,Google Ads,Search,0,0.0,0.0,1.38,0.0,1.0
+2026-02-13,C002,IT,Google Ads,Search,0,0.0,0.0,1.2,0.0,1.0
+2026-02-22,C008,NL,Meta Ads,Facebook,0,0.0,0.0,0.61,0.0,1.0
